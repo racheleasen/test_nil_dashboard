@@ -1,0 +1,3091 @@
+company_name,n_deals,n_unique_athletes,total_nil_value,avg_nil_value,top_school,top_position
+Unknown,4173,3410,63735246.0,1991726.4375,Oklahoma,WR
+EA Sports,151,151,27574967.0,2297913.9166666665,Alabama,QB
+Barstool Sports,119,119,3035177.0,3035177.0,Michigan State,OT
+VerifiedInk,113,111,0.0,0.0,South Alabama,PF
+Cameo,108,108,0.0,0.0,Notre Dame,QB
+ONIT Athelte,95,88,3164437.0,1582218.5,Northwestern,WR
+adidas,87,84,11845855.0,2369171.0,Washington,WR
+Leaf Trading Cards,81,76,8785778.0,2196444.5,LSU,QB
+Top Tier Authentics,80,80,0.0,0.0,Georgia,WR
+Education Foundation,61,56,1600000.0,1600000.0,Florida,WR
+The Players' Lounge,58,56,6279592.0,3139796.0,Tennessee,WR
+Raising Cane's,56,54,13577277.0,2715455.4,Texas,QB
+Dunkin',56,51,0.0,0.0,Pittsburgh,PG
+Beats by Dre,55,44,20549837.0,2283315.222222222,Oregon,QB
+Powerade,52,49,11338831.0,1889805.1666666667,LSU,QB
+HEYDUDE Shoes,52,52,1882464.0,1882464.0,South Carolina,PG
+Hooters,48,47,0.0,0.0,Missouri,IOL
+Alachua Habitat for Humanity,48,44,0.0,0.0,Florida,S
+NextGenCamps,48,46,2056072.0,2056072.0,Penn State,RB
+Gordon McKernan Injury Attorneys,46,44,3214461.0,1607230.5,LSU,RB
+Nike,45,44,11629220.0,2325844.0,USC,CG
+Charlie Hustle,43,41,0.0,0.0,Kansas State,SF
+The M Den,42,24,0.0,0.0,Michigan,CB
+Food4Kids Florida,39,36,1600000.0,1600000.0,Florida,WR
+Panini America,38,37,16731754.0,3346350.8,Texas A&M,QB
+Chicago White Sox,35,27,1564090.0,1564090.0,Northwestern,SG
+Topps,35,34,0.0,0.0,Texas A&M,SG
+Stanford Children's Hospital,34,32,0.0,0.0,Stanford,WR
+The Defensive Line,34,34,0.0,0.0,Stanford,IOL
+The Athletic Collection,33,33,0.0,0.0,UCLA,QB
+Pepsi,32,31,0.0,0.0,Wisconsin,WR
+PARCA,31,30,0.0,0.0,Stanford,WR
+JLab,31,30,0.0,0.0,St. John's,SG
+CeraVe Skincare,31,30,0.0,0.0,Eastern Michigan,WR
+Urban Outfitters,30,30,0.0,0.0,UCLA,QB
+The Players Trunk,30,29,0.0,0.0,Connecticut,PG
+North Central Florida YMCA,29,29,1600000.0,1600000.0,Florida,DL
+Sprouts Farmers Market,28,27,0.0,0.0,UCLA,IF
+Ronald McDonald House of North Central Florida,28,24,0.0,0.0,Florida,IOL
+Outback Steakhouse,28,28,0.0,0.0,LSU,WR
+crocs,28,27,0.0,0.0,Utah,All
+Fans Meet Idols,27,27,0.0,0.0,Florida,All
+WWE,27,26,0.0,0.0,Arkansas,DL
+Engage,27,27,0.0,0.0,Stanford,QB
+UScellular,26,25,0.0,0.0,Maine,C
+ZIPS Car Wash,25,21,0.0,0.0,Texas,SG
+Diversified Energy,25,25,0.0,0.0,West Virginia,CB
+Morgan & Morgan,25,24,3139796.0,3139796.0,Kentucky,QB
+PSD Underwear,25,25,2015590.0,2015590.0,Arkansas,S
+Celsius,25,24,8601148.0,2150287.0,Florida Atlantic,QB
+Life Wallet,25,23,0.0,0.0,SMU,EDGE
+Chipotle,25,23,3139796.0,3139796.0,Georgia,RB
+Michigan Football Signing Event,24,24,0.0,0.0,Michigan,CB
+Hollister,24,23,9209849.0,2302462.25,Michigan,QB
+Intuit TurboTax,24,24,1500772.0,1500772.0,LSU,SG
+Taylor Gang Entertainment,24,24,0.0,0.0,Houston,WR
+Pursuit,23,23,0.0,0.0,Ohio State,OT
+Wolverine Boots,23,17,0.0,0.0,North Carolina,RB
+Under Armour,22,20,0.0,0.0,Auburn,PG
+NextName,22,20,0.0,0.0,Illinois,SF
+Los Robles Elementary,22,22,0.0,0.0,Stanford,WR
+Booth Creek Wagyu,22,20,0.0,0.0,Kansas State,IOL
+Iowa Pork Producers,21,16,0.0,0.0,Iowa State,LB
+American Eagle Outfitters,21,19,10780536.0,3593512.0,Ohio State,WR
+Freddy's Frozen Custard & Steakburgers,21,21,2381076.0,2381076.0,Tennessee,SG
+Honey Stinger,21,21,0.0,0.0,USC,WR
+North Ankeny HyVee,21,21,0.0,0.0,Iowa State,LB
+Degree Deodorant,20,20,0.0,0.0,UCLA,QB
+Reebok,20,20,0.0,0.0,Arkansas,SF
+H&R Block,20,18,0.0,0.0,Dayton,CG
+Krystal,20,20,0.0,0.0,Florida,S
+MiniJerzeys,19,19,0.0,0.0,Kansas,C
+Candy Digital,19,18,0.0,0.0,Florida State,QB
+Yerbaé,19,19,0.0,0.0,Penn State,CB
+Athletic Brewing Company,19,18,0.0,0.0,Texas,IOL
+Sonny's BBQ,19,19,0.0,0.0,Florida,IOL
+AHA Washington,19,18,0.0,0.0,Washington,WR
+JBL Audio,19,17,4502316.0,1500772.0,Texas,SG
+Fortnite,19,18,0.0,0.0,North Carolina,SG
+Side by Side Kids,19,15,0.0,0.0,Illinois,CB
+Daspit Law Firm,19,16,0.0,0.0,Houston,SG
+The NIL Store,19,19,5838977.0,1946325.6666666667,Saint Louis,C
+Miami Team Store,18,17,0.0,0.0,Miami,WR
+Bose,18,17,0.0,0.0,Vanderbilt,QB
+Little King Deli & Subs,18,18,0.0,0.0,Creighton,OH
+McDonald's,18,16,0.0,0.0,South Carolina,PG
+Ibotta,18,18,0.0,0.0,UCLA,All
+Pipeline Jerky,17,17,0.0,0.0,Nebraska,IOL
+Buffalo Wild Wings,17,17,0.0,0.0,Texas Tech,SG
+Folly Coffee,17,17,0.0,0.0,Minnesota,LB
+Dick's Sporting Goods,17,17,0.0,0.0,Indiana,SF
+Kane Footwear,17,16,0.0,0.0,Texas,CB
+My Eyelab,17,17,0.0,0.0,Houston,MB
+Dream Finders Homes,17,16,0.0,0.0,Florida,WR
+ArcAustin,17,15,0.0,0.0,Texas,EDGE
+Thousand Hills Lifetime Grazed,17,17,0.0,0.0,Minnesota,LB
+Pop Up Birthday,17,17,0.0,0.0,Texas,S
+New Balance,17,17,3594786.0,1797393.0,Notre Dame,DR
+CVS Pharmacy,17,17,0.0,0.0,NC State,CG
+Mission BBQ,17,14,0.0,0.0,Notre Dame,OT
+Seat Geek,17,16,1755032.0,1755032.0,Ohio State,LB
+Life+STYLE by Laura,16,16,0.0,0.0,Baylor,WR
+PUMA,16,16,1500772.0,1500772.0,Pepperdine,CG
+Keurig,16,16,0.0,0.0,South Carolina,SG
+Rhoback,16,16,1538802.0,1538802.0,North Carolina,QB
+Make-A-Wish Foundation of Iowa,16,16,0.0,0.0,Iowa State,S
+Accelerator Active Energy,16,16,0.0,0.0,LSU,All
+Unrivaled,16,15,3001544.0,1500772.0,LSU,CG
+PORCH Chapel Hill-Carrboro,16,15,0.0,0.0,North Carolina,LB
+Jones Medical Supply,16,12,0.0,0.0,Troy,LB
+Gatorade,16,16,2288842.0,2288842.0,Alabama,QB
+SAXX Underwear,16,16,0.0,0.0,Eastern Michigan,EDGE
+Bumble,16,16,0.0,0.0,UCLA,CG
+Jacksons Food Stores,16,14,0.0,0.0,Boise State,PF
+SWAG Family Resource Centers,15,14,0.0,0.0,Florida,EDGE
+Conagra Brands,15,14,0.0,0.0,Arkansas,SG
+Bojangles,15,15,0.0,0.0,NC State,QB
+RITZ Crackers,15,15,0.0,0.0,Florida Gulf Coast University,CG
+Conditioned Air Systems,15,14,0.0,0.0,Georgia,PF
+BB's Tex-Orleans,15,13,0.0,0.0,Houston,SG
+Haven House,15,15,0.0,0.0,Stanford,S
+Campus Ink,14,14,3201546.0,1600773.0,Louisville,QB
+Hurricanes Team Store,14,14,0.0,0.0,Miami,RB
+Gallery Furniture,14,13,0.0,0.0,Houston,SG
+The Peabody Memphis,14,14,0.0,0.0,Memphis,PF
+Athlete's Thread,14,11,0.0,0.0,Oklahoma,QB
+Stanford Medicine Summer Scamper,14,14,0.0,0.0,Stanford,WR
+Lulus,14,14,0.0,0.0,Louisville,IF
+The Family Place,14,14,0.0,0.0,Utah State,WR
+Basepath,14,14,0.0,0.0,Michigan State,PG
+Nerf,14,14,0.0,0.0,Central Oklahoma,SG
+Elk + Elk,14,13,0.0,0.0,Ohio State,SG
+Fanatics,14,13,4302142.0,4302142.0,BYU,QB
+Versiti Blood Center of Indiana,13,12,1882464.0,1882464.0,Purdue,SF
+Wilson Cadillac,13,13,0.0,0.0,Oklahoma State,PF
+Hungry Howie's,13,12,0.0,0.0,Michigan State,IOL
+Daps,13,12,0.0,0.0,Dayton,PG
+Nyle Maxwell Family of Dealerships,13,13,0.0,0.0,Texas,CG
+A Kid Again,13,11,1564090.0,1564090.0,Ohio State,DL
+Express,13,12,0.0,0.0,Ohio State,SG
+C4 Energy,13,13,0.0,0.0,USC,RB
+Vanguard Volkswagen,13,13,0.0,0.0,Texas,WR
+C.W. URBAN,13,12,0.0,0.0,Utah,All
+Troy Bank & Trust,13,12,0.0,0.0,Troy,QB
+Austin YMCA,13,13,0.0,0.0,Texas,S
+Skims,13,13,0.0,0.0,North Carolina,SG
+Red Rock Pharmacy,13,13,0.0,0.0,Utah,VT
+Bleeding Blue For Good Blood Drive,13,13,0.0,0.0,Connecticut,WR
+RAYGUN,12,12,0.0,0.0,Iowa State,SF
+Apex Entertainment,12,11,0.0,0.0,Syracuse,SF
+Meta,12,12,1500772.0,1500772.0,Louisville,CG
+West Shore Home,12,11,0.0,0.0,Penn State,DL
+Moolah Kicks,12,12,0.0,0.0,Alabama A&M,CG
+HighlightHER,12,12,1500772.0,1500772.0,South Carolina,SF
+Austin Public Library,12,12,0.0,0.0,Auburn,DL
+Sporting Kansas City,12,7,0.0,0.0,Missouri,MF
+Cheez-It,12,12,4303607.0,2151803.5,Illinois,QB
+Next Gen Camps,12,12,0.0,0.0,Wisconsin,RB
+Our Shared Kitchen,12,11,0.0,0.0,Texas,DL
+The Verb Kind,12,12,0.0,0.0,Florida,EDGE
+St. Francis House,12,12,0.0,0.0,Florida,S
+Eastern Illinois Foodbank,12,10,0.0,0.0,Illinois,EDGE
+Assurance Financial,12,11,0.0,0.0,Troy,DL
+eFuse,12,12,0.0,0.0,,WR
+My Gameday Shop ,12,12,0.0,0.0,Georgia Tech,OT
+SAFE,12,12,0.0,0.0,Texas,CB
+Oxford Orthopaedics,12,12,0.0,0.0,Ole Miss,SG
+Hawk Talk,12,12,0.0,0.0,Kansas,SG
+Great Clips,12,12,0.0,0.0,Kansas State,QB
+Sammy's Buddy Program,12,12,0.0,0.0,Utah,WR
+Every True Tiger Brands,12,12,0.0,0.0,Missouri,IOL
+T-Mobile,12,12,2589918.0,2589918.0,South Carolina,QB
+Defense Drinks,11,11,0.0,0.0,BYU,DL
+The Dairy Alliance,11,11,3139796.0,3139796.0,South Carolina,QB
+Champs Sports,11,11,0.0,0.0,Austin Peay,CG
+BeONESports,11,11,0.0,0.0,Kansas,C
+Playa Bowls,11,11,0.0,0.0,Ohio State,SG
+Tronus,11,11,0.0,0.0,Western Illinois,C
+Yelloh,11,11,0.0,0.0,Minnesota,S
+Clean Energy,11,11,0.0,0.0,South Carolina,WR
+Applebee's Grill + Bar,11,8,0.0,0.0,NC State,RB
+PorkRinds.com,11,11,2226246.0,2226246.0,Syracuse,EDGE
+Jordan Brand,11,11,1917596.0,1917596.0,Duke,PG
+World of Warcraft,11,11,0.0,0.0,Washington,QB
+Canyon Elementary School Career Fair,11,11,0.0,0.0,Utah State,WR
+Special Olympics Virginia,11,11,0.0,0.0,Virginia Tech,DL
+Walk-On’s Sports Bistreaux,11,10,2056072.0,2056072.0,Mississippi State,WR
+HOKA,11,9,0.0,0.0,Colorado,DR
+7-Eleven,11,11,4199730.0,4199730.0,Ohio State,WR
+Mercury,11,11,0.0,0.0,Oklahoma,EDGE
+Youth on Course,11,11,0.0,0.0,Oregon,G
+Ronald McDonald House Charities of Central Ohio,10,10,0.0,0.0,Ohio State,OT
+OKstateNFT,10,9,0.0,0.0,Oklahoma State,LB
+We Are Blood,10,10,0.0,0.0,Texas,WR
+The V Foundation,10,10,0.0,0.0,NC State,C
+Passes,10,9,0.0,0.0,Texas,WR
+Weigel's Stores,10,8,0.0,0.0,Tennessee,PG
+Community Cancer Fund,10,10,0.0,0.0,Gonzaga University,PG
+WTC Fiber,10,8,0.0,0.0,Kansas State,SG
+On Running,10,10,0.0,0.0,Stanford,DR
+Sprecher Brewery,10,10,0.0,0.0,Wisconsin,OT
+Austin Pets Alive!,10,10,0.0,0.0,Texas,DL
+Otter Tail Country,10,8,0.0,0.0,Minnesota,SF
+Boosted Biz,10,10,0.0,0.0,Ohio State,CG
+American Heart Association,10,9,0.0,0.0,Virginia Tech,LB
+Reese’s,10,10,0.0,0.0,Stephen F. Austin,RB
+Arby's,10,10,0.0,0.0,Arizona State,IOL
+Taco Bell,10,10,3210118.0,1605059.0,Colorado,CG
+Freddy's,10,10,0.0,0.0,Sam Houston State,QB
+Boost Mobile,10,10,0.0,0.0,Colorado,S
+Susan G. Komen Foundation,10,10,0.0,0.0,Kansas State,OH
+TIAA,10,10,0.0,0.0,Connecticut,CG
+YOKE,10,10,0.0,0.0,Duke,WR
+Troy Pediatric Clinic & Collegiate Health,10,10,0.0,0.0,Troy,EDGE
+NextGen America,9,9,0.0,0.0,Northwestern,SG
+Dove,9,8,0.0,0.0,UCLA,PG
+Children's Safety Center,9,9,0.0,0.0,Arkansas,CG
+Star Pizza,9,7,0.0,0.0,Houston,SG
+Family Promise,9,9,0.0,0.0,Kansas,SG
+Made For More Mentorship Academy,9,9,0.0,0.0,Florida,EDGE
+HAAM,9,9,0.0,0.0,Texas,WR
+Memphis Athletic Ministries,9,8,0.0,0.0,Memphis,DL
+Amazon Prime,9,9,2288842.0,2288842.0,Alabama,QB
+Boys & Girls Club of Manhattan,9,9,0.0,0.0,Kansas State,CG
+Iowa Cubs,9,8,0.0,0.0,Iowa State,CG
+Iowa 80 Truckstop,9,9,0.0,0.0,Iowa,SG
+Triumph Together,9,9,0.0,0.0,Stanford,LB
+NOBULL,9,7,0.0,0.0,Belmont University,RB
+Woodling Chiropractic,9,7,0.0,0.0,Troy,WR
+The GLD Shop,9,9,0.0,0.0,Ole Miss,WR
+TDECU,9,9,0.0,0.0,Houston,SG
+Honeydew,9,9,0.0,0.0,Florida,MF
+The Contemporary Austin,9,9,0.0,0.0,BYU,EDGE
+ScienceLogic,9,9,0.0,0.0,Ohio State,EDGE
+Ascension Seton,9,9,0.0,0.0,Texas,DL
+Cash App,9,9,0.0,0.0,UCLA,CG
+Arnold & Itkin LLP,8,8,0.0,0.0,Texas,WR
+Johnso Creative,8,8,0.0,0.0,South Carolina,DF
+Food Lifeline,8,7,0.0,0.0,Washington,PG
+Champions for Literacy,8,7,0.0,0.0,Memphis,CB
+Mike Morse Law Firm,8,7,0.0,0.0,Northwestern,EDGE
+Wescom Credit Union,8,8,0.0,0.0,UCLA,PG
+Ronald McDonald House Bay Area,8,8,0.0,0.0,Stanford,QB
+J.T. Woolverton Foundation,8,8,0.0,0.0,UCLA,SG
+Schnucks,8,8,0.0,0.0,Missouri,PG
+GOAT Fuel,8,8,0.0,0.0,Utah,WR
+Casey’s,8,8,0.0,0.0,Tennessee,TE
+CommUnity Crisis Services,8,8,0.0,0.0,Iowa,LB
+Postmates,8,8,0.0,0.0,Oregon State,QB
+GoMart,8,8,0.0,0.0,West Virginia,PF
+SoFi,8,7,0.0,0.0,Michigan,CG
+Orlando City SC,8,8,0.0,0.0,UCF,LS
+MarketPryce,8,8,0.0,0.0,Florida State,C
+Commond Ground Troy,8,7,0.0,0.0,Troy,S
+Make-A-Wish Utah,8,8,0.0,0.0,Utah,EDGE
+American Red Cross,8,8,0.0,0.0,SMU,DL
+Mondelez,8,8,1500772.0,1500772.0,Florida Gulf Coast University,CG
+Bread of the Mighty,8,8,0.0,0.0,Florida,LB
+More Than Sports,8,8,0.0,0.0,Georgia,RB
+Hally,8,8,0.0,0.0,Tennessee,OF
+Ricart Automotive,8,8,4199730.0,4199730.0,Ohio State,WR
+FanBasis,8,8,0.0,0.0,South Carolina,PF
+Sammy’s Buddy Program,8,8,0.0,0.0,Utah,WR
+Sonic,8,8,2125345.0,2125345.0,Texas,WR
+Lubbock Habitat for Humanity,8,8,0.0,0.0,Texas Tech,OT
+State Bicycle Co.,8,8,0.0,0.0,Arizona State,QB
+State College Quarterback Club,8,8,0.0,0.0,Penn State,IOL
+Steve Madden,7,7,0.0,0.0,Oregon,PV
+Athlicity,7,7,0.0,0.0,Florida,DF
+Garnet & Gold,7,7,0.0,0.0,Florida State,OH
+Jersey Wave,7,7,0.0,0.0,Jackson State,K
+Bench Bash,7,7,0.0,0.0,Oregon State,LB
+Jimmy's Famous Seafood,7,7,0.0,0.0,North Carolina,WR
+ZOA Energy,7,7,0.0,0.0,Austin Peay,CG
+Trojan Threads Apparel Company,7,7,0.0,0.0,Troy,WR
+Stop the Violence Indianapolis,7,6,0.0,0.0,Indiana,WR
+Boys & Girls Clubs Central Wyoming,7,4,0.0,0.0,Wyoming,DL
+Randy Wise Automotive Team,7,7,0.0,0.0,Michigan,CB
+SI Swimsuit,7,6,0.0,0.0,Houston,All
+Dale Howard Auto Center,7,7,0.0,0.0,Iowa,QB
+Ken Garff Hole in One Challenge,7,7,0.0,0.0,Utah,LB
+The Trust Fantasy Camp,7,7,0.0,0.0,Illinois,WR
+sweetgreen,7,7,0.0,0.0,Minnesota,WR
+Cancer Pathways,7,7,0.0,0.0,Washington,WR
+Campus Mogul,7,7,0.0,0.0,Maryland,QB
+Dexcom,7,7,0.0,0.0,UTSA,AT
+Tecovas,7,7,0.0,0.0,LSU,All
+Homefield,7,7,0.0,0.0,Indiana,CB
+MoneyLion,7,7,0.0,0.0,Kansas State,SG
+Stanley,7,7,0.0,0.0,Western Kentucky,PG
+Dollar Shave Club,7,7,0.0,0.0,UCLA,QB
+Town & Country Home Center,7,7,0.0,0.0,Troy,RB
+FanBox,7,7,0.0,0.0,BYU,WR
+Fan Arch,7,7,0.0,0.0,Kansas State,S
+Kindness Campaign,7,7,0.0,0.0,Texas,RB
+Prime Video,7,7,0.0,0.0,Tennessee,WR
+Amazon,7,7,1500772.0,1500772.0,LSU,All
+The Players Lounge,7,7,0.0,0.0,Tennessee,WR
+7th Avenue Pizza,7,7,0.0,0.0,Minnesota,PF
+Meals on Wheels Central Texas,7,7,0.0,0.0,Texas,OT
+PrairieLand Partners,7,7,0.0,0.0,Kansas State,IOL
+Wolverine Weekend,7,7,0.0,0.0,,TE
+Nittany Lion Summer Impact Football Camp,7,7,0.0,0.0,Penn State,LB
+Mizzen+Main,7,6,0.0,0.0,UCF,QB
+Past and Present Celebration,7,7,0.0,0.0,Penn State,TE
+Hanes,7,7,0.0,0.0,Indiana,SG
+Big Climb Seattle,6,6,0.0,0.0,Washington,OT
+CB18 Wing Eating Contest,6,6,0.0,0.0,South Carolina,OT
+Boys and Girls Clubs of Hartford,6,6,0.0,0.0,Connecticut,RB
+REATHLETE,6,6,0.0,0.0,Ole Miss,RB
+Lamborghini Austin,6,6,0.0,0.0,Texas,WR
+Lacrosse Unlimited,6,6,0.0,0.0,Georgetown,MF
+Booster Athletes,6,6,0.0,0.0,Kentucky,QB
+Troy Regional Primary Care Clinic,6,6,0.0,0.0,Troy,DL
+Keller Williams Sports + Entertainment,6,6,0.0,0.0,Oklahoma,WR
+Les Schwab Tires,6,6,0.0,0.0,Oregon State,IOL
+Robbins Motor Company,6,6,0.0,0.0,Kansas State,RB
+Riverside Casino & Golf Resort,6,5,0.0,0.0,Iowa,SG
+Cancer Support Community South Central Indiana,6,4,0.0,0.0,DePaul,SG
+Bolay Kitchen,6,6,0.0,0.0,USF,IOL
+Buick,6,6,0.0,0.0,UCLA,PG
+Boise Hawks,6,6,2056072.0,2056072.0,Boise State,RB
+Lubbock-Cooper ISD,6,6,0.0,0.0,Texas Tech,LB
+Rick Gill M.D.,6,6,0.0,0.0,Troy,WR
+Tommy Fund,6,6,0.0,0.0,Connecticut,PG
+Red Bull,6,6,9516887.0,4758443.5,Florida,QB
+Brooks Running,6,6,0.0,0.0,Texas A&M,S
+Crossover Culture,6,6,0.0,0.0,LSU,SF
+Heartland Memorabilia,6,6,0.0,0.0,Kansas State,IOL
+Newk's Eatery,6,6,0.0,0.0,LSU,LB
+Wrangler,6,6,0.0,0.0,Texas,MB
+Pease Park Conservancy,6,6,0.0,0.0,Texas,S
+AT&T,6,6,0.0,0.0,Ole Miss,QB
+Michigan State University FCU,6,5,0.0,0.0,Michigan State,CG
+Google,6,4,0.0,0.0,Florida,QB
+Gopuff,6,6,0.0,0.0,Penn State,PG
+Austin Marathon,6,6,0.0,0.0,Texas,EDGE
+Austin ISD,6,5,0.0,0.0,BYU,S
+AVOLI,6,6,0.0,0.0,Dayton,L
+Hey Dude,6,6,0.0,0.0,Michigan,SG
+Defiance Fuel,6,5,0.0,0.0,Middle Tennessee State,RB
+The Lucile Packard Children’s Hospital,6,6,0.0,0.0,Stanford,WR
+Seattle Children's Hospital,6,5,0.0,0.0,Utah,LB
+Dell Medical Center,6,6,0.0,0.0,Texas,EDGE
+GOAT,6,4,0.0,0.0,Oregon,SF
+Onward Reserve,6,6,0.0,0.0,Kansas State,QB
+Academy Sports + Outdoors,6,6,0.0,0.0,North Carolina,SF
+Wheels Up,6,6,0.0,0.0,Ole Miss,QB
+Activision,6,6,0.0,0.0,Kansas,RB
+Ducks of a Feather,6,3,0.0,0.0,Oregon,S
+South Bay Athletic Club,6,6,0.0,0.0,Penn State,WR
+Youth Villages,6,6,0.0,0.0,Memphis,DL
+Summit Agricultural Group,6,5,0.0,0.0,Iowa,S
+Fowler Automotive Group,6,6,0.0,0.0,Oklahoma,IOL
+Six Star Pro Nutrition,6,6,0.0,0.0,,PG
+Pilot 24 Cards,6,6,0.0,0.0,Iowa,RB
+YMCA of Metro Dallas,6,5,0.0,0.0,Rice,PG
+Alba Botanica,6,6,0.0,0.0,Princeton,AT
+Fletcher Jones Motorcars,6,6,0.0,0.0,Oklahoma,WR
+Marathon,6,6,0.0,0.0,South Carolina,SG
+Obsesh,6,6,0.0,0.0,NC State,QB
+Indiana NIL Store,6,6,0.0,0.0,Indiana,CG
+YMCA,6,6,0.0,0.0,Illinois,WR
+College Hunks Hauling Junk & Moving,6,5,0.0,0.0,Florida,All
+Father-Son Ann Arbor Football Camp,6,6,0.0,0.0,,OT
+Ohio Suicide Prevention Foundation,6,5,0.0,0.0,Dayton,SG
+In For Indiana,6,6,0.0,0.0,Indiana,SG
+Stanford Cancer Center,6,6,0.0,0.0,Mississippi State,OT
+Confidence Ford of Norman,6,6,0.0,0.0,Florida State,WR
+WME Sports,6,6,0.0,0.0,St. John's,SF
+Stanford Down Syndrome Research Center,6,6,0.0,0.0,Stanford,CB
+Forgotten Childrens Fund,6,6,0.0,0.0,Washington,P
+Huntsman Cancer Institute,6,6,0.0,0.0,Utah,LB
+NCF YMCA,6,6,0.0,0.0,Florida,S
+Hungry Souls ATX,6,6,0.0,0.0,Texas,IOL
+Benjamin F. Edwards Investments,6,6,0.0,0.0,Troy,WR
+BRADY,6,6,0.0,0.0,NC State,QB
+Vita Coco,6,6,0.0,0.0,Coastal Carolina,S
+GameChanger Tailgate,5,5,0.0,0.0,Marshall,DL
+Sun Day Red,5,5,0.0,0.0,Stanford,QB
+Rapsodo Baseball,5,5,0.0,0.0,North Carolina,P
+Sota Stick,5,5,0.0,0.0,Minnesota,IOL
+Rockwood Alliances,5,5,0.0,0.0,Houston,WR
+Falcon Wealth Planning,5,5,0.0,0.0,Arizona State,OT
+Game Day Products,5,5,0.0,0.0,UTSA,RB
+Ethika,5,5,0.0,0.0,Temple,SG
+Evening with The Stars,5,5,0.0,0.0,Kansas State,IOL
+Furniture Mall Of Kansas,5,5,0.0,0.0,Kansas State,CG
+Sunshine Quality Solutions,5,5,0.0,0.0,LSU,OT
+CAMPUS,5,5,0.0,0.0,Florida,QB
+Starry,5,5,0.0,0.0,Pittsburgh,SF
+Burt Watson Auto Group,5,3,0.0,0.0,Michigan,RB
+Flatstick Pub,5,5,0.0,0.0,Washington State,EDGE
+Stadium Merch,5,5,0.0,0.0,Eastern Michigan,IOL
+Flint Hills Beverage,5,5,0.0,0.0,Kansas State,LB
+Legacy Restaurant Group,5,5,0.0,0.0,Kansas,SF
+Klutch Athletics by New Balance,5,5,1948693.0,1948693.0,Alabama,SG
+Hally Hair,5,5,0.0,0.0,Maryland,DS
+Geisinger Health,5,5,0.0,0.0,Penn State,DL
+Giant Eagle,5,5,0.0,0.0,Ohio State,LB
+Honorarium,5,5,0.0,0.0,Tennessee,LB
+San Tan Ford,5,5,0.0,0.0,Arizona State,S
+The NIL Shop,5,5,0.0,0.0,Montana State,PF
+County Line Church of God,5,5,0.0,0.0,Utah,WR
+Rick McGill M.D.,5,5,0.0,0.0,Troy,CG
+Salvation Army of Austin,5,5,0.0,0.0,Texas A&M,TE
+The Players  NIL,5,5,0.0,0.0,Morgan State,IF
+Icy Hot,5,5,0.0,0.0,Florida,S
+College Sports Evaluation,5,3,0.0,0.0,Wichita State,OF
+Inch & Co.,5,5,0.0,0.0,Penn State,CB
+Indiana Wish,5,4,0.0,0.0,Indiana,PF
+Inlander Restaurant Week,5,5,0.0,0.0,Gonzaga University,SF
+The State College Food Bank,5,5,0.0,0.0,Toledo,LB
+Robert Alexander Center for Recovery,5,5,0.0,0.0,Kentucky,PF
+Iowa State NIL Store,5,5,0.0,0.0,Iowa State,PF
+D1 - West Nashville,5,5,0.0,0.0,Tennessee State,WR
+Cava,5,5,0.0,0.0,Georgia,RB
+Bring The Juice Dogs Calendar,5,5,0.0,0.0,Arizona State,WR
+Telemus,5,5,0.0,0.0,Michigan,OT
+Candlelighters Childhood Cancer Foundation of Neva,5,5,0.0,0.0,UNLV,PF
+Slate Milk,5,5,0.0,0.0,Georgia,PG
+Simple Truth,5,5,0.0,0.0,North Carolina,C
+Target,5,5,0.0,0.0,Howard,SF
+Side Chick,5,5,0.0,0.0,Pittsburgh,WR
+Ronald McDonald House of Arkoma,5,5,0.0,0.0,Arkansas,QB
+Texas Military Forces Museum,5,5,0.0,0.0,Texas,LB
+Keep Indianapolis Beautiful,5,4,0.0,0.0,Boston College,CG
+Diamond Kinetics,5,5,0.0,0.0,Florida State,IF
+HawaiiUSA Federal Credit ,5,5,0.0,0.0,Hawaii,SG
+Reign Body Fuel,5,5,0.0,0.0,Princeton,AT
+Sephora,5,5,0.0,0.0,South Carolina,SG
+Desert Financial Credit Union,5,5,0.0,0.0,Arizona State,SG
+Hilton Lexington Downton,5,5,0.0,0.0,Kentucky,QB
+OZONE Leotards,5,5,0.0,0.0,LSU,All
+Campus Connection,5,4,1939860.0,1939860.0,Tulane,DL
+Mitchell Heating & Cooling,5,5,0.0,0.0,North Carolina,IOL
+BreakingT,5,5,0.0,0.0,Utah State,C
+4C Coalition,5,5,0.0,0.0,Washington,LB
+Lids,5,5,0.0,0.0,USC,SF
+Be Like Bill,5,4,0.0,0.0,Indiana,LB
+Boys Town USA,5,4,0.0,0.0,Alabama,SF
+Par Mar Stores,5,5,0.0,0.0,West Virginia,IOL
+Momentous,5,5,0.0,0.0,Michigan,DL
+Morton's Grille,5,5,0.0,0.0,Houston,IOL
+MUNICIPAL,5,5,0.0,0.0,NC State,QB
+Big Brothers Big Sisters of Central Indiana,5,4,0.0,0.0,Miami,PF
+Actively Black,5,4,0.0,0.0,Oregon,WR
+Amazon Fashion,5,5,0.0,0.0,Utah,All
+Lululemon,5,5,4199730.0,4199730.0,Toledo,WR
+Wingstop,5,5,0.0,0.0,North Carolina,PG
+Operation Shower,5,5,0.0,0.0,Texas,IF
+Orange Mountain Designs,5,4,0.0,0.0,Tennessee,CG
+iHop,5,5,0.0,0.0,Alabama,IOL
+NIL FanBox,5,5,0.0,0.0,Texas,PG
+Memphis Redbirds,5,5,2264304.0,2264304.0,Memphis,PF
+Bright Swimwear,5,5,0.0,0.0,Louisville,S
+Balance 180 Gym,5,5,0.0,0.0,Florida,WR
+Meritrust Credit Union,5,5,0.0,0.0,Kansas State,C
+OOFOS,5,5,0.0,0.0,LSU,QB
+Chomp Out Hunger,4,4,0.0,0.0,Florida,PG
+Postgame,4,4,0.0,0.0,Syracuse,S
+Huck's Food & Fuel,4,3,0.0,0.0,Pittsburgh,SG
+Chicken N Pickle,4,4,0.0,0.0,Wichita State,MF
+Rock 'Em Socks,4,3,0.0,0.0,Boise State,CB
+Dr Teal's,4,4,0.0,0.0,,QB
+Meet the Pack Day,4,3,0.0,0.0,Western Michigan,WR
+Hyperice,4,4,0.0,0.0,Virginia Tech,WR
+Door Dash,4,4,0.0,0.0,Connecticut,SG
+BioSteel,4,4,0.0,0.0,Duke,DL
+Ronald McDonald House,4,4,0.0,0.0,Stanford,DL
+Shuman Farms,4,4,0.0,0.0,Georgia Southern,WR
+PJ's Coffee,4,4,0.0,0.0,LSU,AT
+Madison Reed,4,4,0.0,0.0,Connecticut,CG
+Anna's Place NOLA,4,4,0.0,0.0,Miami,CB
+Roots Natural Kitchen,4,4,0.0,0.0,Maryland,All
+Bill's Place,4,4,0.0,0.0,Memphis,IOL
+Waste Pro,4,4,0.0,0.0,UCF,DL
+CrisP Clothing,4,4,0.0,0.0,Syracuse,OT
+JDRF,4,4,0.0,0.0,Iowa,SF
+Snickers,4,4,0.0,0.0,San Jose State,SG
+Electrolit,4,4,0.0,0.0,Houston,OH
+Xenith Prep Kickoff Classic,4,4,0.0,0.0,Miami (OH),LB
+Ovation,4,4,0.0,0.0,South Carolina,ATH
+Good Molecules,4,3,0.0,0.0,Texas,CG
+Eastbay,4,4,0.0,0.0,,PG
+Bluepeak,4,4,0.0,0.0,Oklahoma State,OF
+Alma Mater,4,4,0.0,0.0,Florida,IF
+Rich Mar Florist,4,4,0.0,0.0,Iowa,SG
+Alo Yoga,4,4,0.0,0.0,Colorado,QB
+TOGETHXR,4,4,1500772.0,1500772.0,Oregon,H
+Lucile Packard Children's Hospital,4,4,0.0,0.0,Stanford,S
+Champions of Change,4,4,0.0,0.0,,WR
+Charitable Gift America,4,2,0.0,0.0,Michigan State,All
+Memphis Shelby Crime Commission,4,4,0.0,0.0,Memphis,LB
+Discord,4,3,0.0,0.0,UCLA,SF
+Ted's Bar,4,4,0.0,0.0,North Carolina,EDGE
+Scheerer McCulloch,4,3,0.0,0.0,Indiana,SG
+Collegiate Legends,4,4,4128720.0,2064360.0,Clemson,QB
+Weis Markets,4,4,0.0,0.0,Penn State,IOL
+Mark Wahlberg Chevrolet of Columbus,4,4,0.0,0.0,Ohio State,ATH
+Austin Creative Reuse,4,4,0.0,0.0,Texas,SG
+The Daspit Law Firm,4,3,0.0,0.0,Houston,SG
+STX Women’s Lacrosse,4,4,0.0,0.0,,AT
+DREAAM,4,4,0.0,0.0,Illinois,WR
+Vuori,4,4,5317157.0,5317157.0,Texas,QB
+DIRECTV,4,4,0.0,0.0,UCLA,QB
+Colin's Hope,4,4,0.0,0.0,Texas,DL
+Me Fine Foundation,4,2,0.0,0.0,,C
+Bartleby,4,4,0.0,0.0,Miami,All
+Cut Rate Lawn Care,4,2,0.0,0.0,Kansas State,QB
+Scooter's Coffee,4,4,0.0,0.0,Nebraska,P
+MidWestOne Bank,4,4,0.0,0.0,Iowa,SG
+DB Academy,4,4,0.0,0.0,San Diego State,S
+Schwab Meat,4,4,0.0,0.0,Oklahoma,WR
+Atlantic Coca-Cola Bottling Company,4,4,0.0,0.0,Kansas,RB
+InfluenceTee,4,4,0.0,0.0,Central Oklahoma,S
+Antonio Reeves Youth Basketball Camp,4,4,0.0,0.0,Kentucky,SF
+Primanti Bros,4,4,0.0,0.0,Penn State,SG
+Applebee's,4,4,0.0,0.0,,OT
+The Authentic at Bryant-Denny,4,4,2381076.0,2381076.0,Alabama,DL
+Cruising With the Cougs,4,4,0.0,0.0,BYU,WR
+The Basketball Tournament,4,4,0.0,0.0,Connecticut,PF
+"White, Greer & Maggard Orthodontics",4,4,0.0,0.0,Texas,OH
+Modern Market Eatery,4,4,0.0,0.0,Colorado State,OT
+Mizuno,4,3,0.0,0.0,Oklahoma,P
+Merchants Bank of Indiana,4,4,0.0,0.0,Indiana,PF
+Wendy's,4,4,0.0,0.0,,QB
+Associated Credit Union,4,4,3139796.0,3139796.0,Georgia Tech,OF
+The IOWA Foundation,4,4,0.0,0.0,Iowa,CB
+Coach,4,4,0.0,0.0,Oregon,WR
+Mission Possible Austin,4,4,0.0,0.0,Texas,EDGE
+Western National Bank,4,4,0.0,0.0,Kansas State,SG
+Meals on Wheels,4,4,0.0,0.0,Iowa,EDGE
+Minky Couture,4,4,0.0,0.0,Utah,VT
+Hoosier Women's Youth Camp,4,4,0.0,0.0,Indiana,SG
+Humane Animal Rescue of Pittsburgh,4,4,0.0,0.0,Pittsburgh,LB
+Caktus AI,4,4,0.0,0.0,LSU,SF
+GK Elite Sportswear,4,4,0.0,0.0,LSU,All
+Kum & Go,4,4,0.0,0.0,Iowa,SF
+Stuff the Bus,4,4,0.0,0.0,Kansas State,PG
+AT&T Fiber,4,4,0.0,0.0,Tennessee,SG
+Young Family Athletic Center,4,4,0.0,0.0,Kentucky,SG
+Special Olympics West Virginia,4,4,0.0,0.0,West Virginia,GK
+Bullock Museum,4,4,0.0,0.0,Texas,WR
+Force Factor,4,4,0.0,0.0,Oregon State,UB
+Burrito Express,4,4,0.0,0.0,Arizona State,P
+Lewis Automotive Group,4,4,0.0,0.0,Kansas State,SG
+Fore the Players Golf Classic,4,4,0.0,0.0,Oklahoma,P
+On3 Elite,4,4,0.0,0.0,Tennessee,WR
+Treehouse,4,3,0.0,0.0,,QB
+CMG Leasing,4,4,0.0,0.0,Virginia Tech,CG
+Transcend Capital Advisors,4,4,0.0,0.0,Oregon,G
+RecycleForce,4,4,0.0,0.0,Miami,IOL
+United Airlines,4,4,0.0,0.0,USC,CG
+Farm Rich Snacks,4,4,0.0,0.0,Missouri,EDGE
+Newegg,4,4,0.0,0.0,Arizona,PG
+Olipop,4,4,0.0,0.0,Cincinnati,S
+LG Electronics,4,4,1500772.0,1500772.0,LSU,CG
+Boys and Girls Club of the Big Bend,4,4,0.0,0.0,UCLA,OT
+Boys & Girls Clubs of Bloomington,4,4,0.0,0.0,UTEP,LB
+Levi's,4,4,0.0,0.0,UCLA,TE
+Sunrise Navigation Center,4,4,0.0,0.0,Auburn,S
+Turnstone Center,4,3,0.0,0.0,Ohio State,PG
+Uplifting Athletes,4,4,0.0,0.0,NC State,LB
+Alaska Airlines,4,4,0.0,0.0,Hawaii,SG
+Special Olympics Florida,4,4,0.0,0.0,Florida,S
+Nebraska Furniture Mart,4,4,0.0,0.0,Nebraska,J
+Fab Four Camp,4,4,0.0,0.0,Iowa State,CG
+LifeWallet,4,4,0.0,0.0,Miami,WR
+Spanx,4,4,0.0,0.0,LSU,All
+Quizlet,4,4,0.0,0.0,Arkansas,S
+Long McArthur Luxury,4,3,0.0,0.0,Kansas State,QB
+Quatro Gymnastics,4,4,0.0,0.0,LSU,All
+Brew and Ball,4,4,0.0,0.0,Cincinnati,DL
+Little Woodrow's,4,3,0.0,0.0,,PG
+Long McArthur Ford,4,4,0.0,0.0,Texas Tech,QB
+Lemon Perfect,4,4,0.0,0.0,Iowa State,PV
+Buck Brother LLC,4,4,0.0,0.0,Toledo,DL
+University Club of Virginia Tech,4,4,0.0,0.0,Charlotte,CB
+Nabisco,4,4,0.0,0.0,Louisville,PG
+The Crime Commission,3,3,0.0,0.0,Memphis,EDGE
+Sport Stix Pretzels,3,3,0.0,0.0,Illinois,QB
+Special Olympics Memphis,3,3,0.0,0.0,Memphis,RB
+NerdWallet,3,3,0.0,0.0,USC,CB
+Neutrogena,3,3,0.0,0.0,UCLA,PG
+Special Olympics Pennsylvania,3,3,0.0,0.0,Penn State,IOL
+Dale's Place Food Pantry,3,3,0.0,0.0,Virginia Tech,LB
+Sticklen & Sticklen Law Firm,3,3,0.0,0.0,Missouri,OT
+Park Bank,3,3,0.0,0.0,Wisconsin,MB
+Hellmann's Mayo,3,3,0.0,0.0,Houston,CB
+Dayton NIL Store,3,3,0.0,0.0,Dayton,CG
+Weston Printing Company,3,2,0.0,0.0,Kansas State,DL
+Special Olympics Utah,3,3,0.0,0.0,Utah,EDGE
+YMCA Dallas,3,3,0.0,0.0,Kansas State,PF
+Hilldrup,3,3,0.0,0.0,Virginia,WR
+adidas TERREX,3,3,0.0,0.0,Arizona State,P
+Walton Roofing,3,3,0.0,0.0,Houston,G
+Credit Bureau Systems,3,3,0.0,0.0,Austin Peay,CB
+OK Tire Store,3,3,0.0,0.0,North Dakota State,EDGE
+Florida State NIL Store,3,3,0.0,0.0,Florida State,IF
+HulkFit Products,3,3,0.0,0.0,Wichita State,IF
+Cricket West,3,3,0.0,0.0,Toledo,DL
+1st Phorm,3,3,1936045.0,1936045.0,Miami,OT
+Mercer Island Boys and Girls Club,3,3,0.0,0.0,Washington,P
+Sanbuck Insurance,3,1,0.0,0.0,Troy,K
+Oikos,3,3,0.0,0.0,Alabama A&M,QB
+Hoosier Women's Volleyball Procamp,3,3,0.0,0.0,Indiana,OH
+Northern Quest,3,3,1625635.0,1625635.0,Gonzaga University,PF
+Warriors 4 Peace,3,2,0.0,0.0,DePaul,SG
+johnnie-O,3,3,0.0,0.0,Texas A&M,G
+B-Unlimited,3,3,0.0,0.0,UCF,QB
+Fifth Third Bank,3,3,0.0,0.0,Oklahoma,SG
+B Run Sports,3,3,0.0,0.0,Texas Tech,PG
+Homeland Stores,3,3,0.0,0.0,Oklahoma,DL
+D1 Approved,3,3,0.0,0.0,Belmont University,T
+Home Team Pub,3,3,0.0,0.0,Syracuse,SG
+Patrick Youth Development Foundation,3,3,0.0,0.0,Florida A&M,CB
+iSlide,3,3,0.0,0.0,Syracuse,SG
+Designer Shoe Warehouse,3,3,2381076.0,2381076.0,Ohio State,S
+Forrest Spence Fund,3,3,0.0,0.0,Memphis,WR
+DKNY,3,3,0.0,0.0,Louisville,OH
+76 Gas Stations,3,3,0.0,0.0,NC State,PG
+State Farm,3,3,0.0,0.0,USC,CG
+500 Level,3,3,0.0,0.0,Boston College,WR
+Shinesty,3,2,0.0,0.0,Colorado,OT
+Frosted Flakes,3,3,0.0,0.0,Penn State,PF
+Wood Lane Residential Services,3,3,0.0,0.0,Bowling Green,IOL
+Everlight Solar,3,3,0.0,0.0,Minnesota,S
+Onyx Authenticated ,3,3,0.0,0.0,,WR
+Amazon Merch on Demand,3,3,0.0,0.0,Oregon State,All
+Six Twelve Sports Basketball Camp,3,3,0.0,0.0,Memphis,PG
+Young Money APAA Sports,3,3,0.0,0.0,Arizona State,SG
+Summit Credit Union,3,3,0.0,0.0,Wisconsin,SG
+Gravity,3,3,1564090.0,1564090.0,Ohio State,WR
+National Athletic Trainers’ Association,3,3,0.0,0.0,SMU,TE
+Essentia Water,3,3,0.0,0.0,Oregon,RB
+Oxbeau,3,2,0.0,0.0,,PG
+Dryworld,3,3,0.0,0.0,College of Charleston,DR
+Cracker Jack,3,3,0.0,0.0,Oklahoma,RB
+N.C. Department of Agriculture & Consumer Services,3,3,0.0,0.0,North Carolina,SG
+Wolverine+,3,3,0.0,0.0,Duke,WR
+Erie Elite Football,3,3,0.0,0.0,Coastal Carolina,LB
+FTX,3,3,0.0,0.0,Florida State,RB
+Optimum Nutrition,3,3,0.0,0.0,SMU,MB
+D’Amelio Footwear,3,3,0.0,0.0,Connecticut,DF
+Epsilon Marketing,3,3,0.0,0.0,Connecticut,SG
+Good Sport,3,3,0.0,0.0,Tennessee,CB
+Earp's Seafood Market,3,3,0.0,0.0,NC State,OT
+THRIFTHOOD,3,2,0.0,0.0,Texas,CG
+Overtime,3,3,0.0,0.0,Iowa State,PF
+Orange Krush Foundation,3,3,0.0,0.0,Cincinnati,CG
+Alliance for Suicide Prevention of Larimer County,3,3,0.0,0.0,Colorado State,DS
+Smalls Sliders,3,3,0.0,0.0,Louisiana,WR
+Super Coffee,3,3,0.0,0.0,TCU,SF
+Xenith,3,3,0.0,0.0,Texas,QB
+GoPowercat,3,3,0.0,0.0,Kansas State,EDGE
+YMCA of Monroe County,3,2,0.0,0.0,Indiana,SF
+Wings Over,3,3,0.0,0.0,NC State,SF
+Simply Seattle,3,2,0.0,0.0,Washington,QB
+Grind City Designs,3,3,0.0,0.0,Memphis,RB
+Grippo’s Chips,3,3,1564090.0,1564090.0,Ohio State,WR
+Harmless Harvest,3,3,0.0,0.0,Oregon State,All
+Dicks Sporting Goods,3,2,0.0,0.0,Duke,DR
+Texas Farmers Market,3,3,0.0,0.0,Texas,PG
+Girl Scouts of Western Washington,3,3,0.0,0.0,Washington,LB
+GLD,3,3,0.0,0.0,Vermont,SG
+ZYIA Active,3,3,0.0,0.0,Utah,BB
+Halo Top Creamery,3,3,0.0,0.0,Duke,DR
+Moonshine Mountain Cookie Company,3,2,0.0,0.0,,WR
+Subway,3,3,0.0,0.0,Duke,SF
+Will Johnson Youth Football Camp,3,2,0.0,0.0,Michigan,CB
+Amica Insurance,3,0,0.0,0.0,,
+Dollar Slice Club,3,3,0.0,0.0,Texas,S
+Onyx Authenticated,3,3,0.0,0.0,,QB
+SuckerPunch Gourmet,3,3,0.0,0.0,Kentucky,QB
+South Plains Food Bank,3,3,0.0,0.0,Texas Tech,LB
+Wilson Motor Company,3,3,0.0,0.0,Oklahoma State,G
+South County YMCA,3,2,0.0,0.0,Washington,PG
+Exact Sciences,3,3,0.0,0.0,Wisconsin,PG
+Doritos,3,3,1500772.0,1500772.0,LSU,CG
+WinStar Farm,3,3,0.0,0.0,Nebraska,CG
+Mountain America Credit Union,3,2,0.0,0.0,Utah,QB
+American Cancer Society,3,3,0.0,0.0,Memphis,WR
+Gymshark,3,3,0.0,0.0,Iowa State,PG
+Dr Pepper,3,3,0.0,0.0,LSU,QB
+Summer Scamper,3,3,0.0,0.0,Stanford,DL
+Guthrie's Chicken,3,3,0.0,0.0,Florida State,DF
+Muchachos,3,3,0.0,0.0,Nebraska,WR
+Dr. Pepper,3,3,0.0,0.0,Florida State,QB
+Simply Fuel,3,3,0.0,0.0,Texas,OH
+Winter Wear and Holiday Toy Drive,3,3,0.0,0.0,Buffalo,RB
+St. Michael Church Youth Football Camp,3,3,0.0,0.0,New Mexico,LB
+Utes NIL Merch,3,3,0.0,0.0,Utah,MF
+Lion & Cub,3,3,0.0,0.0,Penn State,SG
+Poppi,3,3,0.0,0.0,Richmond,CG
+Chill CVille,3,3,0.0,0.0,Virginia,RB
+Jenloop,3,3,0.0,0.0,,LB
+RockChalk.io,3,3,0.0,0.0,Kansas,ATH
+JanSport,3,3,1500772.0,1500772.0,LSU,CG
+Boys & Girls Club of PIke and Surrounding Counties,3,3,0.0,0.0,Troy,S
+Church Health,3,2,0.0,0.0,,QB
+Madison Social,3,3,0.0,0.0,Florida State,MF
+St. Jude Research Hospital,3,3,0.0,0.0,Ball State,P
+RoofClaim.com,3,3,0.0,0.0,Arkansas,SG
+Benko Financial Services,3,3,0.0,0.0,Georgia,S
+Clark's Pump & Shop,3,3,0.0,0.0,Kentucky,SF
+Boys & Girls Clubs of Casper,3,3,0.0,0.0,Wyoming,SG
+J-Bar-M Smokehouse & BBQ,3,3,0.0,0.0,Houston,EDGE
+Krispy Kreme - Tallahassee,3,2,0.0,0.0,Florida A&M,CB
+Children's Champions,3,3,0.0,0.0,Stanford,WR
+Ryl Tea,3,3,0.0,0.0,South Carolina,PF
+Mahaffey & Associates,3,3,0.0,0.0,Toledo,DL
+Boys & Girls Clubs of Larimer County,3,3,0.0,0.0,Colorado State,CG
+Virtual Round Table,3,3,0.0,0.0,Montana State,S
+SAGE Collectibles,3,3,0.0,0.0,Michigan,S
+Kroger,3,3,0.0,0.0,Alabama,PV
+Iowa Giving Crew,3,3,0.0,0.0,Kansas,RB
+Cactus Jack,3,3,0.0,0.0,USC,PG
+Visible Mobile,3,3,0.0,0.0,Florida,All
+Invisalign,3,3,0.0,0.0,UCLA,All
+Ultimate Sports Bash,3,3,0.0,0.0,Utah,SG
+Invesco US,3,3,0.0,0.0,Duke,DR
+Purdue NIL Store,3,3,1882464.0,1882464.0,Purdue,S
+Make-A-Wish Iowa,3,3,0.0,0.0,Iowa,RB
+Jersey Mike's,3,3,0.0,0.0,Utah,QB
+MILLIONS.co,3,3,0.0,0.0,South Carolina,SG
+Intermountain Primary Children’s Hospital,3,3,0.0,0.0,Duke,S
+Kendra Scott,3,3,0.0,0.0,Texas,PF
+Body Armor,3,3,0.0,0.0,Louisville,All
+Cats' Cupboard at K-State,3,3,0.0,0.0,Kansas State,IOL
+Celsius Drink,3,3,0.0,0.0,,QB
+Cats Cans,3,3,0.0,0.0,Kansas State,IOL
+Respite Care,3,2,0.0,0.0,Colorado State,WR
+Kellogg's Frosted Flakes,3,3,0.0,0.0,SMU,All
+University of Arizona Campus Store,3,3,0.0,0.0,Arizona,OH
+Low Country Boil,3,3,0.0,0.0,South Carolina,CG
+KIPP Columbus,3,3,0.0,0.0,Ohio State,CB
+KINLÒ,3,3,0.0,0.0,Oregon,CG
+Pringles,3,3,0.0,0.0,Virginia,C
+Boomer Kia,3,3,0.0,0.0,Maryland,WR
+Champion,3,3,0.0,0.0,Texas,OH
+Blue Cross Blue Shield of Michigan,3,3,0.0,0.0,Michigan,S
+Carrying Hope,3,3,0.0,0.0,Texas,WR
+Card Stock Exchange,3,3,0.0,0.0,,RB
+Walmart,3,3,0.0,0.0,Princeton,AT
+Rip It Sports,3,2,0.0,0.0,Illinois,OF
+Lockeed Martin,3,3,0.0,0.0,UCF,MF
+VIDSIG,3,3,0.0,0.0,Oklahoma,P
+Redbull,3,3,4302142.0,4302142.0,BYU,CG
+Jones Ford Verde Valley,3,3,1770113.0,1770113.0,Arizona State,RB
+Johnny's Tavern,3,3,0.0,0.0,Kansas,ATH
+Chastang Ford,3,3,0.0,0.0,Pittsburgh,SG
+Rivertree Academy,3,3,0.0,0.0,TCU,SG
+Big Rock Fishing Tournament,3,3,0.0,0.0,NC State,QB
+Portland Gear,3,3,0.0,0.0,Oregon,PG
+Robert Graham,3,3,0.0,0.0,SMU,DL
+ProVelocity Bat,3,3,0.0,0.0,Oklahoma,IF
+Big Leauge Chew,3,2,0.0,0.0,Washington,P
+Troy Regional Emergency Department,3,3,0.0,0.0,Troy,WR
+Top House Foods,3,3,0.0,0.0,Michigan,EDGE
+INAKA,3,3,0.0,0.0,Texas,PG
+Mellow Mushroom,3,3,0.0,0.0,Duke,CB
+Salvation Army,3,3,0.0,0.0,Bradley,SG
+Baldo's Ice Cream,3,2,0.0,0.0,SMU,MB
+Come Home Tour,3,3,0.0,0.0,Missouri,RB
+Columbus Orthopaedic Clinic,3,3,0.0,0.0,Mississippi State,WR
+RHINOSHIELD,3,3,0.0,0.0,LSU,K
+Philadelphia Sportscard & Memorabilia Show,3,3,0.0,0.0,Penn State,RB
+Medpace,3,3,0.0,0.0,Cincinnati,LB
+SURGE,3,3,0.0,0.0,Oklahoma,IF
+LaceClips,3,3,0.0,0.0,Iowa State,PG
+UConn NIL Store,3,2,0.0,0.0,Connecticut,CG
+Marriot Hotels,3,3,0.0,0.0,Michigan,PG
+Pete's Season Ticket Raffle,3,3,0.0,0.0,Oklahoma State,LB
+CB18 Bar and Grill,3,3,0.0,0.0,South Carolina,P
+Continental Tires,3,3,0.0,0.0,Arizona,CG
+Uber,3,3,5317157.0,5317157.0,Texas,QB
+Brickhouse Tavern,3,3,0.0,0.0,Texas A&M,IOL
+Brutus Broth,3,3,0.0,0.0,Vanderbilt,SG
+Brothers Restoring Urban Hope,3,3,0.0,0.0,Missouri,CB
+Lady Vol Pitching Clinic,3,3,0.0,0.0,Tennessee,P
+Community Food Share,3,3,0.0,0.0,Coastal Carolina,LB
+Breaking T,3,3,0.0,0.0,Oklahoma,IF
+Instagram,3,3,0.0,0.0,USC,CG
+Brands Unlimited,3,3,0.0,0.0,Oklahoma,RB
+Mardi Gras Meet and Greet,3,3,0.0,0.0,Tulane,LB
+Buff City Soap,3,3,0.0,0.0,Louisville,S
+The National Civil Rights Museum,3,3,0.0,0.0,Memphis,SG
+Bank of Hawaii,3,3,0.0,0.0,Hawaii,PG
+Oklahoma State Brand Squad,2,2,0.0,0.0,,LB
+Open Locker,2,2,0.0,0.0,,RB
+RIND Snacks,2,2,0.0,0.0,Alabama,MF
+For the Bay Clothing Co.,2,1,0.0,0.0,USF,QB
+Loch Bar,2,2,0.0,0.0,Wisconsin,PG
+Kick The Sheets,2,2,0.0,0.0,West Virginia,DL
+Keys2Work,2,2,0.0,0.0,UCLA,S
+Open Hand Atlanta,2,2,0.0,0.0,Georgia Tech,LB
+Foot Locker,2,2,0.0,0.0,,WR
+North Rock Creek Baseball & Softball Camp,2,2,0.0,0.0,Oklahoma,OF
+Open House at The Woody with Coach Day,2,2,0.0,0.0,,CB
+Relax the Back,2,2,0.0,0.0,Ole Miss,WR
+Operation Warm,2,2,0.0,0.0,Duke,SG
+Pro Sports Zone,2,2,0.0,0.0,Duke,WR
+NFL Sunday Ticket,2,2,0.0,0.0,Georgia,EDGE
+SoHoodie,2,2,0.0,0.0,FIU,WR
+Giant Food,2,2,0.0,0.0,Virginia Tech,CG
+St. Francis Table Soup Kitchen,2,2,0.0,0.0,Oklahoma,SF
+Georgia Peanut Commission,2,2,0.0,0.0,,QB
+Princess Polly Boutique,2,2,0.0,0.0,Kansas State,OH
+Oakley,2,2,0.0,0.0,Florida,IF
+Octane Football,2,2,0.0,0.0,,TE
+NXTRND,2,2,0.0,0.0,,WR
+Geaux Enterprises,2,2,0.0,0.0,Houston,PF
+October's Very Own,2,2,0.0,0.0,Florida Atlantic,PF
+Novashine Teeth Whitening,2,2,0.0,0.0,Florida,All
+Gatorverse,2,2,1600000.0,1600000.0,Kentucky,CG
+QuillBot,2,2,0.0,0.0,Michigan State,PF
+Nourished,2,2,0.0,0.0,Drexel,CG
+Oklahoma Council on Economic Education,2,2,0.0,0.0,Oklahoma,IF
+Lockerverse,2,2,0.0,0.0,Oregon,S
+Lexington Youth Basketball Camp,2,2,0.0,0.0,Memphis,SF
+Rally House,2,2,0.0,0.0,Cincinnati,PG
+LittleStar ABA Therapy,2,1,0.0,0.0,Indiana,SG
+Neighborhood JAM,2,2,0.0,0.0,Oklahoma,P
+Nine Irish Brothers,2,2,0.0,0.0,Duke,PF
+G Fuel,2,2,0.0,0.0,Oregon,PF
+Nicholas Air,2,2,0.0,0.0,,QB
+Lindy Infante Foundation,2,2,0.0,0.0,Baylor,CB
+Fragrance.com,2,2,0.0,0.0,Louisville,QB
+Out Of System,2,2,0.0,0.0,Louisville,OH
+Fred Caldwell Chevrolet,2,2,1538802.0,1538802.0,Clemson,QB
+Lincoln Airport,2,2,0.0,0.0,Nebraska,IF
+Lifestyle Bands,2,2,0.0,0.0,Toledo,S
+Special Olympics Minnesota,2,1,0.0,0.0,Minnesota,SG
+Niagara Water,2,2,0.0,0.0,USC,RB
+Recruiting Analytics,2,2,0.0,0.0,North Carolina,CB
+LaSalle Bakery,2,2,0.0,0.0,Providence,SF
+RODS Heroes,2,2,0.0,0.0,Tulsa,QB
+Free People Movement,2,2,0.0,0.0,Alabama,PV
+New Era,2,2,1575405.0,1575405.0,Alabama,WR
+Omaha Steak Company,2,2,0.0,0.0,Utah,VT
+Raid,2,2,0.0,0.0,Baylor,CG
+L'Oréal Paris USA,2,2,0.0,0.0,UCLA,All
+Raleigh Journey League,2,2,0.0,0.0,NC State,SG
+LifeBrand,2,2,0.0,0.0,Georgia Tech,DR
+Oncology Care via Avalon Park Foundation,2,2,0.0,0.0,Florida State,OT
+Southwest Advocacy Group,2,2,0.0,0.0,Florida,VT
+GHOST,2,2,0.0,0.0,,PG
+Ready Life,2,1,0.0,0.0,,EDGE
+GK Gymnastics,2,2,0.0,0.0,Oregon State,UB
+Forever 21,2,2,0.0,0.0,Oregon,All
+Gait Lacrosse,2,1,0.0,0.0,Maryland,DF
+Fresno First Bank,2,2,0.0,0.0,,WR
+Kiser Furniture Co.,2,2,0.0,0.0,Virginia Tech,WR
+South Carolina Watermelon Association,2,2,0.0,0.0,South Carolina,PF
+Ladies Night Out with Kansas Football,2,2,0.0,0.0,Kansas,QB
+Push Paddle or Pedal,2,2,0.0,0.0,Indiana,C
+Kiwiclo,2,2,0.0,0.0,Penn State,QB
+Spreadshop,2,2,0.0,0.0,St. John's,SG
+Project Athletes,2,2,0.0,0.0,Illinois,IOL
+Life Ring Foundation,2,2,0.0,0.0,Appalachian State,IOL
+Southcoast Health,2,2,0.0,0.0,Providence,SG
+Lithia Ford,2,2,0.0,0.0,Boise State,QB
+Liquid I.V.,2,2,0.0,0.0,Washington,RB
+Klarna,2,2,0.0,0.0,,OT
+Prolific Sports Lab,2,2,0.0,0.0,Georgia,IOL
+Nissan,2,2,0.0,0.0,Florida,UB
+Nautica,2,2,0.0,0.0,,WR
+Spotify,2,2,0.0,0.0,USC,CG
+GNC,2,2,0.0,0.0,USC,PF
+Nintendo,2,2,4199730.0,4199730.0,Florida,QB
+Nebraska NIL Store,2,1,0.0,0.0,,SG
+Mercedes-Benz of Baton Rouge,2,2,1500772.0,1500772.0,LSU,CG
+Resilient SFBL,2,2,0.0,0.0,Oklahoma,IF
+Snack Fanatics,2,2,0.0,0.0,St. John's,PF
+Matthews Motors,2,2,0.0,0.0,,WR
+Imo's Pizza,2,2,0.0,0.0,,QB
+Matchpoint Connection,2,2,0.0,0.0,LSU,IF
+Pathwater,2,2,0.0,0.0,SMU,SG
+Markley Motors,2,2,0.0,0.0,Colorado State,OH
+STEAZ,2,2,0.0,0.0,Santa Clara University,DF
+Mike Jones Ford Lincoln,2,2,0.0,0.0,Purdue,RB
+Marion County Commission on Youth,2,1,0.0,0.0,Boston College,C
+Hibbett Sports,2,2,0.0,0.0,TCU,CG
+SOS Heating & Cooling,2,2,0.0,0.0,Nebraska,DL
+Influence Tee,2,2,0.0,0.0,Jackson State,DF
+Miller's Ale House,2,2,0.0,0.0,Middle Tennessee State,WR
+Planet Fitness,2,2,0.0,0.0,VCU,PG
+Herman Cook Volkswagen,2,2,0.0,0.0,Louisville,TE
+Milo's Sweet Tea,2,2,0.0,0.0,,S
+PlantFuel,2,2,0.0,0.0,,All
+Help Tackle Hunger Food Drive,2,1,0.0,0.0,Illinois,EDGE
+Mancino's Pizza & Grinders,2,2,0.0,0.0,Ball State,P
+Heavy Hitters Camp,2,2,0.0,0.0,Oklahoma,OF
+Minsky’s,2,2,0.0,0.0,Kansas,C
+Mamba & Mambacita Sports Foundation,2,2,0.0,0.0,Duke,SG
+PlayStation,2,2,0.0,0.0,,SF
+SANA,2,2,0.0,0.0,Oakland,SG
+Health Alliance,2,2,0.0,0.0,Illinois,K
+Make Your Move,2,2,0.0,0.0,Penn State,CG
+Moline Park District,2,2,0.0,0.0,Notre Dame,OT
+Maize Unified School District,2,2,0.0,0.0,Kansas State,RB
+Phoenix Children's,2,2,0.0,0.0,Grand Canyon University,SG
+Sadie's of New Mexico,2,2,0.0,0.0,UCLA,PG
+Mid-South Food Bank,2,2,0.0,0.0,Memphis,WR
+Sansbuck Insurance,2,2,0.0,0.0,Troy,QB
+Peptalk Motivation,2,2,0.0,0.0,UCLA,WR
+Perfect Hydration Water,2,2,0.0,0.0,Georgia,WR
+Mercedes-Benz of Gainesville,2,2,0.0,0.0,Florida,QB
+Hulu,2,2,0.0,0.0,,QB
+Hugo Boss,2,2,2288842.0,2288842.0,Alabama,QB
+Memphis Grindhouse Coffee,2,2,0.0,0.0,Purdue,RB
+Samsung,2,2,3184895.0,1592447.5,Clemson,QB
+San Diego State NIL Store,2,2,0.0,0.0,Ohio State,SF
+Mercedes-Benz of Knoxville,2,2,0.0,0.0,,SF
+Hotel Indigo,2,2,0.0,0.0,,RB
+San Marcos BBQ,2,2,0.0,0.0,Colorado,DL
+Meep Meep Apparel,2,2,0.0,0.0,TCU,RB
+Quest Nutrition,2,1,0.0,0.0,Florida,All
+Paul Miller Ford,2,2,0.0,0.0,,SF
+Meals on Wheels of Norman,2,2,0.0,0.0,Oklahoma,IF
+Sarchione Auto Gallery,2,2,0.0,0.0,SMU,QB
+SaluteLeos,2,2,0.0,0.0,Michigan,All
+ICONX CARDS,2,2,0.0,0.0,LSU,P
+Sally Hansen,2,2,1575405.0,1575405.0,Alabama,WR
+Hometown Realty,2,2,0.0,0.0,,WR
+Homemakers Furniture,2,2,0.0,0.0,Iowa State,PF
+Scarborough Custom Tailoring,2,2,0.0,0.0,University of San Francisco,PG
+Peloton,2,2,0.0,0.0,Michigan,SG
+McKee Homes,2,2,0.0,0.0,NC State,OT
+IPZ,2,2,0.0,0.0,Texas,PG
+McCombs Ford West,2,2,0.0,0.0,UTSA,S
+Playa Society,2,2,0.0,0.0,TCU,SG
+Momentum Ink,2,2,0.0,0.0,Oklahoma,C
+Harry's,2,2,0.0,0.0,North Carolina,SG
+Lowes Foods,2,2,0.0,0.0,Wake Forest,WR
+Lulu's Latin Food,2,2,0.0,0.0,Kansas,RB
+Grammarly,2,2,0.0,0.0,,CG
+Grafton High School Youth Football Camp,2,2,0.0,0.0,West Virginia,QB
+Gourmet Pantry,2,2,0.0,0.0,Ole Miss,CG
+Luka Garza Skills Camp,2,2,0.0,0.0,Iowa,SF
+Myrtle Beach Welcome Home Tour,2,2,0.0,0.0,South Carolina,DL
+Rickart Automative,2,2,0.0,0.0,,EDGE
+Just Women’s Sports,2,2,0.0,0.0,Texas,OH
+NBC Sports,2,2,0.0,0.0,Indiana,OH
+Gopher Brand Athletes,2,2,0.0,0.0,,QB
+Lubbock Meals on Wheels,2,2,0.0,0.0,Texas Tech,C
+SleeperHQ,2,2,0.0,0.0,,PG
+Lowe's Home Improvement,2,2,0.0,0.0,,SF
+Greenleaf Kitchen and Cocktails,2,2,0.0,0.0,Arizona State,RB
+KFC,2,2,0.0,0.0,Alabama A&M,SF
+Gonna Need Milk,2,2,0.0,0.0,UCLA,All
+Revival Fitness Texas,2,2,0.0,0.0,SMU,PF
+Small Wins,2,2,0.0,0.0,Michigan State,DL
+Kamp Kiki,2,1,0.0,0.0,Tennessee,OF
+Premier Health Ohio,2,2,0.0,0.0,Connecticut,CG
+SmartCups,2,2,0.0,0.0,UCLA,CB
+Premier Window Tinting Ink,2,2,0.0,0.0,Nebraska,DS
+GoFundMe,2,2,0.0,0.0,Alabama,PV
+Kansas Farm Bureau,2,2,0.0,0.0,Kansas State,C
+Smoothie King,2,2,0.0,0.0,,PF
+Glory Days Grill,2,2,0.0,0.0,Florida State,DF
+Rising Tide Youth Football Camp,2,2,1575405.0,1575405.0,Michigan,RB
+Jim Click Automotive,2,2,0.0,0.0,Texas State,WR
+Harrington Law,2,2,0.0,0.0,,DL
+Jamal Hill's Turkey Giveaway,2,2,0.0,0.0,Oregon,S
+Harbor Path,2,2,0.0,0.0,Ole Miss,P
+Sharp Performance Combine,2,2,0.0,0.0,Kansas,ATH
+Hangry Joe's,2,2,0.0,0.0,Texas State,DF
+Palmetto Cards,2,2,0.0,0.0,Yale,S
+Rusty Taco,2,2,0.0,0.0,Buffalo,IOL
+Moneyball Sportswear,2,2,0.0,0.0,LSU,SG
+Palmetto Autographs,2,2,2589918.0,2589918.0,South Carolina,QB
+Magnuson Performance,2,2,0.0,0.0,,CB
+Players Club Live,2,2,0.0,0.0,TCU,WR
+Montana Together,2,2,0.0,0.0,Montana,DF
+Plum Practicewear,2,2,0.0,0.0,Oklahoma,All
+Poetryy Finance,2,2,0.0,0.0,South Carolina,PG
+Habitat for Humanity of Monroe County,2,2,0.0,0.0,Indiana,CG
+Jewlr,2,2,0.0,0.0,Central Oklahoma,S
+Habitat Tucson,2,2,0.0,0.0,Tennessee,IOL
+HOPE Farm,2,2,0.0,0.0,TCU,CB
+Polo Ralph Lauren,2,2,0.0,0.0,Oregon,G
+MYEP,2,2,0.0,0.0,Iowa,LB
+PING Golf,2,2,0.0,0.0,Texas A&M,G
+Rockin' Protein,2,2,0.0,0.0,Louisville,CB
+Jeffs Pizza Shop,2,2,0.0,0.0,Iowa State,WR
+PACE Alachua,2,2,0.0,0.0,Florida,DL
+Mt. Olive Pickle Juicers,2,2,0.0,0.0,North Carolina,C
+Jersey Mike's Subs,2,2,0.0,0.0,Boston College,LB
+Grubhub,2,2,0.0,0.0,SMU,MB
+Jewelry Television,2,2,0.0,0.0,Tennessee,P
+Leif Johnson Ford,2,2,0.0,0.0,Oregon State,QB
+Farmers Bank & Trust,2,2,0.0,0.0,Temple,CG
+Curry Brand,2,2,0.0,0.0,LSU,PG
+White Castle,2,2,0.0,0.0,Oregon State,All
+Donor Fest at Overton Square,2,2,0.0,0.0,Troy,RB
+Taylor Made,2,2,0.0,0.0,Oregon,G
+Angel City FC,2,2,0.0,0.0,UCLA,All
+Anita Carmon-Harrison Elementary,2,2,0.0,0.0,Texas Tech,WR
+Charlotte Football Club,2,2,0.0,0.0,Clemson,DF
+Ute Zone,2,2,0.0,0.0,Utah,BB
+Anson Belt & Buckle,2,2,0.0,0.0,UCF,CB
+Team IMPACT,2,1,0.0,0.0,,DL
+Anthony Leal & Trey Galloway Skills Camp,2,2,0.0,0.0,Indiana,SG
+Tempo College Park,2,2,0.0,0.0,Maryland,QB
+Apple Cash,2,2,1500772.0,1500772.0,LSU,CG
+Chegg,2,2,0.0,0.0,,CG
+Tim Short Auto Group,2,2,0.0,0.0,Kentucky,DL
+VKTRY Gear,2,2,0.0,0.0,Duquesne,SG
+Double Z Bar and Grill,2,2,0.0,0.0,Butler,SF
+VO2,2,2,0.0,0.0,Louisville,SF
+Chick-fil-A West Jackson Avenue,2,2,0.0,0.0,Florida State,QB
+Tigers in the Wild,2,2,0.0,0.0,LSU,VT
+Arkansas 211,2,2,0.0,0.0,Arkansas,DL
+Tigers NIL Store,2,1,0.0,0.0,,PG
+The Big 30 Collection,2,1,0.0,0.0,,C
+Chinook Seedery,2,2,0.0,0.0,Arkansas,S
+The Black and Gold Shop,2,2,0.0,0.0,Iowa,SG
+Western Elite,2,2,0.0,0.0,UNLV,SF
+Athlete Zone,2,2,0.0,0.0,,PG
+Tide On Tour,2,2,0.0,0.0,Alabama,LB
+The CavFutures Show,2,2,0.0,0.0,Virginia,OH
+Wender Weis Foundation,2,2,0.0,0.0,Stanford,DL
+Anderson Ford of Lincoln,2,1,0.0,0.0,Nebraska,P
+Champs x Eastbay,2,2,0.0,0.0,Texas,PF
+DeadSoxy,2,2,0.0,0.0,Ole Miss,RB
+Wireless Zone,2,2,0.0,0.0,St. John's,SG
+Wright's Barbecue,2,2,0.0,0.0,SMU,IOL
+Central California Blood Center,2,2,0.0,0.0,Fresno State,IOL
+University of Michigan Credit Union,2,1,0.0,0.0,,CB
+TNNS,2,2,0.0,0.0,Alabama,CG
+Allstate,2,2,0.0,0.0,Alabama,RB
+TR Waste Solutions,2,2,0.0,0.0,LSU,IF
+TRUFF,2,2,0.0,0.0,Ohio State,IOL
+Duke NIL Store,2,2,0.0,0.0,,SG
+Wizeprep,2,2,0.0,0.0,Houston,SG
+Drone Lawrence,2,2,0.0,0.0,Kansas,RB
+Alumni Cookie Dough,2,2,0.0,0.0,Houston,WR
+Tom Shanahan Report,2,2,0.0,0.0,,G
+Drink LMNT,2,2,0.0,0.0,Washington,LB
+Alzheimer Association's,2,2,0.0,0.0,Iowa State,DL
+Downy,2,2,0.0,0.0,Texas,CG
+Winning Way Foundation,2,2,0.0,0.0,South Carolina,DF
+Toledo Mudhens,2,2,0.0,0.0,,SG
+Wing Wars,2,2,0.0,0.0,Kansas State,DL
+Wing Stop,2,2,0.0,0.0,NC State,CG
+Wine and Dine with Willie Fritz,2,2,0.0,0.0,Baylor,DL
+Take a Hike Foundation,2,2,0.0,0.0,Nevada,SG
+Champs Raise,2,2,0.0,0.0,Kansas State,IOL
+Tallahassee Ford,2,2,0.0,0.0,,RB
+Dr. Dish Basketball ,2,2,0.0,0.0,Michigan,CG
+Bobbitt Construction,2,2,0.0,0.0,,QB
+American Red Cross of Indiana,2,2,0.0,0.0,Michigan,QB
+Wilson Basketball,2,2,0.0,0.0,Vanderbilt,PG
+Ames Ford Lincoln,2,2,0.0,0.0,Iowa State,DL
+The City Apartments,2,2,0.0,0.0,Boston College,S
+Christopher Mobley,2,2,0.0,0.0,,WR
+Xfinity,2,2,0.0,0.0,,SG
+Coaching for Literacy,2,2,0.0,0.0,Kansas,WR
+Crescent,2,2,0.0,0.0,LSU,S
+VisitLEX,2,2,0.0,0.0,Kentucky,IOL
+ClearCover,2,2,0.0,0.0,UCLA,RB
+CougsFirst!,2,2,0.0,0.0,Washington State,EDGE
+Bad Boy Mowers,2,2,0.0,0.0,,CG
+Clearcover Insurance,2,2,0.0,0.0,Utah,MB
+Beacon Orthopaedics & Sports Medicine,2,2,0.0,0.0,,QB
+The Warehouse at C.C. Creations,2,2,0.0,0.0,,RB
+Clemson Downs,2,2,0.0,0.0,Clemson,S
+The Vue,2,2,0.0,0.0,Maryland,SG
+Be Present Ohio,2,2,0.0,0.0,Dayton,PG
+Core Hydration,2,2,0.0,0.0,Florida,All
+The Pennant,2,2,0.0,0.0,Kansas State,LB
+Banter,2,2,0.0,0.0,BYU,S
+BUBBL'R,2,2,0.0,0.0,Utah,All
+CommunityCars.com,2,2,0.0,0.0,Indiana,CG
+Banter by Piercing Pagoda,2,2,0.0,0.0,TCU,SF
+Commonwealth Causes,2,2,0.0,0.0,USF,PF
+Bazooka,2,2,1500772.0,1500772.0,LSU,CG
+Cold Beers & Cheeseburgers,2,2,1770113.0,1770113.0,,RB
+Bayview on the Water,2,2,0.0,0.0,Seton Hall,SG
+Vitalant Blood Donation,2,2,0.0,0.0,,WR
+The Real Cost,2,2,0.0,0.0,Connecticut,SG
+Barstool Athlete,2,2,0.0,0.0,,C
+Vittles For Vets,2,2,0.0,0.0,Virginia Tech,WR
+Comfort Food Cook-Off,2,2,0.0,0.0,Iowa,SG
+Columbia Fireflies,2,2,2589918.0,2589918.0,South Carolina,QB
+College Thread,2,2,0.0,0.0,Minnesota,BB
+Behind the Visor,2,2,0.0,0.0,Florida State,IOL
+BOA Nutrition ,2,2,0.0,0.0,Baylor,C
+Wells Fargo,2,2,0.0,0.0,USC,CG
+TheLinkU Shop,2,2,0.0,0.0,Houston,SG
+Austin Allies,2,2,0.0,0.0,Texas,PF
+Chubby's - University Mall,2,2,0.0,0.0,Arizona State,SF
+Darlington Raceway,2,1,0.0,0.0,NC State,QB
+Thompson Family Fund for Cancer Research,2,2,0.0,0.0,Kansas State,WR
+Big Brothers Big Sisters - KC,2,2,0.0,0.0,Kansas,ATH
+Therabody,2,2,0.0,0.0,Duke,DR
+The Dank,2,2,0.0,0.0,NC State,CG
+Aztec Fast Showcase,2,1,0.0,0.0,,RB
+Cincinnati Reds,2,2,0.0,0.0,Cincinnati,IOL
+DAX Hair Care,2,2,0.0,0.0,LSU,All
+WaterLand Co.,2,2,0.0,0.0,Rutgers,QB
+D1 Knoxville,2,2,0.0,0.0,Carson Newman College,QB
+Bevel,2,2,0.0,0.0,Stanford,QB
+Victoria's Secret PINK,2,2,0.0,0.0,Texas,CG
+BMW of Tuscaloosa,2,2,0.0,0.0,,EDGE
+The Foundry Bowling Green,2,0,0.0,0.0,,
+Cirkul,2,2,0.0,0.0,Connecticut,SF
+Cuts Clothing,2,2,0.0,0.0,,PF
+City Center,2,2,0.0,0.0,Oklahoma,IF
+The Green & Gold Sweepstakes,2,2,0.0,0.0,SMU,WR
+City of Hattiesburg,2,2,0.0,0.0,Southern Miss,DF
+Current,2,2,0.0,0.0,Arkansas,CG
+Culver's Restaurants,2,2,0.0,0.0,Florida State,P
+Crumbl Cookies,2,2,0.0,0.0,Clemson,DR
+Clarks Shoes,2,2,0.0,0.0,Kentucky,BB
+Berry Blendz,2,1,0.0,0.0,Ole Miss,SG
+Vinaigrette Salad Kitchen,2,2,0.0,0.0,Louisville,S
+Crosstown Cafe,2,2,0.0,0.0,Purdue,WR
+Eastmont Community Foundation,2,2,0.0,0.0,Virginia Tech,CG
+Tampax,2,2,1500772.0,1500772.0,LSU,CG
+College Football Edits,2,2,0.0,0.0,Sacramento State,WR
+Fanatics Authentic,2,2,0.0,0.0,,C
+US Cellular,2,2,0.0,0.0,Iowa,CG
+Campbell's Chunky Soup,2,2,0.0,0.0,Florida,PG
+Boys & Girls Clubs of King County,2,2,0.0,0.0,Washington,LB
+Tricolor Holdings,2,2,0.0,0.0,UCLA,SF
+Exit 56 Publications,2,2,0.0,0.0,Penn State,QB
+EvoShield,2,2,0.0,0.0,Maryland,QB
+Evening With Coach Franklin and PSU Football,2,2,0.0,0.0,Penn State,LS
+Summer Supply Drive,2,2,0.0,0.0,Iowa State,PG
+CAPSA,2,2,0.0,0.0,Tulsa,QB
+mnml,2,2,0.0,0.0,South Carolina,SG
+C Spire,2,2,0.0,0.0,Mississippi State,PG
+Byrne Insurance,2,2,0.0,0.0,Appalachian State,OT
+UGG,2,2,0.0,0.0,Miami,J
+Uninterrupted,2,2,1500772.0,1500772.0,LSU,CG
+110 Grill,2,2,0.0,0.0,TCU,PG
+TruHeight Supplements,2,2,0.0,0.0,Oregon,PV
+Zaxby’s,2,2,0.0,0.0,Rice,TE
+United Bank,2,2,0.0,0.0,,RB
+CareSource,2,2,0.0,0.0,,SF
+Feeding Southwest Virginia,2,2,0.0,0.0,Virginia Tech,WR
+Feldman Chevrolet of Highland,2,2,0.0,0.0,,TE
+Step One,2,2,0.0,0.0,Sacramento State,DL
+FanJolt,2,2,0.0,0.0,,PG
+Carolina Basketball Association,2,2,0.0,0.0,South Carolina,PG
+304 Properties,2,2,0.0,0.0,West Virginia,VT
+Stone Belt,2,2,0.0,0.0,Indiana,DF
+Family First Center for Autism and Child Developme,2,1,0.0,0.0,Kansas State,PF
+TruFru,2,2,0.0,0.0,Connecticut,SG
+7hills Homeless Center,2,2,0.0,0.0,Missouri,S
+Boys and Girls Club of Southwest Virginia,2,2,0.0,0.0,Ole Miss,PG
+iFolio,2,2,0.0,0.0,Kentucky,SG
+drtlife,2,2,0.0,0.0,Baylor,EDGE
+Fabletics,2,2,0.0,0.0,Grand Canyon University,MF
+Fan Controlled Football,2,2,0.0,0.0,,QB
+Stewart Campus,2,2,0.0,0.0,UTSA,DL
+CLR Academy,2,1,0.0,0.0,,RB
+Boys and Girls Club of Bloomington,2,2,0.0,0.0,Indiana,CB
+USA Softball,2,2,0.0,0.0,Wichita State,IF
+CVS,2,2,0.0,0.0,Pittsburgh,RB
+ACCELERATOR,2,2,0.0,0.0,Arkansas,PF
+Boys & Girls Clubs of the Pee Dee,2,2,0.0,0.0,Clemson,DL
+boohooMAN,2,1,0.0,0.0,Sacramento State,SF
+All In Beauty & Wellness Spa,2,2,0.0,0.0,UTSA,CB
+iHerb,2,2,0.0,0.0,Maryland,All
+CHRISTUS Children's Hospital,2,2,0.0,0.0,UTSA,QB
+F45 South Training,2,2,0.0,0.0,Connecticut,SF
+Starkey Inc.,2,2,0.0,0.0,Mississippi State,C
+StockX,2,1,0.0,0.0,,CG
+Carolina Courtesy,2,2,0.0,0.0,South Carolina,SF
+Cats Can,2,2,0.0,0.0,,RB
+Fillback Family of Dealerships,2,1,0.0,0.0,,OT
+Casetify,2,2,0.0,0.0,LSU,All
+Fire Fly Recovery,2,2,0.0,0.0,Pittsburgh,OH
+First Watch,2,2,0.0,0.0,Boston College,WR
+YSS,2,2,0.0,0.0,Iowa State,PG
+Airbnb,2,2,0.0,0.0,Indiana,SF
+Casper,2,2,0.0,0.0,Texas,SF
+Catoe's Power Equipment,2,1,0.0,0.0,,LB
+Brighton Ford,2,2,0.0,0.0,Michigan,DL
+Brew City Battle,2,2,0.0,0.0,Wisconsin,PG
+YSL,2,2,0.0,0.0,LSU,All
+YMCA of Centre County,2,2,0.0,0.0,Penn State,OT
+Turn 90,2,2,0.0,0.0,Florida,LB
+"""Boston Ball""",2,2,0.0,0.0,,PG
+Alba Botanica’s Pimple Patches,2,2,0.0,0.0,Oregon State,All
+Boosted,2,2,0.0,0.0,Baylor,SG
+Albion Fit,2,2,0.0,0.0,Utah,SG
+"""Air""",2,2,0.0,0.0,North Florida,DL
+Yasso Frozen Greek Yogurt,2,2,0.0,0.0,Florida,All
+Surcheros Fresh Mex,2,2,0.0,0.0,Georgia,WR
+Fetch Rewards,2,2,0.0,0.0,,PG
+"10,000 Small Businesses Voices",2,2,0.0,0.0,Arizona,CG
+Advanced Heating & Cooling,2,2,0.0,0.0,,CB
+Town & Country Farms,2,2,0.0,0.0,,PG
+Yellow Door Foundation,2,2,0.0,0.0,Virginia,AT
+Fifth Season,2,1,0.0,0.0,Pittsburgh,AT
+Trueblood Real Estate,2,2,1882464.0,1882464.0,Purdue,PF
+Advanced Emurgent Care,2,2,0.0,0.0,Liberty,PF
+Young & Established,2,2,0.0,0.0,Indiana,OT
+Totes,2,2,0.0,0.0,Indiana,SG
+U.S. Department of Justice,1,0,0.0,0.0,,
+Victory Snacks,1,1,0.0,0.0,,QB
+Pizza Provisions,1,1,0.0,0.0,Campbell,CB
+U.S. Attorney’s Office,1,0,0.0,0.0,,
+Pizza Hut,1,1,0.0,0.0,Wyoming,QB
+UCLA Ticket Office,1,1,0.0,0.0,UCLA,QB
+Vivid Seats,1,1,0.0,0.0,Vanderbilt,OF
+UConn Men’s Championship Dinner,1,0,0.0,0.0,,
+Quashie Family Dental,1,1,0.0,0.0,Hampton,SG
+Podium,1,1,0.0,0.0,,PG
+Voice in Sport,1,1,0.0,0.0,SMU,MB
+Pivot Bio Originals,1,1,0.0,0.0,Iowa State,PG
+Volley On,1,1,0.0,0.0,,MB
+USAA,1,1,0.0,0.0,Texas A&M,G
+USMC Sports Leadership Academy,1,1,0.0,0.0,Kentucky,IOL
+Pittsburgh Sports Now,1,1,0.0,0.0,Pittsburgh,PG
+Vital Performance,1,1,0.0,0.0,TCU,CG
+Virc Nutritionals,1,1,0.0,0.0,,QB
+Platin Audio,1,1,0.0,0.0,UCLA,RB
+Visit Sarasota County,1,1,0.0,0.0,Florida,S
+Plantiful Superfoods,1,1,0.0,0.0,Seattle University,SG
+Q30 Innovations,1,1,0.0,0.0,,S
+Virc Snacks,1,1,0.0,0.0,Utah,BB
+Vintage Brand,1,1,0.0,0.0,Florida,IF
+Visit Bloomington,1,1,0.0,0.0,,SG
+PuttView,1,1,0.0,0.0,Oregon,G
+UPLIFT Coffee,1,1,0.0,0.0,Kansas,ATH
+Playa’s Fashion,1,1,0.0,0.0,NC State,CG
+PlayBooked,1,1,0.0,0.0,,S
+ViewPointe Vision,1,1,0.0,0.0,Nebraska,IF
+USA Competitions,1,1,0.0,0.0,Utah,BB
+VinFast,1,1,0.0,0.0,Auburn,All
+Playtex,1,1,0.0,0.0,UCLA,All
+U.S. Marines,1,1,0.0,0.0,Florida State,QB
+Villanova’s Special Olympics,1,0,0.0,0.0,,
+Purple,1,1,0.0,0.0,UCLA,All
+Vitalant,1,1,0.0,0.0,,OT
+Queens Pro,1,1,0.0,0.0,UCLA,MF
+Quarterbacks Against Cancer Camp,1,1,0.0,0.0,UT Martin,QB
+Prisma Health-Upstate Giving,1,1,0.0,0.0,,DL
+PokesWithAPurposeMerch.com,1,1,0.0,0.0,Houston,IOL
+VEII Apparel,1,1,0.0,0.0,,S
+Volo Sports,1,1,0.0,0.0,Bryant University,PG
+United Sports,1,1,0.0,0.0,Iowa State,SG
+Upside,1,1,0.0,0.0,,IOL
+Premier Girls Fastpitch,1,1,0.0,0.0,Nebraska,P
+Preediction,1,1,0.0,0.0,,C
+Prohibition Soap,1,1,0.0,0.0,,QB
+Precious Hunnie Beez Florals,1,1,0.0,0.0,,EDGE
+Uptown Brewing Co.,1,1,0.0,0.0,East Carolina,QB
+United Equity,1,1,0.0,0.0,Nebraska,L
+Urban Skin RX,1,1,0.0,0.0,TCU,CG
+Project 44,1,1,0.0,0.0,SMU,CG
+Urbana Middle School,1,1,0.0,0.0,Illinois,QB
+Uswing Sunglasses,1,1,0.0,0.0,,G
+Utah Sour Gummies,1,1,0.0,0.0,Utah,VT
+Utah Warriors Rugby,1,1,0.0,0.0,,QB
+Produce Section Clothing,1,1,0.0,0.0,Colorado,S
+PrettyLittleThing,1,1,0.0,0.0,Auburn,All
+Prodigy Fitness,1,1,0.0,0.0,Pittsburgh,WR
+United Way of Battle Creek/Kalamazoo,1,1,0.0,0.0,Western Michigan,IOL
+University Credit Union,1,1,0.0,0.0,California Baptist University,SG
+University Co-op,1,1,0.0,0.0,Texas,L
+University Book Store,1,1,0.0,0.0,,PG
+Prissy Athletics,1,1,0.0,0.0,,SF
+Pro Camps,1,0,0.0,0.0,,
+Universal Orlando Resort,1,1,0.0,0.0,UCF,QB
+Up and Running Ohio,1,1,0.0,0.0,Dayton,CG
+Proceller8,1,1,0.0,0.0,NC State,P
+Prime Society,1,1,0.0,0.0,UCF,SF
+Uplift Coffee Co,1,1,0.0,0.0,,SG
+Prime,1,1,0.0,0.0,TCU,CG
+United States Sports Cards,1,1,0.0,0.0,Maryland,BB
+United States Polo Association,1,1,0.0,0.0,UCLA,QB
+Upper Deck,1,1,0.0,0.0,,QB
+Prater's Flooring,1,1,0.0,0.0,Tennessee,CG
+PrOWLerzClub,1,1,0.0,0.0,Arkansas,SG
+Veritx Community Bank,1,1,0.0,0.0,Texas A&M,G
+Unilever,1,1,0.0,0.0,Utah,All
+Prowlerz Club,1,1,0.0,0.0,Wisconsin,PG
+Vanguard Volkswagen ,1,1,0.0,0.0,Texas,CB
+Prudential Financial,1,0,0.0,0.0,,
+Public Rec,1,1,0.0,0.0,Florida,All
+Porsche of Jackson,1,1,0.0,0.0,,S
+Vanlinker,1,1,0.0,0.0,Louisville,S
+Vapor Apparel,1,1,0.0,0.0,Clemson,DR
+Umaps,1,1,0.0,0.0,Florida,All
+Purdue Institute for Cancer Research,1,1,0.0,0.0,Purdue,PF
+Poppa Earle's,1,1,0.0,0.0,Louisiana,C
+Popeyes,1,1,0.0,0.0,Lake Erie College,IOL
+Venmo,1,1,0.0,0.0,Penn State,QB
+Pond Lehocky,1,1,0.0,0.0,,S
+Uber Eats,1,1,1575405.0,1575405.0,Alabama,WR
+Verb Energy,1,1,0.0,0.0,Illinois,OF
+Vanessa Flair,1,1,0.0,0.0,Utah,BB
+Positivity Water,1,1,0.0,0.0,,S
+Protect The Pack,1,1,0.0,0.0,,RB
+Uncomn Wealth,1,1,0.0,0.0,,TE
+Unified Volleyball Camp,1,1,0.0,0.0,Nebraska,L
+Powercat Sports Grill,1,1,0.0,0.0,,PG
+VELO Sports,1,1,0.0,0.0,Florida,OF
+Project Repat,1,1,0.0,0.0,,J
+Undeniably Dairy,1,1,0.0,0.0,,DF
+VI Coffee Bar,1,1,0.0,0.0,Xavier,PF
+Power of Bowser Auto,1,1,0.0,0.0,,DL
+Value City Furniture,1,1,0.0,0.0,,QB
+Proplan,1,1,0.0,0.0,,All
+Valiant MGMT,1,1,0.0,0.0,Duke,WR
+Power To The Patients,1,1,0.0,0.0,,PF
+Pottery Barn Teen,1,1,0.0,0.0,UCLA,All
+Valley GMC,1,1,1625635.0,1625635.0,Oklahoma,QB
+Uncle Funky's Daughter,1,1,0.0,0.0,,CG
+Pups Day Out Football Camp,1,1,0.0,0.0,,LB
+St. Louis School,1,1,0.0,0.0,Memphis,PF
+Pittsburgh Pirates,1,1,0.0,0.0,,S
+Zero-G Mouthguards,1,1,0.0,0.0,Georgia Southern,WR
+Orgain,1,1,0.0,0.0,Texas,OH
+Ore-Ida Potatoes,1,1,0.0,0.0,,SG
+Orangetheory Fitness,1,1,0.0,0.0,,C
+Orange Park Big Man Camp,1,1,0.0,0.0,Florida,IOL
+YUNMAI,1,1,0.0,0.0,West Virginia,SG
+YWCA Nashville,1,1,0.0,0.0,Notre Dame,CG
+Options Travel,1,1,0.0,0.0,Utah,SG
+Opolis Clothing Company,1,1,0.0,0.0,,LB
+Yaxel Lendeborg Basketball Camp,1,1,2274193.0,2274193.0,Michigan,PF
+Operation Give Birds,1,1,0.0,0.0,Iowa,CG
+Opendorse,1,1,0.0,0.0,,DL
+Your Brand Voice,1,1,0.0,0.0,Arkansas State,WR
+Opal Camera,1,1,0.0,0.0,Iowa State,PG
+YouthBASE,1,1,0.0,0.0,Clemson,WR
+ZIYNX,1,1,0.0,0.0,,S
+Zane Durant Youth Football Camp ,1,1,0.0,0.0,Penn State,DL
+Zarell Fashion,1,1,0.0,0.0,,PF
+Onpointe Tax and Accounting,1,1,0.0,0.0,Cincinnati,DL
+Ono Hawaiian BBQ,1,1,0.0,0.0,Sacramento State,IOL
+Zero FG Energy,1,1,3139796.0,3139796.0,Miami,QB
+OneGroup,1,1,0.0,0.0,,C
+Orlin & Cohen Orthopedic Group,1,0,0.0,0.0,,
+OrthoCarolina,1,1,0.0,0.0,Tennessee,OT
+Orthodontics Exclusively,1,1,0.0,0.0,Oklahoma,P
+Overtime Gym,1,1,0.0,0.0,Iowa State,PG
+PEAS,1,1,0.0,0.0,St. John's,SF
+Winchell Mountain Coffee,1,0,0.0,0.0,,
+PEAKZ,1,1,0.0,0.0,,S
+PATTERN,1,1,0.0,0.0,Arizona State,P
+Windsor Store,1,1,0.0,0.0,SMU,MB
+Ozark Adaptive Sports Association,1,1,0.0,0.0,Arkansas,CB
+Wiseguy Pizza Pie,1,1,2056072.0,2056072.0,Arkansas,QB
+Owen County State Bank,1,1,0.0,0.0,Indiana,SG
+Owala,1,1,0.0,0.0,Louisville,S
+Overtime Fits,1,1,0.0,0.0,TCU,CG
+Ouai,1,1,0.0,0.0,South Carolina,SG
+Woodhouse Auto Family,1,1,0.0,0.0,,EDGE
+Wreaths Across America,1,1,0.0,0.0,,PG
+Outlander Capital,1,1,0.0,0.0,SMU,S
+XPAND Sports,1,1,0.0,0.0,LSU,All
+Ouro,1,0,0.0,0.0,,
+Xtreme Xperience,1,1,0.0,0.0,,OT
+Our Friend Christopher,1,1,0.0,0.0,,LB
+Our Daily Bread Food & Resource Center,1,1,0.0,0.0,Oklahoma State,IOL
+Our Daily Bread,1,1,0.0,0.0,,WR
+One.One,1,1,0.0,0.0,Kansas State,QB
+One Way Clothing,1,1,0.0,0.0,Syracuse,SG
+Williamson Cosmetic Center,1,1,0.0,0.0,,CG
+Zhou Nutrition,1,1,0.0,0.0,New Hampshire,All
+Olay,1,1,0.0,0.0,Charlotte,SG
+Oklahoma State Sour Gummies,1,1,0.0,0.0,,S
+imPRESS,1,1,0.0,0.0,UCLA,All
+kanjam,1,1,0.0,0.0,,DL
+Oklahoma Pork,1,1,0.0,0.0,,RB
+Oklahoma Motorcars,1,1,0.0,0.0,,P
+mph.bank,1,1,0.0,0.0,Florida,All
+myNILpay,1,1,0.0,0.0,LSU,TE
+nate,1,1,0.0,0.0,,All
+Oh Snap! Pickles,1,1,0.0,0.0,Yale,QB
+Office of National Drug Control Policy,1,1,0.0,0.0,Arizona,S
+Odyssey Snacks,1,1,0.0,0.0,Utah,BB
+Odor Exploder,1,1,0.0,0.0,,WR
+nuuly,1,1,0.0,0.0,Duke,DR
+ripple,1,1,0.0,0.0,Florida State,IF
+Oconee Gold,1,1,0.0,0.0,NC State,OT
+sauce,1,1,0.0,0.0,UCLA,QB
+Oats Over Night,1,1,0.0,0.0,Louisville,S
+scoutSMART,1,1,0.0,0.0,,RB
+trü frü,1,1,0.0,0.0,Washington,P
+v-moda,1,1,0.0,0.0,,QB
+iProvide Fitness,1,1,0.0,0.0,,RB
+Old Hickory Bats,1,1,0.0,0.0,Wake Forest,IF
+Old Vienna,1,1,0.0,0.0,,WR
+bibigo,1,1,0.0,0.0,UCLA,All
+One Initiative,1,1,0.0,0.0,,IOL
+Ziebart USA,1,1,0.0,0.0,Western Michigan,RB
+Zion Stanford Basketball Camp,1,1,0.0,0.0,Villanova,SF
+ZipRecruiter,1,1,0.0,0.0,Florida,All
+adidas Football,1,1,0.0,0.0,Charlotte,SG
+alice + olivia by StaceyBendet,1,1,0.0,0.0,,PG
+Omni Oklahoma City Hotel,1,1,0.0,0.0,Nebraska,P
+b condoms,1,1,0.0,0.0,,S
+Omaha Productions,1,1,0.0,0.0,,All
+c.w.urban,1,1,0.0,0.0,Utah,SG
+hannismooth,1,1,0.0,0.0,Texas,CG
+c4energy,1,1,0.0,0.0,Savannah State,TE
+corosglobal,1,1,0.0,0.0,Notre Dame,DR
+Ole Boy Outfitters,1,1,0.0,0.0,Oklahoma State,IOL
+cuts,1,1,0.0,0.0,Clemson,PG
+e.l.f. Cosmetics and Skincare,1,1,0.0,0.0,,SG
+envio skincare,1,1,0.0,0.0,Creighton,OH
+every bitch needs a scrunchie,1,1,0.0,0.0,Louisville,OH
+got2b,1,1,0.0,0.0,UCLA,All
+grey street.,1,1,0.0,0.0,,PV
+PLB Sports,1,1,0.0,0.0,,QB
+POWERHANDZ,1,1,1500772.0,1500772.0,LSU,CG
+Pitt County Public Schools,1,1,0.0,0.0,East Carolina,OT
+Peacock,1,1,0.0,0.0,Loyola (Chi),CG
+Waitr,1,1,0.0,0.0,LSU,IF
+Perplexity,1,1,0.0,0.0,,CB
+Walcott Denistry,1,1,0.0,0.0,,TE
+Performance Toyota Bountiful,1,1,0.0,0.0,Utah,QB
+Walk-On's,1,1,0.0,0.0,LSU,TE
+Walkaway Sports,1,1,0.0,0.0,,C
+Walker's Furniture,1,1,0.0,0.0,,C
+Walter Hays Elementary School,1,1,0.0,0.0,Stanford,SG
+War Eagle Plus,1,1,0.0,0.0,,P
+War of Will,1,1,0.0,0.0,,QB
+Warby Parker,1,1,5317157.0,5317157.0,Texas,QB
+Warped Wing Springboro,1,1,0.0,0.0,,PF
+Washington Gives,1,0,0.0,0.0,,
+Washington NIL Store,1,1,0.0,0.0,Washington,P
+Washington Trails,1,0,0.0,0.0,,
+Tylenol,1,1,0.0,0.0,Ohio State,LB
+Pennzoil,1,1,0.0,0.0,,C
+Pennsylvania Pork Producers Council,1,1,0.0,0.0,,EDGE
+Washington Trust Bank,1,1,0.0,0.0,,SF
+Peel Panthers Talent Showcase,1,1,0.0,0.0,,WR
+Water Street Tavern,1,1,0.0,0.0,Kansas State,WR
+Waiakea,1,1,0.0,0.0,UCLA,IF
+Wagbnb,1,1,0.0,0.0,,QB
+Peter Blum Family YMCA of Boca Raton,1,1,0.0,0.0,Arkansas,SG
+WA Beef Checkoff,1,1,1625635.0,1625635.0,Oklahoma,QB
+Pit Viper,1,1,0.0,0.0,,S
+Volunteer Club Locker Room,1,1,0.0,0.0,Tennessee,PG
+Pioneer Communications,1,1,0.0,0.0,Kansas State,IOL
+Vortex Optics,1,1,0.0,0.0,Florida,P
+Vote.org,1,1,0.0,0.0,SMU,CB
+Pieratt's,1,1,0.0,0.0,Arkansas,PG
+Pickering Energy Partners,1,1,0.0,0.0,Houston,S
+Pickens County Humane ,1,1,0.0,0.0,,SG
+W  ,1,1,0.0,0.0,,All
+Phillips Farm,1,1,0.0,0.0,,IOL
+WSLAM,1,1,0.0,0.0,,SG
+WAYA,1,1,0.0,0.0,Texas,OPP
+Philips Norelco,1,1,0.0,0.0,Georgia,WR
+Phil Long Ford,1,1,0.0,0.0,,CB
+WIFI Managment,1,1,0.0,0.0,Point Park University,SG
+Petsmart,1,1,0.0,0.0,,WR
+Peter Boulware Toyota,1,1,0.0,0.0,,DL
+WIN Reality,1,1,0.0,0.0,Vanderbilt,IF
+WKU NIL Store,1,0,0.0,0.0,,
+WSB-TV,1,1,0.0,0.0,Georgia,TE
+"Peacock, Ellison & French CPA",1,1,0.0,0.0,,IOL
+Pawster Nashville,1,1,0.0,0.0,Vanderbilt,S
+Williams Architecture,1,1,0.0,0.0,,OT
+Pawnee Mental Health,1,1,0.0,0.0,Kansas State,DS
+Westwood Home Services,1,1,0.0,0.0,Missouri,QB
+Papa John's,1,1,1500772.0,1500772.0,LSU,CG
+White Allen Chevy,1,1,0.0,0.0,,PF
+Panther City Lacrosse Club,1,1,0.0,0.0,,LB
+White Allen Euro,1,1,0.0,0.0,,PF
+Panda Express,1,1,0.0,0.0,UCLA,All
+Whitney Donut & Sandwich Shop,1,1,0.0,0.0,Quinnipiac,G
+Whole Foods,1,1,0.0,0.0,UCLA,QB
+Palmetto Super Foods,1,1,0.0,0.0,University of San Francisco,MF
+Wild Card,1,1,0.0,0.0,,WR
+Wild Salsa,1,1,0.0,0.0,SMU,MB
+Palmer Physical Therapy,1,1,0.0,0.0,Wichita State,IF
+Wild Trading Cards,1,1,0.0,0.0,,QB
+Painting With a Twist,1,1,0.0,0.0,USC,LB
+Wildcats Winter Hoopfest,1,0,0.0,0.0,,
+Painted by James Charles,1,1,0.0,0.0,South Carolina,SG
+Pacsun,1,1,0.0,0.0,USC,J
+Pack Leaders Rescue of CT,1,0,0.0,0.0,,
+Pace Center for Girls,1,1,0.0,0.0,Florida,IF
+PVL Sports Nutrition,1,1,0.0,0.0,Duke,SG
+Wildfang,1,1,0.0,0.0,,PF
+Pape,1,1,0.0,0.0,Indiana,SG
+Westside Pour House,1,1,0.0,0.0,Memphis,QB
+Paper Planes,1,1,0.0,0.0,Kentucky,QB
+Weetabix,1,1,0.0,0.0,,PF
+Pauly Presley Realty,1,1,0.0,0.0,Texas,OH
+Paul Miller Mazda,1,1,0.0,0.0,TCU,PG
+Waterloo Greenway,1,1,0.0,0.0,,LB
+WeUpNow Gaming,1,1,0.0,0.0,,CB
+Wear SPF,1,1,0.0,0.0,Louisville,S
+Web Apps America,1,1,0.0,0.0,,PG
+Patrol Grooming,1,1,0.0,0.0,South Carolina,PG
+Webb Wealth Advisors,1,1,0.0,0.0,,PG
+Weekend Warrior,1,1,0.0,0.0,Iowa,SG
+Wended Weis Foundation,1,1,0.0,0.0,Stanford,LB
+Westrock Orthodontics,1,1,0.0,0.0,UCF,QB
+Wender Weis Foundation for Children,1,1,0.0,0.0,Stanford,OT
+West Alabama Food Bank,1,1,0.0,0.0,,IOL
+West Austin Youth Association,1,1,0.0,0.0,Texas,OH
+Parity Now,1,1,0.0,0.0,,PF
+Paris Chane,1,1,0.0,0.0,Oregon,S
+Parfait,1,1,0.0,0.0,South Carolina,PG
+Parade,1,1,0.0,0.0,Louisville,S
+Western Kentucky NIL Store,1,1,0.0,0.0,Western Kentucky,DF
+Westfield Basketball,1,1,1882464.0,1882464.0,Purdue,PG
+Tyler Elsdon Football Camp,1,1,0.0,0.0,Penn State,LB
+Toyota of Tampa Bay,1,1,0.0,0.0,USF,QB
+Twyneo,1,1,0.0,0.0,,QB
+Taqueria Santa Cruz Express,1,1,0.0,0.0,Cal Poly,LS
+Takis ,1,1,0.0,0.0,UCLA,All
+Tallahassee DCJ,1,1,0.0,0.0,,WR
+Simple Human,1,1,0.0,0.0,UCLA,SG
+Simmons Erosion Control,1,1,0.0,0.0,,QB
+Simcoe and Zion Food Banks,1,1,0.0,0.0,,IOL
+Silicon Valley Down Syndrome Network,1,1,0.0,0.0,Stanford,OT
+Tanner Bailey Football Camp,1,1,0.0,0.0,Auburn,QB
+Signature Roofing,1,1,0.0,0.0,Boise State,SF
+Signature Ride,1,1,1713689.0,1713689.0,LSU,QB
+Sierato,1,1,0.0,0.0,,PG
+SideBar,1,1,0.0,0.0,Alabama,PV
+RBI Austin,1,1,0.0,0.0,Texas,OH
+Tavern on George,1,1,0.0,0.0,,WR
+Tayion Collection,1,1,0.0,0.0,Auburn,PG
+TaylorMade,1,1,0.0,0.0,Miami,G
+Shuck Cancer New Orleans,1,1,0.0,0.0,,QB
+Shriners Children’s Hospital,1,1,0.0,0.0,Houston,SG
+Team Boneyard Turkey Drive,1,1,0.0,0.0,USC,PF
+Shoot-A-Way,1,1,0.0,0.0,,CG
+Team HOTSHOT,1,1,0.0,0.0,TCU,AT
+Team Hally,1,1,0.0,0.0,Kansas State,C
+Shoot Around with Knecht,1,1,0.0,0.0,,SG
+Sioux Shop,1,0,0.0,0.0,,
+Sip Swigg,1,1,0.0,0.0,LSU,All
+Take One Sportswear,1,1,0.0,0.0,Texas Southern,QB
+Tajh Boyd Foundation,1,1,0.0,0.0,Clemson,EDGE
+Syracuse Orange NIL Merch,1,1,0.0,0.0,Syracuse,SG
+TABLE,1,1,0.0,0.0,,QB
+TB12Sports,1,1,0.0,0.0,Alabama,GK
+Slumberland Furniture Champaign,1,1,0.0,0.0,,QB
+Slice House,1,1,0.0,0.0,Florida State,OT
+TGP Homes,1,1,0.0,0.0,Maryland,PG
+TIY,1,1,0.0,0.0,Creighton,OH
+Slice Brothers Pizza,1,1,0.0,0.0,Virginia Tech,LB
+TKO Miller,1,1,0.0,0.0,,CG
+Sleek by Hailey,1,1,0.0,0.0,,S
+Sleefs,1,1,0.0,0.0,,S
+TWG Development,1,1,0.0,0.0,Indiana,SG
+TYR Sport,1,1,0.0,0.0,Stanford,S
+SkylarWallace.com,1,1,0.0,0.0,Florida,IF
+Tac Ops,1,1,0.0,0.0,,PF
+SkyBox Sports,1,1,0.0,0.0,,CB
+Skin by Brownlee & Co,1,1,0.0,0.0,Michigan,SG
+Tackle Cancer,1,1,0.0,0.0,Texas A&M,EDGE
+Taco Time,1,1,0.0,0.0,Utah State,S
+SixFour3,1,1,0.0,0.0,Florida State,P
+Tailgate Challenge,1,1,0.0,0.0,UTSA,SG
+Shokz,1,1,0.0,0.0,Auburn,All
+Shoe Game,1,1,0.0,0.0,South Carolina,PG
+Shocker Grind,1,1,0.0,0.0,Wichita State,IF
+Seoul Juice,1,1,0.0,0.0,Oklahoma,IF
+Sellers Sisters' Summer Basketball Camp,1,1,0.0,0.0,Maryland,SG
+Seeds of Caring,1,1,0.0,0.0,Ohio State,AT
+The Brading Lounge,1,1,0.0,0.0,Michigan,SG
+Secret Deodorant,1,1,0.0,0.0,Charlotte,SG
+The Cardinal,1,1,0.0,0.0,Liberty,QB
+The Center for Family Outreach,1,1,0.0,0.0,Baylor,WR
+Sea Shells Seafood Restaurant,1,1,0.0,0.0,,PG
+Scullis Pizza,1,1,0.0,0.0,,S
+The Coldest Water,1,1,0.0,0.0,,RB
+Screen for Type 1,1,1,0.0,0.0,UCLA,All
+The Cotton Gin,1,1,0.0,0.0,South Carolina,QB
+Scratch Kitchen & Cocktails,1,1,0.0,0.0,Oklahoma,All
+The Crimson and Cream Youth Basketball Camp,1,0,0.0,0.0,,
+The DW Designs,1,1,0.0,0.0,,PF
+Scout,1,1,0.0,0.0,Florida,All
+The Dan Le Batard Show,1,1,0.0,0.0,SMU,QB
+Scotland Motors,1,1,0.0,0.0,NC State,PG
+Scotch Porter,1,1,0.0,0.0,UCLA,QB
+The Den,1,1,0.0,0.0,UCLA,C
+The Detroit Garage,1,1,0.0,0.0,,RB
+The F1NO Project,1,1,0.0,0.0,,CG
+Senné,1,1,0.0,0.0,,MF
+Sergio's Restaurants,1,1,0.0,0.0,Miami,OT
+Team IFA,1,1,0.0,0.0,Minnesota,EDGE
+The Big Stomp,1,1,0.0,0.0,North Carolina,SF
+Shipt,1,1,0.0,0.0,South Carolina,PG
+Team Lax Goalie Rat,1,1,0.0,0.0,USC,GK
+Shipley Energy,1,1,0.0,0.0,Missouri,QB
+Shea Butter,1,1,0.0,0.0,TCU,AT
+Shaylee Gonzales Basketball Camp,1,1,0.0,0.0,Texas,CG
+Sharpe's of Stillwater,1,1,0.0,0.0,Oklahoma,S
+Terrell's Potato Chips,1,1,0.0,0.0,,QB
+Texas Pete,1,1,0.0,0.0,South Carolina,PF
+Thacker Jewelry,1,1,0.0,0.0,,QB
+Shaquille O’Neal Foundation,1,1,0.0,0.0,,PG
+Shaklee,1,1,0.0,0.0,Ashland University,PV
+The 33rd Team,1,1,0.0,0.0,,RB
+Setzer Properties,1,1,0.0,0.0,,DL
+Settlemier’s Jackets,1,1,0.0,0.0,Oregon,PG
+The Abernathy,1,1,0.0,0.0,Missouri,CB
+The Aggazine,1,1,0.0,0.0,Arkansas,WR
+The Athlete's Foot,1,1,1500772.0,1500772.0,LSU,CG
+Seth Wadley Dealerships,1,1,0.0,0.0,Oklahoma,P
+Serious Player Only,1,1,0.0,0.0,Florida,PG
+The Big Hoopla,1,1,0.0,0.0,Dayton,SG
+Serious Bean Co.,1,1,0.0,0.0,,QB
+Smarter Greens,1,1,0.0,0.0,Oregon State,UB
+Smooth & Groove,1,1,0.0,0.0,Auburn,PG
+Synovus Bank,1,1,0.0,0.0,,QB
+Sportneer,1,1,0.0,0.0,,S
+Stephen Toyota,1,1,0.0,0.0,,C
+Spokane International Airport,1,1,0.0,0.0,Gonzaga University,SG
+Spirit Shop,1,1,0.0,0.0,North Florida,SG
+Spikeball,1,1,0.0,0.0,,S
+Spencer Salmon Real Estate,1,1,0.0,0.0,,QB
+Spencer Rattler Football Camp,1,1,0.0,0.0,,QB
+StickIt,1,1,0.0,0.0,Maryland,OT
+Special Olympics Tennessee,1,1,0.0,0.0,Vanderbilt,IF
+Stifel,1,1,0.0,0.0,Stanford,G
+Special Olympics Missouri,1,1,0.0,0.0,,CB
+Stone Belt Arc,1,1,0.0,0.0,Indiana,DF
+Stop Childrens Cancer,1,1,0.0,0.0,,QB
+Spartan NIL Store,1,1,0.0,0.0,Michigan State,CG
+Sparrow Salon,1,1,0.0,0.0,Michigan,SG
+Sparkling Ice,1,1,0.0,0.0,,SF
+Streignth Sportswear,1,1,0.0,0.0,Iowa State,SG
+Stretch Fusion,1,1,0.0,0.0,Tennessee,SG
+Spalding,1,1,0.0,0.0,Iowa State,PG
+Southwest Human Development,1,1,0.0,0.0,Sacramento State,QB
+Stride Sports,1,1,0.0,0.0,Illinois State,OT
+Southern Nevada Water Authority,1,1,0.0,0.0,,QB
+Stead Family Children’s Hospital,1,1,0.0,0.0,East Tennessee State,QB
+StayTooned Athletics,1,1,0.0,0.0,,P
+Stronger Than Cancer,1,1,0.0,0.0,Oklahoma,OF
+Sports Addiction,1,1,0.0,0.0,,DL
+Stackwell Capital Digital Investment,1,1,0.0,0.0,TCU,SG
+Staks Kitchen,1,1,0.0,0.0,Auburn,All
+Stand-With-Bands,1,1,0.0,0.0,Nebraska,DS
+St. Austin Catholic Parish,1,1,0.0,0.0,,S
+Squishmallows,1,1,0.0,0.0,Alabama,OF
+Squire Jehegan Outreach Center,1,1,0.0,0.0,Gonzaga University,CG
+"Squire & Company, PC",1,1,0.0,0.0,BYU,SF
+Star Face,1,1,0.0,0.0,LSU,All
+Square One Vintage,1,1,0.0,0.0,Colorado State,PG
+StarKist,1,1,0.0,0.0,UCLA,PG
+Starbucks,1,1,0.0,0.0,Colorado,QB
+Start Up Waco,1,0,0.0,0.0,,
+Starz,1,1,0.0,0.0,,S
+Stashlete,1,1,0.0,0.0,South Carolina,DF
+Sportsfinda,1,1,0.0,0.0,Oklahoma,OF
+Sports Locker,1,1,0.0,0.0,Kansas,SG
+State College Arts Festival,1,1,0.0,0.0,Penn State,DL
+Sports Illustrated Tickets,1,1,0.0,0.0,Miami,PF
+OVME Aesthetics,1,1,0.0,0.0,Princeton,AT
+Sports Clips,1,1,0.0,0.0,,OT
+Sports Biz Network,1,1,0.0,0.0,,SF
+Strike,1,1,0.0,0.0,,LB
+StubHub,1,1,0.0,0.0,Providence,SF
+Sylvia P,1,1,0.0,0.0,Florida,UB
+Sonder Mind,1,1,0.0,0.0,Arizona,IF
+Super Saver Foods,1,1,0.0,0.0,Nebraska,IF
+Solaro Shades,1,1,0.0,0.0,Mississippi State,OF
+Soirée For Sudan ,1,1,0.0,0.0,,WR
+Soccer Master,1,1,0.0,0.0,Marquette,MF
+Soccer Girl Problems,1,1,0.0,0.0,Alabama,GK
+Sobro,1,1,0.0,0.0,,PG
+Super Speed Golf,1,1,0.0,0.0,University of San Francisco,G
+SuperBeets Sport,1,1,0.0,0.0,Texas,T
+SuperSpeed Golf,1,1,0.0,0.0,,G
+SoFabFood,1,1,0.0,0.0,,EDGE
+Susan G. Komen,1,1,0.0,0.0,,LB
+Snoking Gun Jerky,1,1,0.0,0.0,Nebraska,DS
+Sweet Cheeks Diaper Bank,1,1,0.0,0.0,,DL
+Snappy’s Summer Party,1,1,0.0,0.0,,IOL
+Snap Kitchen,1,1,0.0,0.0,Baylor,LB
+Snackpass,1,1,0.0,0.0,,S
+Sweetkiwi,1,1,0.0,0.0,Houston,SG
+Smuckers,1,1,0.0,0.0,Clemson,DR
+SwimSwam,1,1,0.0,0.0,Louisville,S
+Switchyard Park Dog Park,1,1,0.0,0.0,,SG
+Swoosh,1,1,0.0,0.0,Texas,CG
+Solid Grindz,1,1,0.0,0.0,,OT
+Super Patch,1,1,0.0,0.0,,S
+Stubborn Brothers Pizza Bar,1,1,0.0,0.0,Toledo,LB
+Super Max 100,1,1,0.0,0.0,,ATH
+StudioPlace,1,1,0.0,0.0,UCLA,S
+StyleByStudio33,1,1,0.0,0.0,,SF
+Southern Chevy Dealers,1,1,0.0,0.0,,OT
+Southeastern Mortgage Solutions,1,1,0.0,0.0,,TE
+SueroX USA,1,1,0.0,0.0,Sacramento State,IOL
+Sugarfire Smokehouse,1,1,0.0,0.0,,QB
+South Florida Strong,1,1,0.0,0.0,USF,QB
+SuitShop,1,1,0.0,0.0,South Carolina,ATH
+Sour Strips,1,1,0.0,0.0,,PG
+Summit Stands,1,1,0.0,0.0,,P
+Sun Youth,1,1,0.0,0.0,Florida,PF
+Soul Runner,1,1,0.0,0.0,,S
+Suncoast,1,1,0.0,0.0,Texas A&M,G
+Sony Music,1,1,0.0,0.0,Texas A&M,CB
+Sonu Sleep Mattress,1,1,0.0,0.0,North Carolina,OF
+Sunga Life Performance Apparel,1,1,0.0,0.0,Boise State,K
+Sons of Montezuma Podcast,1,1,0.0,0.0,Kentucky,PG
+Sunoco,1,1,0.0,0.0,,PF
+Sunshine Quality,1,1,0.0,0.0,LSU,EDGE
+Suntan City,1,1,0.0,0.0,Kentucky,BB
+Super ENRGY,1,1,0.0,0.0,Temple,VT
+The Family Network,1,1,0.0,0.0,,RB
+The Farmer's Dog,1,1,0.0,0.0,,WR
+Scarlet & Gold,1,1,0.0,0.0,Auburn,All
+Titleist,1,1,0.0,0.0,Oregon,G
+Ringor,1,1,0.0,0.0,Texas Tech,P
+Rimrock Football Camp,1,1,0.0,0.0,Montana State,OT
+Riley Decker Companies,1,1,0.0,0.0,Cincinnati,SG
+Riley Children's Foundation,1,1,0.0,0.0,Indiana,SG
+RickeaJackson.com,1,1,0.0,0.0,,SF
+Toledo Library,1,1,0.0,0.0,Toledo,WR
+Tom Drexler Plumbing,1,1,0.0,0.0,Louisville,QB
+Tommy Hillfiger,1,1,0.0,0.0,Oregon,CG
+Tommy John,1,1,0.0,0.0,Ohio State,QB
+Tommy's Express Car Wash,1,1,0.0,0.0,,QB
+Tommy’s Express Car Wash,1,1,0.0,0.0,,SF
+Rhythm & Brews Tuscaloosa,1,1,0.0,0.0,Alabama,PV
+Tony's Place,1,1,0.0,0.0,Boston College,RB
+Reveal Suits,1,1,0.0,0.0,Villanova,QB
+Too Faced Cosmetics,1,1,0.0,0.0,,All
+Too Good & Co.,1,1,0.0,0.0,UCLA,All
+Toothman Ford,1,1,0.0,0.0,West Virginia,SG
+Top Gun,1,1,0.0,0.0,,C
+Top Hat Bingo Association,1,1,0.0,0.0,,WR
+Reserve at Knollwood,1,1,0.0,0.0,Virginia Tech,C
+Repeat Champs Dinner,1,1,0.0,0.0,,C
+Tocaya Modern Mexican,1,1,0.0,0.0,,SF
+Title Town Gator Club ,1,1,0.0,0.0,,S
+Topicals,1,1,0.0,0.0,South Carolina,SG
+Rips Licorice,1,1,0.0,0.0,,S
+Tickets for Kids,1,1,0.0,0.0,,WR
+Tifosi Optics,1,1,0.0,0.0,Pittsburgh,DR
+Rock the South,1,1,0.0,0.0,Alabama,PV
+Rock Chalk NFT ,1,1,0.0,0.0,,SF
+Tiger Bookstore,1,1,0.0,0.0,,SG
+Tiger Fund Classic,1,1,0.0,0.0,Missouri,IOL
+Tiger Night at Zoo Lights,1,0,0.0,0.0,,
+Tiger Scholarship Fund,1,1,0.0,0.0,,K
+Rock & Reilly's USC,1,1,0.0,0.0,,WR
+TikTok,1,1,0.0,0.0,Connecticut,SG
+Rochester Roadshow,1,1,0.0,0.0,Minnesota,OH
+Robert Pollock Elementary,1,1,0.0,0.0,,PF
+Timeless Art,1,1,0.0,0.0,San Diego State,PG
+Tin Roof Restaurant & Bar,1,1,0.0,0.0,,WR
+Tin Roof Wrigleyville,1,1,0.0,0.0,Iowa,SG
+Riverside Pizzeria,1,1,0.0,0.0,Wisconsin-Green Bay,SG
+Tinder,1,1,1500772.0,1500772.0,LSU,CG
+Rivals,1,1,0.0,0.0,Penn State,WR
+Tint My Ride,1,1,0.0,0.0,,S
+Tire Discounters,1,1,0.0,0.0,,OT
+Rise Adaptive Sports,1,1,0.0,0.0,,S
+Relay For Life,1,1,0.0,0.0,Penn State,SF
+Topricin,1,1,0.0,0.0,Colgate,CB
+Rohrman Kia at Lafayette,1,1,0.0,0.0,Arizona State,CB
+Troy Regional Orthopedics & Sports Medicine,1,1,0.0,0.0,Troy,QB
+Raised & Rooted,1,1,0.0,0.0,Auburn,SG
+Rahjai Harris Football Camp,1,1,0.0,0.0,East Carolina,RB
+Raging Bull Street Tacos,1,1,0.0,0.0,West Virginia,QB
+Ragin Cajuns Merch,1,0,0.0,0.0,,
+RTP Mortgage,1,1,0.0,0.0,NC State,EDGE
+RTI Insurance Services of Pittsburgh,1,1,0.0,0.0,Penn State,SG
+RPT Clinic,1,1,0.0,0.0,UNLV,QB
+TruSport,1,1,0.0,0.0,South Carolina,ATH
+True Blue Pools,1,1,0.0,0.0,Virginia,RB
+True Capital Management,1,1,0.0,0.0,,SF
+True Temper,1,1,0.0,0.0,Alabama,G
+RJ Harvey Youth Football Camp,1,1,0.0,0.0,,RB
+RJ Austin Baseball Clinic,1,1,0.0,0.0,Vanderbilt,IF
+True Victory,1,1,0.0,0.0,Wichita State,OF
+RIP-IT,1,1,0.0,0.0,Texas,OH
+Tuffy Talk,1,1,0.0,0.0,NC State,PG
+REVIVYOU TEAM,1,1,0.0,0.0,Georgia,OF
+REVIVYOU,1,1,0.0,0.0,Penn State,WR
+REVEL Moments,1,1,0.0,0.0,East Tennessee State,QB
+RECOVER 180,1,1,0.0,0.0,,SG
+Turn90,1,1,0.0,0.0,,WR
+TruBowl,1,1,0.0,0.0,,CG
+Rally at the Rendezvous,1,1,0.0,0.0,Memphis,PG
+Total Pro Home Services,1,1,0.0,0.0,,QB
+Troy Orthopedicas & Sports Medicine,1,1,0.0,0.0,North Carolina,OT
+Rehfeldt Collectibles,1,1,0.0,0.0,,PG
+Reflect Supplements,1,1,0.0,0.0,Illinois,S
+TownHall,1,1,0.0,0.0,,SG
+St. Paul’s Lutheran School,1,1,0.0,0.0,,SF
+Trader Joe's,1,1,0.0,0.0,Clemson,DR
+Trainwreck Sports,1,1,0.0,0.0,Buffalo,S
+Red & Black Weekend Golf Tournament,1,1,0.0,0.0,New Haven,QB
+TravisMathew,1,1,0.0,0.0,USC,TE
+Tre Morgan Baseball Camp,1,1,0.0,0.0,LSU,IF
+Tre Morgan Skills Clinic,1,1,0.0,0.0,LSU,IF
+Treasureland NFTs,1,1,0.0,0.0,,RB
+Treveyon Henderson Youth Football Camp,1,1,0.0,0.0,,RB
+RecruitMe,1,1,0.0,0.0,SMU,PG
+"Real Champions, Inc",1,1,0.0,0.0,,TE
+Rayban,1,1,0.0,0.0,UCLA,QB
+Rapsodo Softball,1,1,0.0,0.0,Oklahoma,IF
+Triumph NIL Store,1,1,0.0,0.0,,EDGE
+Triumph+ Podcast,1,1,0.0,0.0,Virginia Tech,S
+Ramy Brook,1,1,0.0,0.0,Auburn,All
+Trojan Threads Apparel Co.,1,1,0.0,0.0,Troy,QB
+Tropical Smoothie Cafe,1,1,0.0,0.0,Florida,All
+Rocky Boots,1,1,0.0,0.0,,TE
+ThrIVe Day Spa,1,1,0.0,0.0,Texas,PF
+The Foundation Experience 2024,1,1,2381076.0,2381076.0,Ohio State,S
+The Monty Show,1,1,0.0,0.0,BYU,DL
+The Palm Restaurant,1,1,0.0,0.0,Houston,QB
+The Pavement Group,1,1,0.0,0.0,West Virginia,WR
+Samaritan's Feet,1,1,0.0,0.0,,PG
+Samaritan Community Center,1,1,0.0,0.0,Arkansas,PF
+Sam's Club,1,1,0.0,0.0,,DL
+Salvio's Pizza,1,1,0.0,0.0,,SF
+Salvation Army of Denton,1,1,0.0,0.0,,QB
+Salvation Army Cape Fear,1,0,0.0,0.0,,
+The Pilates Studio at Valor,1,1,0.0,0.0,Michigan,SG
+The Players' Tribune,1,1,0.0,0.0,,CG
+Salute Leos,1,1,0.0,0.0,New Hampshire,All
+Salt Athletic,1,1,0.0,0.0,Santa Clara University,DF
+Salomone Digital Marketing,1,1,0.0,0.0,,QB
+The Players’ Plate,1,1,0.0,0.0,Duke,DR
+Salad and Go,1,1,0.0,0.0,SMU,MB
+The Pro Shop,1,1,0.0,0.0,Miami,OT
+Saie,1,1,0.0,0.0,LSU,SF
+Safely Self Defense,1,1,0.0,0.0,Texas,T
+The Real Estate Game,1,1,0.0,0.0,Murray State,IOL
+SWAKE,1,1,0.0,0.0,Houston,IF
+SWAG Resource Center,1,1,0.0,0.0,,CG
+The Next Round,1,1,0.0,0.0,Auburn,PG
+The Mercato,1,1,0.0,0.0,Nebraska,L
+SVI Sportswear,1,1,0.0,0.0,Vermont,SG
+Sams Club,1,1,0.0,0.0,SMU,MB
+The Foundry BG,1,1,0.0,0.0,,LB
+The Freehouse,1,1,0.0,0.0,,QB
+Sawgrass Fishing Rods,1,1,0.0,0.0,Houston,QB
+Saturday House,1,1,0.0,0.0,LSU,SF
+The Fritz Kennel,1,1,0.0,0.0,Houston,PF
+Saturday App,1,1,0.0,0.0,,SF
+Sanzo Sparkling Water,1,1,0.0,0.0,Florida,All
+The Hall of Framers,1,1,0.0,0.0,,QB
+The Indiana NIL Store,1,1,0.0,0.0,Indiana,SG
+The Inspiration Co.,1,0,0.0,0.0,,
+The Joint Chiropractic,1,1,0.0,0.0,Vanderbilt,IF
+The Keyes Company,1,1,0.0,0.0,Arkansas State,WR
+The Kitchen by Baked Brand,1,1,0.0,0.0,Massachusetts,CB
+San Diego Legion,1,1,0.0,0.0,Kentucky,PG
+The Laundry Project,1,1,0.0,0.0,Texas,CG
+San Antonio Zoological Society,1,1,0.0,0.0,Illinois,WR
+Sam’s Wedge Inn,1,1,0.0,0.0,Youngstown State,CG
+The Law Office of Justin B. Hunter,1,1,0.0,0.0,,EDGE
+The Leader,1,1,0.0,0.0,East Tennessee State,QB
+The Life Ring Foundation,1,1,0.0,0.0,,CB
+The Madi Scott Basketball Foundation,1,1,0.0,0.0,Ole Miss,PF
+The Redbird Brand,1,1,0.0,0.0,Louisville,S
+The Retreat,1,1,0.0,0.0,SMU,MB
+Thompson Rental Services & Sales,1,1,0.0,0.0,South Carolina,WR
+The Webster Man,1,1,0.0,0.0,,PG
+SA Flavor,1,1,0.0,0.0,UTSA,QB
+S3 Performance Training,1,1,0.0,0.0,,S
+Ryoko Rain,1,1,0.0,0.0,Texas,CG
+The Works Cafe,1,1,0.0,0.0,,SG
+Ruthie's Fueled by Good,1,1,0.0,0.0,,EDGE
+The h.wood Group,1,1,0.0,0.0,UTEP,QB
+Ruth Tate Senior Center,1,1,0.0,0.0,Memphis,OT
+Rutgers Club of NYC,1,1,0.0,0.0,Rutgers,WR
+TheKamPringle.com,1,1,0.0,0.0,Syracuse,OT
+Runza,1,1,0.0,0.0,Nebraska,L
+Run Shadyshine 5K Run/Walk,1,1,0.0,0.0,Pittsburgh,DL
+Ruby Tuesday,1,1,0.0,0.0,South Carolina,SG
+Rowdy Redz,1,1,0.0,0.0,Radford,SG
+Rowdy Energy,1,1,0.0,0.0,Ohio State,AT
+Roosters Restaurant,1,1,0.0,0.0,Marshall,TE
+Room2Room Movers,1,1,0.0,0.0,Auburn,All
+TheRealest.com,1,1,0.0,0.0,,RB
+Ronald McDonald House of Southwest Virginia,1,1,0.0,0.0,Virginia Tech,P
+Ronald McDonald House of Charlottesville,1,1,0.0,0.0,Gonzaga University,PG
+ThirdLove,1,1,0.0,0.0,,SF
+Ronald McDonald House Central Indiana,1,1,0.0,0.0,Boston College,C
+The Well Athlete,1,1,0.0,0.0,Mercer,CB
+The Wealthy Brand,1,1,0.0,0.0,Western Michigan,PG
+SUNRUN,1,1,0.0,0.0,,PG
+SAM Nutrition,1,1,0.0,0.0,Texas A&M,G
+The Right Stuff,1,1,0.0,0.0,Alabama,GK
+The Root Cellar,1,1,0.0,0.0,North Carolina,PF
+STX Lacrosse,1,1,0.0,0.0,Ohio State,AT
+STITCHED,1,1,0.0,0.0,,QB
+The SKUT Shop,1,1,0.0,0.0,,S
+The Salvation Army Boys & Girls Clubs of Greater C,1,1,0.0,0.0,,LB
+STARFACE,1,1,0.0,0.0,,SF
+SPS Camp,1,1,0.0,0.0,Arizona,IF
+The Shop Indy,1,1,0.0,0.0,Indiana,SG
+The Side-Out Foundation,1,1,0.0,0.0,Texas,OH
+The Small Shop LA,1,1,0.0,0.0,,WR
+SOLDXOUT,1,1,0.0,0.0,NC State,SG
+The Social West Ames,1,1,0.0,0.0,Iowa State,PG
+SI Tickets,1,1,0.0,0.0,,S
+SHEIN,1,1,0.0,0.0,Illinois,OF
+SC30 Inc,1,1,0.0,0.0,Connecticut,SG
+The Sports Broadcasting Camp,1,1,0.0,0.0,Yale,SG
+The Tank Brewing Company,1,1,0.0,0.0,SMU,QB
+The Town Hall Grill,1,1,0.0,0.0,,SF
+The View on Fifth,1,1,0.0,0.0,,EDGE
+The Vinyl Studio,1,1,0.0,0.0,,PF
+ 7UP,1,1,0.0,0.0,Tennessee,QB
+LilyAna Naturals,1,0,0.0,0.0,,
+OREO,1,1,0.0,0.0,North Carolina,SF
+Colorsuper,1,1,0.0,0.0,Oregon,S
+Clyde's Donut,1,1,0.0,0.0,Colorado State,CG
+Coach Beyond,1,1,0.0,0.0,Ohio State,EDGE
+Coach Can Enterprises,1,1,0.0,0.0,Oklahoma,IF
+Coaches Oats,1,1,0.0,0.0,Utah,BB
+Coaches vs. Cancer,1,1,0.0,0.0,,SF
+Cofman Townsley Attorneys at Law,1,1,0.0,0.0,,WR
+Coin Cloud,1,1,0.0,0.0,,CG
+Cold Brew University,1,1,0.0,0.0,Iowa State,PF
+Cole Cabana Youth Football Camp,1,1,0.0,0.0,Western Michigan,RB
+Colin Johnson,1,1,0.0,0.0,UT Martin,QB
+College Basketball Reference,1,1,0.0,0.0,Memphis,SG
+College Colors Day,1,1,0.0,0.0,Michigan,SG
+College Corner Store,1,1,0.0,0.0,,QB
+College Hill,1,1,0.0,0.0,,WR
+College Mentors for Kids,1,1,0.0,0.0,Akron,SG
+Club Stretch,1,1,0.0,0.0,LSU,IF
+Club Car Wash,1,1,0.0,0.0,Kansas,ATH
+Clontarf Foundation,1,1,0.0,0.0,Florida,PF
+Cinnaholic,1,1,0.0,0.0,,S
+ChristopherVizzinaOfficial.com,1,1,0.0,0.0,Clemson,QB
+Chubbies,1,1,0.0,0.0,San Diego State,AT
+Chucky Mullins Thanksgiving Dinner,1,1,0.0,0.0,Ole Miss,DL
+Church's Texas Chicken,1,1,0.0,0.0,,S
+Church’s Texas Chicken,1,1,0.0,0.0,Sacramento State,IOL
+Cigarette Racing,1,1,0.0,0.0,,PG
+Circle K,1,1,0.0,0.0,Florida State,QB
+Clemson Area African American Museum,1,1,0.0,0.0,,OT
+ClaimDOC,1,1,0.0,0.0,Iowa State,C
+Clay Frost,1,1,0.0,0.0,Oregon State,UB
+Clean Eatz,1,1,0.0,0.0,,TE
+Clean Juice,1,1,0.0,0.0,,DL
+CleanCA.com,1,1,0.0,0.0,UCLA,PG
+CleanPrene,1,1,0.0,0.0,SMU,MB
+Collins Childrens Home,1,1,0.0,0.0,,WR
+Command,1,1,0.0,0.0,,CG
+Cutback Giveback Haircut Event,1,1,0.0,0.0,Arizona State,RB
+Commerce Bank,1,1,0.0,0.0,,WR
+Craddock Oil Company/BlueSky,1,1,0.0,0.0,UCF,QB
+Crazy Dog T-Shirts,1,1,0.0,0.0,St. John Fisher,C
+Creed,1,1,0.0,0.0,UCLA,UB
+Crest Auto Group,1,1,0.0,0.0,SMU,QB
+Crest Insurance Group,1,1,0.0,0.0,Arizona,QB
+Cross Chrysler Jeep,1,1,0.0,0.0,Louisville,LB
+Cross Colours,1,1,0.0,0.0,,PG
+Crossover Collectibles,1,1,0.0,0.0,,LB
+Crowd Push,1,1,0.0,0.0,LSU,VT
+Crowley Auto,1,1,0.0,0.0,Connecticut,SG
+Crown Melbourne,1,1,0.0,0.0,Princeton,AT
+Crowne at 501,1,1,0.0,0.0,,PF
+Crunch Fitness,1,1,0.0,0.0,Florida State,OT
+Crush Soda,1,1,0.0,0.0,,C
+Currex Insoles,1,1,0.0,0.0,South Carolina,WR
+Coyle Chevrolet Buick GMC,1,1,0.0,0.0,Louisville,OH
+Cover Two Sports Cafe,1,1,0.0,0.0,SMU,QB
+Courtsmith,1,1,0.0,0.0,Louisville,PG
+Coop's Plumbing Service,1,1,0.0,0.0,Arkansas,IOL
+Common Grounds Coffee,1,1,0.0,0.0,Baylor,OH
+Community Foundation of North Central Florida,1,1,0.0,0.0,Florida,LB
+Compete Training Foundation,1,1,0.0,0.0,Indiana,SG
+Connecticut Sun,1,1,0.0,0.0,,PG
+Connections Academy,1,1,0.0,0.0,,RB
+Conscious Authentic,1,1,0.0,0.0,,CB
+Coralville Food Pantry,1,1,0.0,0.0,Iowa,SG
+Courtside With Camden ,1,1,0.0,0.0,Richmond,PF
+Corcoran HM Properties,1,1,0.0,0.0,,QB
+Cort Furniture,1,1,0.0,0.0,,SF
+Cotton Holdings,1,1,0.0,0.0,Houston,QB
+Cottonelle,1,1,0.0,0.0,SMU,MB
+CougConnect Shop,1,1,0.0,0.0,BYU,WR
+Coughlin Cars,1,1,0.0,0.0,,TE
+Christopher Cloos,1,1,0.0,0.0,Alabama,GK
+Chris Corzo Injury Attorneys,1,1,0.0,0.0,,CG
+Choose Rockwood Alliances,1,1,0.0,0.0,,EDGE
+Chimney Rock Elementary,1,1,0.0,0.0,Memphis,SG
+Campus Pollyeyes,1,1,0.0,0.0,Ohio State,OT
+Can't See Apparel,1,1,0.0,0.0,,RB
+CanesWear,1,1,0.0,0.0,SMU,QB
+CapTech,1,1,0.0,0.0,,C
+Capelli Sport,1,1,0.0,0.0,Vanderbilt,DF
+Capital BMW,1,1,0.0,0.0,South Carolina,SG
+Capital One,1,1,0.0,0.0,Sacramento State,SF
+Capstone Wealth Advisors,1,1,0.0,0.0,,WR
+Carl Black Auto Orlando,1,1,0.0,0.0,UCF,QB
+Carousel Motors,1,1,0.0,0.0,Creighton,C
+Carrick Custom Home Design,1,1,0.0,0.0,BYU,LB
+Carter Subaru,1,1,0.0,0.0,Oklahoma State,P
+Cascadia Public House,1,1,0.0,0.0,Loyola (Chi),CG
+Case Keenum QB Camp,1,1,0.0,0.0,Houston,QB
+Casey Morsell Skills Academy,1,1,0.0,0.0,NC State,SG
+Campbell’s Chunky,1,1,0.0,0.0,,CG
+Camp T,1,1,0.0,0.0,,CB
+Camp Camden,1,1,0.0,0.0,Richmond,PF
+CT Trial Firm,1,1,0.0,0.0,,PF
+CHARLY USA,1,1,0.0,0.0,San Diego State,AT
+CIS of Tennessee,1,1,0.0,0.0,Vanderbilt,CB
+CITIUS MAG,1,1,0.0,0.0,Virginia,DR
+CLIF Bar & Company,1,1,0.0,0.0,Auburn,All
+CONIC,1,1,0.0,0.0,,LB
+CT Scoreboard Podcast,1,1,0.0,0.0,,SF
+CTM Band,1,1,0.0,0.0,,S
+Cameron’s Music,1,1,0.0,0.0,Connecticut,C
+CWENCH Hydration,1,1,0.0,0.0,Minnesota,LD
+Caddix,1,1,0.0,0.0,,WR
+Cadillac Bar,1,1,0.0,0.0,Houston,QB
+Cafeina Water,1,1,0.0,0.0,St. John's,PF
+Call Me MISTER,1,1,0.0,0.0,,OT
+Cameron Ward Football Camp,1,1,0.0,0.0,,QB
+Casey's,1,1,0.0,0.0,Oklahoma State,SF
+Catholic Charities USA,1,0,0.0,0.0,,
+Cats Talk,1,1,0.0,0.0,,PF
+Chef Merito Seasonings,1,1,0.0,0.0,,WR
+"Chappell, Chappell & Newman",1,0,0.0,0.0,,
+Charlotte FC,1,1,0.0,0.0,Charlotte,SG
+Charqui Jerky Co.,1,1,0.0,0.0,,OT
+Chase,1,1,0.0,0.0,UCLA,QB
+Cheatcode,1,1,0.0,0.0,Sacramento State,IOL
+Cheetos,1,1,0.0,0.0,UCLA,All
+Cheribundi,1,1,0.0,0.0,,WR
+Champs Sports Women,1,1,0.0,0.0,Indiana,SG
+Cherry Pickin’ Goods,1,1,0.0,0.0,Louisville,S
+Chief Sports App,1,1,0.0,0.0,Memphis,CG
+Chike Protein Iced Coffee,1,1,0.0,0.0,Creighton,MB
+Children's Cancer Partners of the Carolinas,1,1,0.0,0.0,,PF
+Children's Health Foundation,1,1,0.0,0.0,Oklahoma,P
+Children's Heatlhcare of Atlanta,1,1,0.0,0.0,,DF
+Chapel Hill Sportswear,1,1,0.0,0.0,,WR
+Champions The Film,1,1,0.0,0.0,Ole Miss,SG
+Cavender Ford of Oklahoma City,1,1,0.0,0.0,Oklahoma,P
+Central Bank of the Midwest,1,1,0.0,0.0,Kansas,SG
+Cedar Ridge Football Scholarship Fund,1,1,0.0,0.0,,OT
+Celestial Seasonings Tea,1,1,0.0,0.0,UCLA,QB
+Celestial Tea,1,1,0.0,0.0,,PG
+Centenarius Nutrition,1,1,0.0,0.0,,S
+Center for Leadership Development,1,1,0.0,0.0,Hofstra,PF
+Central BBQ,1,1,0.0,0.0,Arkansas,IF
+Central KY Sports Complex,1,1,0.0,0.0,Western Kentucky,SF
+Champions Cirlce Meet & Greet Signing Event,1,0,0.0,0.0,,
+Central Ohio Farmer’s Co-Op,1,1,0.0,0.0,,TE
+Centre County United Way,1,1,0.0,0.0,Penn State,IOL
+Centurion Lifestyle,1,1,0.0,0.0,,WR
+Chamberlin Brand,1,1,0.0,0.0,,SG
+Champion Pizza,1,1,0.0,0.0,Texas A&M,CB
+Champions Circle Trophy Walk,1,1,0.0,0.0,,TE
+Custom Sports,1,1,0.0,0.0,Nebraska,CG
+Cyber Athletix,1,1,0.0,0.0,Louisville,SF
+CASA of NWA,1,1,0.0,0.0,Arkansas,OT
+Epic Burger,1,1,0.0,0.0,,PG
+Elevate,1,1,0.0,0.0,,PG
+Elevate Chiropractic and Wellness,1,1,0.0,0.0,,QB
+Elite 360 Training,1,1,0.0,0.0,Iowa State,SG
+Elite Therapeutics,1,1,0.0,0.0,Clemson,ATH
+Elixir Muscle Cypress,1,1,0.0,0.0,,WR
+Elkhorn Dog Chews,1,1,0.0,0.0,Montana,ATH
+Elle & Design,1,1,0.0,0.0,Auburn,All
+Ellianos Coffee,1,1,0.0,0.0,,RB
+Embassy,1,1,0.0,0.0,Clemson,DR
+Embassy Suites,1,1,0.0,0.0,Arizona,PG
+Empire Classic,1,1,0.0,0.0,Clemson,PG
+Empower Youth Charity Stripe Challenge,1,1,0.0,0.0,Maryland,PG
+Endstate,1,1,0.0,0.0,UCF,SG
+Enlightened.Clo,1,1,0.0,0.0,Stanford,QB
+Ent Credit Union,1,1,0.0,0.0,Florida,QB
+Elete Sports ,1,1,0.0,0.0,Louisiana,WR
+Elete Sports,1,1,0.0,0.0,California,RB
+El Yucateco Hot Sauce,1,1,0.0,0.0,SMU,MB
+Ease Plumbing and Air,1,1,0.0,0.0,,SF
+EATnaked.LA,1,1,0.0,0.0,,QB
+ECU Pirate Nation,1,1,0.0,0.0,East Carolina,IF
+ELITE Sports Apparel,1,1,0.0,0.0,LSU,All
+ENG Aviation Group,1,1,2125345.0,2125345.0,Texas A&M,QB
+ESPN,1,1,0.0,0.0,,All
+EVRY JEWELS,1,1,0.0,0.0,Louisville,S
+Eat Clean Bro,1,1,0.0,0.0,USC,GK
+Ekster,1,1,0.0,0.0,,S
+Eberg Capital,1,1,0.0,0.0,,QB
+Eccker Sports Group,1,1,0.0,0.0,,S
+Eddie Gilstrap Motors,1,1,0.0,0.0,Miami,PF
+Edifier Global,1,1,0.0,0.0,California,CG
+Eggs Up Grill,1,1,0.0,0.0,Clemson,K
+Eksperience,1,1,0.0,0.0,,RB
+Enzo,1,0,0.0,0.0,,
+Epic Seats,1,1,0.0,0.0,,QB
+Cybersticky,1,1,0.0,0.0,Oregon,S
+Equal Chance For Education,1,1,0.0,0.0,Appalachian State,QB
+FIKI Sports,1,1,0.0,0.0,UCLA,K
+FILA,1,1,0.0,0.0,North Carolina,SGL
+FNBO,1,1,0.0,0.0,,QB
+FREEWELL,1,1,0.0,0.0,UCLA,MF
+FS InVISION,1,1,0.0,0.0,,TE
+FabFitFun,1,1,0.0,0.0,Louisville,OH
+Faculty,1,1,0.0,0.0,,QB
+Fair Game Australia,1,1,0.0,0.0,Florida,PF
+Fairway Auto Brokers,1,1,0.0,0.0,Auburn,All
+Faith Carson Online Store,1,1,0.0,0.0,,C
+Family Automotive,1,0,0.0,0.0,,
+Family Dollar,1,1,0.0,0.0,Charlotte,SG
+Famously Garnet Sports,1,1,2589918.0,2589918.0,South Carolina,QB
+Fan inc.,1,1,0.0,0.0,Texas Tech,PG
+FanUp,1,1,0.0,0.0,North Florida,SG
+FAB&T ,1,1,0.0,0.0,Oklahoma State,SF
+F45 Training,1,1,0.0,0.0,Grand Canyon University,MF
+EyesLA,1,1,0.0,0.0,UCLA,PG
+European Wax Center,1,1,0.0,0.0,Florida,All
+Es Tas Bar And Grill,1,1,0.0,0.0,Iowa State,QB
+Eskimo Joe’s,1,1,0.0,0.0,,QB
+Essential Elements,1,1,0.0,0.0,Georgia,MF
+Essential Motors NJ,1,1,0.0,0.0,,QB
+Estee Lauder,1,1,0.0,0.0,USC,CG
+Ethics The Brand,1,1,0.0,0.0,Temple,PG
+Everybody Wins DC,1,1,0.0,0.0,Maryland,WR
+ExxonMobil,1,1,0.0,0.0,,PG
+Executive Services,1,1,0.0,0.0,New Mexico,RB
+Exiza,1,1,0.0,0.0,USC,OH
+Experian,1,1,1500772.0,1500772.0,LSU,CG
+Explore Ice,1,1,0.0,0.0,New Hampshire,All
+Extra Butter,1,1,0.0,0.0,St. John's,SG
+Extra Yard for Teachers,1,1,0.0,0.0,Wichita State,IF
+Durham Outlook,1,1,0.0,0.0,FIU,LB
+Duck Donuts State College,1,1,0.0,0.0,,P
+Duck Camp,1,1,0.0,0.0,Oklahoma,IF
+Dubby,1,1,0.0,0.0,Oregon State,LB
+DeFalco's Italian Deli & Eatery,1,1,0.0,0.0,NC State,CG
+Debo Williams Youth Football Camp,1,1,0.0,0.0,South Carolina,LB
+Decatur Orthopedic Center,1,1,0.0,0.0,LSU,TE
+Default Happiness,1,1,0.0,0.0,,QB
+Del Taco,1,1,0.0,0.0,,DL
+Delta Dental of Virginia,1,1,0.0,0.0,,PF
+Desert First Credit Union,1,1,0.0,0.0,,QB
+Detroit Wing Company,1,1,0.0,0.0,USF,IOL
+DevaCurl,1,1,0.0,0.0,UCLA,PG
+Devin Neal Football Camp,1,1,0.0,0.0,,RB
+Devon Energy,1,1,0.0,0.0,Oklahoma,IF
+Dexcom U,1,1,0.0,0.0,Alabama A&M,CG
+De’Longhi,1,1,0.0,0.0,Alabama,PV
+DiBella's Subs,1,1,0.0,0.0,Pittsburgh,S
+Diamond Kinetic,1,1,0.0,0.0,,P
+DawgPost,1,1,0.0,0.0,,CB
+DavidSandersjrOfficial.com,1,1,0.0,0.0,Tennessee,OT
+Dave & Busters,1,1,0.0,0.0,Illinois,PG
+DELTA Foundation Inc.,1,1,0.0,0.0,,RB
+Cyclone Football Signing Day Celebration,1,1,0.0,0.0,,WR
+D1 Hardin Valley,1,1,0.0,0.0,,S
+D1 Players Society,1,1,0.0,0.0,Oklahoma,C
+D1Softball,1,1,0.0,0.0,UCLA,P
+DAZN,1,1,0.0,0.0,,RB
+DC22,1,1,0.0,0.0,,SG
+DIG,1,0,0.0,0.0,,
+Dakereon Joyner Holiday Food Drive,1,1,0.0,0.0,South Carolina,RB
+DRNX,1,1,0.0,0.0,UCLA,S
+DTLR,1,1,0.0,0.0,,SF
+DUDE Wipes,1,1,0.0,0.0,Auburn,QB
+DXL Big + Tall,1,1,0.0,0.0,St. John Fisher,C
+Dad’s Coffee,1,1,0.0,0.0,Louisville,S
+Dairy Queen,1,1,0.0,0.0,,PF
+Diamond Miller Camp,1,1,0.0,0.0,,SF
+DiamondJohnsonShop.com,1,1,0.0,0.0,NC State,SG
+Dick Dyer & Associates,1,1,2589918.0,2589918.0,South Carolina,QB
+Draco Slides,1,1,0.0,0.0,Baylor,SG
+Dossier Perfumes,1,1,0.0,0.0,Florida,IF
+Dough Street,1,1,0.0,0.0,West Virginia,DF
+Dr. Chuck Ells,1,1,0.0,0.0,Minnesota,DL
+Dr. G. Robin Pruitt,1,1,0.0,0.0,Alabama,PV
+Dr. Ron Juenemann,1,1,0.0,0.0,Kansas State,CG
+Dr. Squatch Soap Company,1,1,0.0,0.0,Marshall,TE
+Draftly,1,1,0.0,0.0,SMU,QB
+Donovan Edwards Youth Football Camp,1,1,0.0,0.0,,RB
+Dream in Black,1,1,0.0,0.0,UCLA,PG
+Dreamer,1,1,0.0,0.0,Austin Peay,CG
+Dribble For Victory Over Cancer,1,1,0.0,0.0,Hofstra,CG
+Drift Hotels,1,1,0.0,0.0,UCLA,All
+Drink Treo ,1,1,0.0,0.0,Oklahoma State,SF
+Drip House Coffee Co.,1,1,0.0,0.0,,WR
+DormRoomFund,1,1,0.0,0.0,UCLA,QB
+Donatos Pizza,1,1,0.0,0.0,,C
+Dick Dyer Mercedes-Benz,1,1,0.0,0.0,,QB
+Discover,1,1,0.0,0.0,,LB
+Dick's Drive-Ins,1,1,0.0,0.0,Washington,LS
+Dietz & Watson,1,1,0.0,0.0,Arkansas,P
+Dippin' Daisy's,1,1,0.0,0.0,Louisville,OH
+Dircks Moving,1,1,0.0,0.0,Arizona State,LB
+Direct Auto Insurance,1,1,0.0,0.0,NC State,SG
+Dirt Road Outfitters,1,1,0.0,0.0,,P
+"Diversified Energy, Encova Insurance Youth Girls' ",1,0,0.0,0.0,,
+Don Moyer Boys & Girls Club,1,1,0.0,0.0,Indiana,SF
+Do Orlando North,1,1,0.0,0.0,Florida State,OF
+Doich,1,1,0.0,0.0,Florida Gulf Coast University,CG
+Dolores Lemon & Associates Real Estate Professiona,1,1,0.0,0.0,Oklahoma State,WR
+Domain at Waco,1,1,0.0,0.0,Baylor,DL
+Dominator,1,1,0.0,0.0,Oregon,All
+Dominion Senior Living,1,1,1538802.0,1538802.0,Clemson,QB
+CERISE,1,1,0.0,0.0,,WR
+Byers Auto,1,1,0.0,0.0,Ohio State,QB
+Fanpage Future,1,1,0.0,0.0,LSU,IF
+Amundi Assset Management,1,1,0.0,0.0,,G
+Always Ballin ,1,1,0.0,0.0,,PF
+Alyssa Ustby Girl's Basketball Camp,1,1,0.0,0.0,,SF
+Alzheimer’s Association,1,1,0.0,0.0,,SF
+Amadi Jewelry,1,1,0.0,0.0,Cincinnati,S
+Amazon Shop,1,1,0.0,0.0,Kansas State,SG
+Amazon Style,1,1,0.0,0.0,,WR
+Ambitious Desires,1,1,0.0,0.0,Nebraska,DS
+American Airlines,1,1,0.0,0.0,,WR
+American Built Clothing,1,1,0.0,0.0,BYU,OT
+American Dairy Assocation Mideast,1,1,0.0,0.0,Ohio State,IF
+American Dairy Association,1,1,0.0,0.0,Texas,OH
+American Dairy Association Mideast,1,1,0.0,0.0,Ohio State,SF
+Ameritas,1,1,0.0,0.0,Nebraska,DS
+Ames Community School District,1,1,0.0,0.0,Iowa State,P
+Amici Cafe,1,1,0.0,0.0,Georgia,IOL
+Alumni Hall,1,1,0.0,0.0,Western Kentucky,DF
+Altruistic Joe,1,1,0.0,0.0,Wichita State,IF
+Alternative Career in Sports Academy,1,1,0.0,0.0,UCLA,WR
+Allen Chevrolet Cadillac,1,1,0.0,0.0,Michigan,IOL
+Albertsons,1,1,0.0,0.0,Oregon State,All
+Ale-8-One,1,1,0.0,0.0,,QB
+All Vote No Play,1,1,0.0,0.0,UCLA,QB
+AllAthlete,1,1,0.0,0.0,Wichita State,IF
+Allbirds,1,1,0.0,0.0,Oklahoma,All
+Allen Brake Real Estate,1,1,0.0,0.0,,WR
+Allerica Aesthetics,1,1,0.0,0.0,Nebraska,DS
+Altar'd State,1,1,0.0,0.0,Louisville,OH
+Allo Communications,1,1,0.0,0.0,Nebraska,S
+Allure,1,0,0.0,0.0,,
+Almost Heaven Desserts & Coffee Shop,1,1,0.0,0.0,West Virginia,DF
+Aloft South Bend,1,1,0.0,0.0,Notre Dame,SG
+AlphaSuit Clothier,1,1,0.0,0.0,Ohio State,SG
+Alsander GNV,1,1,0.0,0.0,Florida,WR
+Amigos/Kings Classic,1,1,0.0,0.0,Arizona State,QB
+Andy Mohr Automotive,1,1,0.0,0.0,,QB
+Axe,1,1,0.0,0.0,Texas,CG
+Ann Arbor Saline Shell,1,1,0.0,0.0,,WR
+Athletes in Recruitment,1,1,0.0,0.0,Sacramento State,QB
+Athletes.org,1,1,0.0,0.0,,CG
+Athleteverse,1,1,0.0,0.0,Clemson,DR
+Athletico Physical Therapy,1,1,0.0,0.0,SMU,MB
+Athletiverse,1,1,0.0,0.0,Texas A&M,IF
+Athlytic,1,1,0.0,0.0,,EDGE
+Atlanta Braves,1,1,0.0,0.0,,QB
+Attain Physical Therapy,1,1,0.0,0.0,Michigan,SG
+Auburn Med Spa,1,1,0.0,0.0,Auburn,All
+Audi Beverly Hills,1,1,0.0,0.0,,PG
+Auntie Anne’s Pretzels,1,1,0.0,0.0,TCU,CG
+Austin Farm Sanctuary,1,1,0.0,0.0,Texas,OH
+Austin Speech Labs,1,1,0.0,0.0,Texas,EDGE
+AutoPro of Nashville,1,1,0.0,0.0,Vanderbilt,IF
+Avery Johnson Shop,1,1,0.0,0.0,Kansas State,QB
+Athlete Advantage,1,1,0.0,0.0,Wisconsin,WR
+Athens Area Humane Society,1,1,0.0,0.0,Georgia,QB
+Astoria Activewear,1,1,0.0,0.0,Maryland,UB
+Aria Pod+,1,1,0.0,0.0,UCLA,QB
+Annie,1,1,0.0,0.0,,S
+Antigua Apparel,1,1,0.0,0.0,,S
+Apis Cor,1,1,0.0,0.0,Florida State,IOL
+Aquaphor,1,1,0.0,0.0,Missouri,MF
+Arch Apparel,1,1,0.0,0.0,Saint Louis,DF
+Arena Graffiti Co,1,1,0.0,0.0,Georgia Southern,WR
+Arizona Athletic Grounds,1,1,0.0,0.0,Washington,MF
+Aston Martin Dallas,1,1,0.0,0.0,,QB
+Arizona Bookstore,1,1,0.0,0.0,Arizona,PF
+Arkansas Children's,1,1,0.0,0.0,Kentucky,IOL
+Armani Beauty,1,1,0.0,0.0,,QB
+Arthrex,1,1,0.0,0.0,Kansas,IOL
+Arvest Bank,1,1,0.0,0.0,,WR
+Ashley Joens Basketball Camp,1,1,0.0,0.0,,SF
+Albany Firewolves,1,1,0.0,0.0,,SG
+Alani,1,1,0.0,0.0,Texas,CG
+Alabama Vintage,1,1,0.0,0.0,,OT
+Akim Law Firm,1,1,0.0,0.0,Georgia,IOL
+46Solutions,1,1,0.0,0.0,,C
+500 Level Apparel,1,1,0.0,0.0,LSU,IF
+550 Wagyu,1,1,0.0,0.0,Texas A&M,TE
+6thverse,1,1,0.0,0.0,UCLA,QB
+7 Brew Coffee,1,1,0.0,0.0,South Carolina,PF
+94 Feet of Game app,1,1,0.0,0.0,,PG
+978 Jerseys,1,1,0.0,0.0,San Diego State,AT
+A Shot For Life,1,1,0.0,0.0,Villanova,SF
+A Sneaker Head,1,1,0.0,0.0,St. John Fisher,C
+A-Game,1,1,0.0,0.0,Kentucky,MF
+AARP,1,1,0.0,0.0,,QB
+AC Barbeque,1,0,0.0,0.0,,
+AC+ION,1,1,0.0,0.0,,QB
+AFSP - Arkansas,1,1,0.0,0.0,Arkansas,SG
+AJ11,1,1,0.0,0.0,Oregon State,SG
+402 Creamery,1,1,0.0,0.0,Nebraska,S
+31st State,1,1,0.0,0.0,Santa Clara University,DF
+314Tees,1,1,0.0,0.0,,WR
+103.7 The Buzz,1,1,0.0,0.0,Oklahoma State,SF
+"""An Evening With Quinn Ewers""",1,1,0.0,0.0,,QB
+"""Being Young""",1,1,0.0,0.0,UCLA,SG
+#LTK,1,1,0.0,0.0,Florida State,IF
+&Collar,1,1,0.0,0.0,,QB
+'47,1,1,0.0,0.0,Alabama,PV
+100 Coconuts,1,1,0.0,0.0,,SF
+16 Handles,1,1,0.0,0.0,,C
+310 Hydrate,1,1,0.0,0.0,Arkansas,S
+2 Elite Apparel,1,1,0.0,0.0,Kansas State,QB
+210 Inspired,1,1,0.0,0.0,UTSA,DL
+22 Forever,1,1,0.0,0.0,Utah,LB
+22 Threads Apparel,1,1,0.0,0.0,Connecticut,PG
+2FIT BRANDS,1,1,0.0,0.0,Creighton,OH
+2REAL,1,1,0.0,0.0,Miami,J
+AKLIEF Cream,1,1,0.0,0.0,Alabama,CG
+AKRS Equipment,1,1,0.0,0.0,Arizona State,QB
+ALCollection,1,1,0.0,0.0,Southern University,QB
+Affordable Door,1,1,0.0,0.0,Nebraska,P
+Advantage Goalkeeping,1,1,0.0,0.0,Florida State,GK
+Advertising Week,1,1,0.0,0.0,UCLA,QB
+Advisors Excel,1,0,0.0,0.0,,
+Aelfricedenofficial,1,1,0.0,0.0,Louisville,DS
+Aerie,1,1,0.0,0.0,UCLA,UB
+Aeropostale,1,1,0.0,0.0,UCLA,All
+Aftermath Sports,1,1,0.0,0.0,Jacksonville State,DL
+Adrianne Ross,1,1,0.0,0.0,Houston,SG
+Afterpay,1,1,0.0,0.0,California,CG
+Ag-Pro Companies,1,1,0.0,0.0,,TE
+Aggieland Golf Cars,1,1,0.0,0.0,Texas A&M,G
+AirFrance,1,1,0.0,0.0,,C
+Airstar Charter,1,1,3139796.0,3139796.0,Miami,QB
+Ajinomoto Foods Europe,1,1,0.0,0.0,,QB
+Advanced Skin and Body Aesthetics,1,1,0.0,0.0,Nebraska,OH
+Adam Weitsman,1,1,0.0,0.0,Arkansas,SG
+ALFA Clothiers,1,1,0.0,0.0,,S
+ATH Posters,1,1,0.0,0.0,,S
+ALFA Custom Clothiers,1,1,0.0,0.0,,S
+AMIN.O,1,1,0.0,0.0,,SF
+AP Law Group,1,1,0.0,0.0,,PG
+ASAB Basketball Camp,1,1,0.0,0.0,UNLV,PF
+ASAS-Los Angeles,1,1,0.0,0.0,,RB
+ATAC,1,1,0.0,0.0,Central Oklahoma,S
+AUSA Basketball Clinic,1,1,0.0,0.0,,SG
+Ad Council,1,1,0.0,0.0,LSU,PG
+Above the Realm,1,1,0.0,0.0,Florida,LB
+Absolutely Ridiculous,1,1,0.0,0.0,UCLA,IF
+Academy,1,1,0.0,0.0,SMU,MB
+Acid Rain Water,1,1,0.0,0.0,,IOL
+Acquista Trattoria,1,1,0.0,0.0,Texas,SG
+"Action Plumbing, Heating, AC & Electrical",1,1,0.0,0.0,,DL
+Awake Chocolate,1,1,0.0,0.0,Wisconsin,MF
+Ayanna Patterson EmPower Forward Weekend,1,1,0.0,0.0,Connecticut,SF
+Burgan Real Estate,1,1,0.0,0.0,Dayton,CG
+Bounce Curl,1,1,0.0,0.0,Arizona State,P
+Bolay,1,1,0.0,0.0,USF,QB
+Boltion,1,1,0.0,0.0,Fairfield University,SG
+Bommarito Automotive Group,1,1,0.0,0.0,Saint Louis,C
+Bon Bon Bon,1,1,0.0,0.0,,RB
+Bonchon,1,1,0.0,0.0,,PF
+Bonfire,1,1,0.0,0.0,Utah,BB
+Book Bag Giveaway,1,1,0.0,0.0,,SF
+Book'em,1,1,0.0,0.0,Vanderbilt,PG
+Boombah,1,1,0.0,0.0,,P
+Boomers Trucks,1,1,0.0,0.0,Boise State,K
+Boone's Trace National Golf Club,1,1,0.0,0.0,,QB
+Born Primitive,1,1,0.0,0.0,Nebraska,P
+Born To Be Me,1,1,0.0,0.0,Arkansas,S
+Bosse Sports,1,1,0.0,0.0,Boston College,RB
+Boston Motor Sports,1,1,0.0,0.0,,MF
+Body Fuel,1,1,0.0,0.0,Princeton,WR
+Bob's Red Mill,1,1,0.0,0.0,Clemson,DR
+Boathouse Sports,1,1,0.0,0.0,Temple,VT
+Blankenship Group,1,1,0.0,0.0,,QB
+Billionaire Girls Club,1,1,0.0,0.0,,PG
+BitMart,1,1,0.0,0.0,,SG
+Black Fives Foundation,1,1,0.0,0.0,Connecticut,SG
+Blackwood for Men,1,1,0.0,0.0,,QB
+Blaise Alexander Family Dealership,1,1,0.0,0.0,Penn State,WR
+Blake Corum Youth Football Camp,1,1,0.0,0.0,,RB
+Blanketing Families Inc,1,1,0.0,0.0,,PF
+Blueprint Improvement Group,1,1,0.0,0.0,,DF
+Blast Softball,1,1,0.0,0.0,Oklahoma,C
+Blenz Bowls,1,1,0.0,0.0,Alabama,GK
+Blono Pizza Co.,1,0,0.0,0.0,,
+Blue Linen Boutique,1,1,0.0,0.0,Utah,All
+Blue White Game,1,0,0.0,0.0,,
+BlueChip,1,1,0.0,0.0,,SG
+Boulevard Collective Jingle & Mingle ,1,0,0.0,0.0,,
+Bounty,1,1,0.0,0.0,Texas A&M,RB
+Ayden Elementary School,1,1,0.0,0.0,SMU,LB
+Boutine Los Angeles,1,1,0.0,0.0,,S
+Bread Man Apparel,1,1,0.0,0.0,,DL
+Breast Cancer Research Foundation,1,1,0.0,0.0,Florida State,AT
+Breathe Right,1,1,0.0,0.0,,WR
+Breville USA,1,1,0.0,0.0,Washington,P
+BrevinGalloway.com,1,1,0.0,0.0,Clemson,PG
+Brookhaven Pub & Grill,1,1,0.0,0.0,,PG
+Brown's Heating and Air,1,1,0.0,0.0,Clemson,RB
+Bryan Molloy Design,1,1,0.0,0.0,Providence,SF
+Bryce Underwood Shop,1,1,3035177.0,3035177.0,Michigan,QB
+Bubba's 33,1,1,0.0,0.0,,S
+Buchart Wachs Orthodontics,1,1,0.0,0.0,Nebraska,WR
+Bucked Up,1,1,0.0,0.0,,PG
+Bucketheads,1,1,0.0,0.0,Cincinnati,DL
+BuddyBet,1,1,0.0,0.0,,SF
+Built Bar,1,1,0.0,0.0,Michigan State,DR
+Brazyn Life,1,1,0.0,0.0,Clemson,S
+Brazos Running Company ,1,1,0.0,0.0,,RB
+Brazil Sports Tours LLC,1,1,0.0,0.0,Ohio State,SG
+Boys & Girls Clubs of Palm Beach County,1,1,0.0,0.0,Wisconsin,PG
+BoutineLA,1,1,0.0,0.0,Alabama,MF
+Bowling With Football,1,1,0.0,0.0,,WR
+Bowser Automotive,1,1,0.0,0.0,,WR
+Boys & Girls Club of King County,1,0,0.0,0.0,,
+Boys & Girls Club of Lafayette,1,1,0.0,0.0,Oregon,S
+Boys & Girls Clubs of Central Ohio,1,1,0.0,0.0,Ohio State,OH
+Boys & Girls Clubs of Western Pennsylvania,1,1,0.0,0.0,Pittsburgh,DL
+Brandon Dial Family Attorney,1,1,0.0,0.0,Georgia,TE
+Boys and Girls Club Syracuse,1,1,0.0,0.0,Syracuse,SG
+Boys and Girls Club of Fall River,1,1,0.0,0.0,St. John's,PF
+Brain Vault,1,1,0.0,0.0,Mississippi State,QB
+BrainTree Nutrition,1,0,0.0,0.0,,
+Branded Bespoke,1,1,0.0,0.0,,WR
+Brandon Davis-Swain Youth Football Camp,1,1,0.0,0.0,Colorado,DL
+Bill Dodge Auto Group,1,1,0.0,0.0,Georgia,G
+Big Woods,1,1,0.0,0.0,Miami,PF
+Big Paws Rescue,1,1,0.0,0.0,Utah,All
+Big Lakes Developmental Center,1,1,0.0,0.0,Kansas State,CB
+BYB Extreme Bare Knuckle Fighting Series,1,1,0.0,0.0,,PF
+Babe Lash,1,0,0.0,0.0,,
+Back To The Motherland Basketball Camp,1,1,0.0,0.0,,PF
+Back to School Kickoff,1,0,0.0,0.0,,
+Bad Boyz Collection,1,0,0.0,0.0,,
+Badass Masks,1,1,0.0,0.0,,S
+Bae’s Baekery,1,1,0.0,0.0,Louisville,S
+Balfour of Norman,1,1,0.0,0.0,,S
+Ballin’ on Break Basketball Camp ,1,1,0.0,0.0,Connecticut,PF
+Bama Stuff,1,1,0.0,0.0,,P
+Bang Energy,1,1,0.0,0.0,Alabama,MF
+Bank of America,1,1,0.0,0.0,USC,G
+Bantam Bagels,1,1,0.0,0.0,,SF
+Barcode,1,1,0.0,0.0,Oregon,CG
+Barebells,1,1,0.0,0.0,,WR
+BURST Oral Care,1,0,0.0,0.0,,
+BUBBL’R,1,1,0.0,0.0,Utah,All
+BOSS Program,1,1,0.0,0.0,,CB
+BADSocietyClub,1,1,0.0,0.0,TCU,PG
+Aztec Link,1,1,0.0,0.0,Nebraska,LB
+Aztec Link Golf Tournament,1,1,0.0,0.0,San Diego State,WR
+Azzi Fudd's Basketball Camp,1,1,0.0,0.0,Connecticut,SG
+Azzip Pizza,1,1,0.0,0.0,,QB
+B Generous,1,1,0.0,0.0,,EDGE
+B-Unlimited Mississippi State,1,1,0.0,0.0,,QB
+BAMnut,1,1,0.0,0.0,Temple,VT
+BLACKBOUGHSWIM,1,1,0.0,0.0,Louisville,DS
+BAWS Clothing,1,1,0.0,0.0,Baylor,LB
+BBB Printing,1,1,0.0,0.0,Nebraska,CG
+BC2 Football Camp ,1,1,0.0,0.0,,RB
+BHOP,1,1,0.0,0.0,St. John's,PF
+BIGFOOT HEALTH,1,1,0.0,0.0,,PF
+BIOLYTE,1,1,0.0,0.0,Georgia Southern,DF
+Barilla,1,1,0.0,0.0,Wisconsin,MB
+Bartstool Gonzaga,1,1,0.0,0.0,,C
+Baseballism,1,1,0.0,0.0,,QB
+Bice Chrysler Dodge Jeep Ram,1,1,0.0,0.0,,SF
+Ben's Bells Project,1,1,0.0,0.0,Kansas State,S
+Besten and Dieruf,1,1,0.0,0.0,Centre College,AT
+Bet on Yourself,1,1,0.0,0.0,Nebraska,DS
+BetterBaseball.com,1,1,0.0,0.0,Vanderbilt,IF
+Betterguards,1,1,0.0,0.0,UCLA,SF
+Bev-Hub,1,1,0.0,0.0,Kansas State,QB
+Big 10 Sports Bar & Grill,1,1,0.0,0.0,Nebraska,DS
+Belle5Lacrosse,1,1,0.0,0.0,,MF
+Big A Legends,1,1,0.0,0.0,Alabama,CG
+Big Brothers Big Sisters,1,1,0.0,0.0,SMU,MB
+Big Brothers Big Sisters Of The Upstate,1,1,0.0,0.0,Clemson,DL
+Big Brothers Big Sisters of Utah,1,1,0.0,0.0,,CB
+Big Dean's Hot Chicken,1,1,0.0,0.0,,LB
+Big Frog,1,1,0.0,0.0,Florida State,SG
+Bellsmith,1,1,0.0,0.0,Mississippi State,WR
+Belk,1,1,0.0,0.0,Alabama,IF
+Baseline Team,1,1,0.0,0.0,,PG
+Baylee Klingler Hitting Camp,1,1,0.0,0.0,Washington,IF
+Basketball With a Buddy,1,1,0.0,0.0,Stanford,OT
+Basketball on the Boulevard,1,0,0.0,0.0,,
+Batavia Feeder Program,1,1,0.0,0.0,Colorado State,CG
+Baton Rouge Food Bank,1,1,0.0,0.0,,EDGE
+Battle Sports,1,1,4199730.0,4199730.0,Ohio State,WR
+Baumhower’s Victory Grille Auburn,1,0,0.0,0.0,,
+Be A Champion,1,1,0.0,0.0,Houston,OH
+Behind the Wall Podcast,1,1,0.0,0.0,,K
+Be A Good Person,1,1,0.0,0.0,Colorado,PG
+Be The Match,1,1,0.0,0.0,UCLA,QB
+Beam Queen Boot Camp,1,1,0.0,0.0,Auburn,All
+BeastMode Apparel,1,1,0.0,0.0,Louisville,QB
+Bed'r Mattress,1,1,0.0,0.0,Tennessee,DL
+Behind the Glass,1,1,0.0,0.0,Auburn,All
+Fanatics Trading Cards,1,1,1561478.0,1561478.0,Kansas,SG
+Fanstake,1,1,0.0,0.0,Tennessee,SF
+OBS Lifestyle,1,1,0.0,0.0,,RB
+Luminous Cleans,1,1,0.0,0.0,Colgate,CB
+Loot8,1,0,0.0,0.0,,
+Los Primos,1,1,0.0,0.0,Oklahoma State,MF
+Lou x Link Omaha,1,1,0.0,0.0,,PV
+LouisianaRich,1,1,0.0,0.0,Louisiana,WR
+Louisville NIL Store,1,1,0.0,0.0,Louisville,S
+Louisville Slugger,1,1,0.0,0.0,Louisville,LB
+Love One International,1,1,0.0,0.0,Western Kentucky,DF
+Love Wellness,1,1,0.0,0.0,UCLA,All
+Love Your Melon,1,1,0.0,0.0,Nebraska,DS
+Love's Travel Stops,1,1,0.0,0.0,Nebraska,P
+Lucchese Bootmaker,1,1,0.0,0.0,,QB
+Lucky Dog Pet Bakery,1,1,0.0,0.0,,RB
+Lucky Jack Coffee,1,1,0.0,0.0,,QB
+Lueberry Snacks,1,1,0.0,0.0,Kentucky,S
+Lugoff Chevy,1,1,0.0,0.0,South Carolina,PG
+Loot Mogul,1,1,0.0,0.0,,AT
+Loop Active,1,1,0.0,0.0,Mississippi State,QB
+Loom Juice,1,1,0.0,0.0,Michigan,RB
+Little Wish Foundation,1,1,0.0,0.0,Butler,PF
+ Kunes Mad City Mitsubishi of Madison,1,1,0.0,0.0,Wisconsin,EDGE
+Lime,1,1,0.0,0.0,USC,SF
+Linktree,1,1,0.0,0.0,,All
+Lion Wear Active,1,1,0.0,0.0,Alabama,MF
+LionsRKing,1,1,0.0,0.0,Southern Connecticut State,All
+Lithia Ford Lincoln of Boise,1,1,2056072.0,2056072.0,Arkansas,QB
+Little Words Project,1,1,0.0,0.0,Ohio State,CG
+London Oxford Tax Services,1,1,0.0,0.0,Duquesne,PG
+Littlejohn Community,1,1,0.0,0.0,,DL
+Live Momentous,1,1,0.0,0.0,,OT
+Live Nation,1,1,0.0,0.0,Oklahoma,All
+Lo Loestrin Fe,1,1,0.0,0.0,Miami,PF
+Locker Verse,1,1,0.0,0.0,UCLA,PG
+Logan's Roadhouse,1,1,0.0,0.0,,QB
+Luken T Boyle Campaign for Kindness,1,0,0.0,0.0,,
+Lupus TriState,1,1,0.0,0.0,Memphis,PG
+Maserati of Austin,1,1,0.0,0.0,,RB
+Luxe 23 Columbus,1,1,0.0,0.0,Ohio State,ATH
+Main Line Float and Freeze,1,1,0.0,0.0,Saint Joseph's University,SF
+Main Place Real Estate,1,1,0.0,0.0,LSU,TE
+Making Strides Against Breast Cancer,1,1,0.0,0.0,Arizona State,P
+Mammoth Sports Academy,1,1,0.0,0.0,Texas Tech,P
+Manhattan–Ogden USD 383,1,1,0.0,0.0,,EDGE
+Manischewitz,1,1,0.0,0.0,BYU,QB
+Manscaped,1,1,0.0,0.0,,C
+Marco's Pizza,1,1,0.0,0.0,,TE
+Mario’s Fishbowl,1,1,0.0,0.0,,WR
+Mark South Outdoors,1,1,0.0,0.0,Alabama,PV
+Markley Honda,1,1,0.0,0.0,,WR
+Marquette NIL Store,1,1,0.0,0.0,Marquette,PG
+Marriott,1,1,0.0,0.0,UCLA,PG
+Martin and Muir Counseling,1,1,0.0,0.0,South Carolina,WR
+Marucci,1,1,0.0,0.0,,IF
+Mahogany Prime Steakhouse,1,1,0.0,0.0,Oklahoma,IF
+Magnolia Boutique,1,1,0.0,0.0,Texas,L
+Magnolia At University Heights,1,1,0.0,0.0,,RB
+MT Noodles,1,1,0.0,0.0,,PG
+Lynhurst Park Back-to-School Party,1,1,0.0,0.0,Indiana,C
+MET-Rx,1,1,0.0,0.0,,TE
+MGoDAO,1,1,0.0,0.0,Western Michigan,RB
+MLB PlayBall Weekend,1,1,0.0,0.0,Texas Tech,P
+MLK Center,1,1,0.0,0.0,Butler,C
+MOGL,1,1,0.0,0.0,,S
+MTV Pop Star,1,1,0.0,0.0,,PF
+Maely's Cosmetics,1,1,0.0,0.0,Louisville,OH
+MVMI,1,1,0.0,0.0,UCLA,SF
+MVP Miami,1,1,1500772.0,1500772.0,LSU,CG
+Macfox,1,1,0.0,0.0,San Diego State,AT
+Mad Rabbit,1,1,0.0,0.0,Washington,LB
+Made Equal Clothing Co.,1,1,0.0,0.0,Boston College,RB
+Madi Scott Basketball Foundation Youth Camp,1,1,0.0,0.0,Ole Miss,PF
+Lilac Blonde,1,1,0.0,0.0,Indiana,SG
+Lift For Life,1,1,0.0,0.0,NC State,WR
+LifestyleBands,1,1,0.0,0.0,,QB
+LifeServe Blood Center,1,1,0.0,0.0,Ohio,SG
+Kingdom Family Dentistry,1,1,0.0,0.0,,TE
+Kingdom Family Dentistry ,1,1,0.0,0.0,,RB
+Kingsfield Fitness,1,1,0.0,0.0,,SG
+Kinly,1,1,0.0,0.0,Oregon,CG
+KloutMachine,1,1,0.0,0.0,,QB
+Knight and Day Apparel,1,1,0.0,0.0,,PG
+Knix,1,1,0.0,0.0,Michigan,All
+Kodiak Cakes,1,1,0.0,0.0,Miami,OT
+Kool-Aid,1,1,0.0,0.0,,CB
+Kornblue Kicking,1,1,0.0,0.0,Boise State,K
+Koya Aboriginal Corporation,1,1,0.0,0.0,Florida,PF
+Kraft Nissan,1,1,0.0,0.0,,EDGE
+Kumawave,1,1,0.0,0.0,,QB
+Kunes Auto and RV Group,1,1,0.0,0.0,,S
+Kurt Goeser State Farm,1,1,0.0,0.0,Kansas,ATH
+Kingdom Basketball Classic,1,0,0.0,0.0,,
+King County Parks,1,1,0.0,0.0,,WR
+KeyWise,1,1,0.0,0.0,,RB
+Kansas Food Bank,1,1,0.0,0.0,Wichita State,PG
+KILOGEAR CUT,1,1,0.0,0.0,SMU,MB
+KOKOLU,1,1,0.0,0.0,Utah,BB
+KSBar & Grille,1,1,0.0,0.0,,SG
+KSL Sports,1,1,0.0,0.0,,CB
+KYMIRA Sport,1,1,0.0,0.0,Boston College,QB
+Kanpai Pandas,1,1,0.0,0.0,Wisconsin,PG
+Kapsul Tech,1,1,0.0,0.0,,EDGE
+KeyBank,1,1,4199730.0,4199730.0,Ohio State,WR
+KastKing,1,1,0.0,0.0,,CB
+Keating Chiropractic and Wellness,1,1,0.0,0.0,Pittsburgh,WR
+Kendall Auto Group,1,1,0.0,0.0,,QB
+Kentucky Branded,1,1,0.0,0.0,,IOL
+Kentucky Proud,1,1,0.0,0.0,Louisville,OH
+Keon Coleman Youth Football Camp,1,1,0.0,0.0,,WR
+Kurtis Rourke Skills Camp,1,1,0.0,0.0,,QB
+Kyle MacIntosh Memorial 5K,1,1,0.0,0.0,Colorado,MF
+L3 Campus,1,1,0.0,0.0,,QB
+Levin Furniture and Mattress,1,1,0.0,0.0,Penn State,SG
+Leatherby's Family Creamery,1,1,0.0,0.0,Sacramento State,IOL
+Lee’s Famous Recipe Chicken,1,1,0.0,0.0,,PF
+Legacy League,1,1,0.0,0.0,Auburn,All
+LegalZoom,1,1,0.0,0.0,UCLA,QB
+Lehigh Valley Orthopedic Institute,1,1,0.0,0.0,,DS
+Lend a Hand Bahamas,1,1,0.0,0.0,Florida,OT
+Levine Children’s,1,1,0.0,0.0,,RB
+Learn to Earn Dayton,1,1,0.0,0.0,,CG
+Lewis Toyota,1,1,0.0,0.0,LSU,SG
+Lex Exotics,1,1,0.0,0.0,Arkansas,CG
+LiK Wellness,1,1,0.0,0.0,Kansas State,OH
+Lia Auto Group,1,1,0.0,0.0,,SF
+Liberty Sport,1,1,0.0,0.0,Boise State,PF
+LifeLine Animal Project,1,1,0.0,0.0,Clemson,SG
+Learn365RI,1,1,0.0,0.0,Washington,PG
+Leanne Wong’s Bowtique,1,1,0.0,0.0,Florida,All
+LA Food Bank,1,1,0.0,0.0,UCLA,QB
+Laroche Posay,1,1,0.0,0.0,Connecticut,SG
+LA Sports Innovation Conference,1,1,0.0,0.0,UCLA,QB
+LB3 Chips,1,1,0.0,0.0,,WR
+LLumar Window Film,1,1,0.0,0.0,Kentucky,SF
+La Victoria,1,1,0.0,0.0,,WR
+LaCroix,1,1,0.0,0.0,,PG
+LaNorris Sellers Shop,1,1,2589918.0,2589918.0,South Carolina,QB
+Lash Babe Esthetics,1,1,0.0,0.0,Nebraska,DS
+Lazyguys,1,1,0.0,0.0,,DL
+Lashes By Leah J,1,1,0.0,0.0,Temple,SG
+Launch Hydrate,1,1,0.0,0.0,TCU,SF
+Law Offices of Matthew J. Quinlan,1,1,0.0,0.0,,PG
+Law of Athlete,1,1,0.0,0.0,Duke,SG
+Lawrence Chamber,1,1,0.0,0.0,,RB
+Lazarus Naturals CBD,1,1,0.0,0.0,SMU,MB
+Mascot Books,1,1,0.0,0.0,Ohio State,DS
+Mason’s Famous Lobster Rolls,1,1,0.0,0.0,Georgetown,SG
+Juva Juice,1,1,0.0,0.0,Mississippi State,LB
+Native Sons,1,1,0.0,0.0,NC State,QB
+NOCO,1,1,0.0,0.0,Oregon,WR
+NOCTA,1,1,0.0,0.0,Arkansas,CG
+NOERDEN,1,1,0.0,0.0,Arkansas,S
+NOSOLO,1,1,0.0,0.0,,CB
+NYX Professional Makeup,1,1,0.0,0.0,USC,CG
+Nair,1,1,0.0,0.0,Alabama,PV
+Naked Juice,1,1,0.0,0.0,,DL
+Napleton's Countryside Mazda,1,1,0.0,0.0,Notre Dame,QB
+Nashville Predators,1,1,0.0,0.0,Florida State,WR
+Nassau County Football Camp,1,1,0.0,0.0,,CB
+Natasha Watley Foundation,1,1,0.0,0.0,Texas Tech,P
+National Domestic Violence Hotline,1,1,0.0,0.0,Rice,PG
+National Family Pharmacy,1,1,0.0,0.0,Arkansas,IOL
+National Scouting Report,1,1,0.0,0.0,,G
+National Sports Agency,1,1,0.0,0.0,UTSA,QB
+NOCAP Sports,1,1,0.0,0.0,Arkansas,S
+NIU Official,1,1,0.0,0.0,,S
+NILosophy,1,1,0.0,0.0,Oregon,CG
+NFL,1,1,0.0,0.0,,RB
+NBA2K,1,1,0.0,0.0,,CG
+NBC Sports Athlete Direct,1,1,0.0,0.0,Virginia,RB
+NBPA,1,1,0.0,0.0,Connecticut,SG
+NC Carpet Binding,1,1,0.0,0.0,North Carolina,DL
+NCHOF,1,1,0.0,0.0,North Carolina,DL
+NEXT 22,1,1,0.0,0.0,,SF
+NIL Coins,1,1,0.0,0.0,SMU,MB
+NILLY,1,1,0.0,0.0,UCLA,PG
+NIL Elite Gear,1,1,0.0,0.0,Colorado State,S
+NIL FANZ,1,1,0.0,0.0,,QB
+NIL Merch,1,1,0.0,0.0,Penn State,LB
+NIL Pro Shop,1,1,0.0,0.0,,WR
+NIL Threads,1,1,0.0,0.0,Florida,VT
+NIL Village,1,1,0.0,0.0,TCU,MF
+Native,1,1,0.0,0.0,,PF
+Native Youth Camp,1,1,0.0,0.0,,QB
+Matt Bowers Auto Group,1,1,0.0,0.0,,QB
+Natures EpickL Hydration,1,1,0.0,0.0,Nebraska,QB
+Northern Colorado Owlz,1,1,0.0,0.0,Colorado State,DS
+Northside Food Pantry Advisors,1,1,0.0,0.0,,DL
+Northwest Harvest,1,1,0.0,0.0,,QB
+Northwestern NIL Store,1,1,0.0,0.0,Northwestern,QB
+Not Your Mother's,1,1,0.0,0.0,Miami,PF
+Novus,1,1,0.0,0.0,Clemson,PG
+Nshelter,1,1,0.0,0.0,Clemson,P
+Nudy Rudy,1,1,0.0,0.0,Florida,UB
+NutriSource Pet Foods,1,1,0.0,0.0,Minnesota,S
+Nutricost,1,1,0.0,0.0,BYU,LB
+Nuvance Health,1,1,0.0,0.0,,SF
+Nyx,1,1,0.0,0.0,Texas,CG
+Nékter Juice Bar,1,1,0.0,0.0,Kentucky,PG
+O'Neal Cancer Center,1,1,2274193.0,2274193.0,Michigan,PF
+O'Rourke Motors,1,1,0.0,0.0,Iowa,SG
+Northern Colorado Hailstorm FC,1,1,0.0,0.0,Colorado State,DS
+NortheastBeef.org,1,1,0.0,0.0,Connecticut,SG
+North Carolina Dairy Producers Association,1,1,0.0,0.0,,C
+Nespresso,1,1,0.0,0.0,Connecticut,SG
+Nebraska Crossing,1,1,0.0,0.0,Nebraska,DS
+Nebraska Greats Foundation & Teammates,1,1,0.0,0.0,Nebraska,S
+Neighborhood Hero Football Camp,1,1,0.0,0.0,,DL
+Neighborhood Hero Fun Day,1,1,0.0,0.0,,DL
+Neiron Ball Foundation,1,1,0.0,0.0,Florida,LB
+Nerds,1,1,0.0,0.0,North Carolina,SGL
+Netflix,1,1,0.0,0.0,Michigan,SG
+Norfolk Admirals,1,1,0.0,0.0,,S
+Nevada Childhood Cancer Foundation,1,0,0.0,0.0,,
+Nevada Sports Net,1,1,0.0,0.0,Nevada,CG
+Nevels Fitness,1,1,0.0,0.0,Kentucky,TE
+Nevels Fitness Agency,1,1,0.0,0.0,North Carolina,EDGE
+New Lift Art,1,1,0.0,0.0,,QB
+Next Play Capital,1,1,0.0,0.0,UCLA,QB
+NASCAR Quaker State 400,1,1,0.0,0.0,,DL
+NASCAR,1,1,0.0,0.0,,RB
+My Wife Didn't Cook,1,1,0.0,0.0,Brown,PG
+MuscleMeds,1,1,0.0,0.0,Yale,QB
+Method Products,1,1,0.0,0.0,Auburn,All
+Metro Straw,1,1,0.0,0.0,,EDGE
+Meyer Center,1,1,0.0,0.0,,K
+Miami Dade Water,1,1,0.0,0.0,Georgia,WR
+Miami Millionaire’s Club,1,1,0.0,0.0,SMU,QB
+Michael Kors,1,1,0.0,0.0,LSU,All
+Michael Strahan Brand,1,1,0.0,0.0,,WR
+Michigan Army National Guard,1,1,0.0,0.0,,RB
+Michigan Dairy Market Program,1,1,0.0,0.0,Michigan,TE
+Michigan Fan Flex Challenge,1,1,0.0,0.0,,RB
+Midwest Bank,1,1,0.0,0.0,Nebraska,P
+Midwest BankCentre,1,1,0.0,0.0,,QB
+Midwest Dream Car Collection,1,1,0.0,0.0,Kansas State,QB
+Mielle Organics,1,1,0.0,0.0,,SF
+Milan,1,1,0.0,0.0,Miami,PF
+Metcalf Coffee,1,1,0.0,0.0,Nebraska,S
+Metabillia,1,1,0.0,0.0,,QB
+Mercedes-Benz,1,1,0.0,0.0,,QB
+Mckinley Crone Goalkeeper Training,1,1,0.0,0.0,Alabama,GK
+Mattawan School District,1,1,0.0,0.0,,WR
+Maven Baseball Lab,1,1,0.0,0.0,Florida,P
+MaxBat,1,1,0.0,0.0,Washington,IF
+McDavid USA,1,1,0.0,0.0,,SG
+McDonald's of Oregon,1,1,0.0,0.0,Oregon,H
+McNeilly Center for Children,1,1,0.0,0.0,Vanderbilt,P
+Meadowlark Hills,1,1,0.0,0.0,Kansas State,SG
+MensXMental,1,1,0.0,0.0,Sam Houston State,RB
+Meals by Misty,1,1,0.0,0.0,Georgia Tech,OT
+Meelzie's Basketball Clinic,1,1,0.0,0.0,Temple,CG
+MegaCorp Logistics,1,1,0.0,0.0,West Virginia,IOL
+Meltz Extreme Grilled Cheese,1,1,0.0,0.0,Boise State,SG
+Memphis BBQ Supply,1,1,0.0,0.0,,DL
+Memphis Shelby Crime Commission Night Out,1,0,0.0,0.0,,
+Millican Realty,1,1,0.0,0.0,Indiana,SG
+Ministry With Community,1,1,0.0,0.0,Western Michigan,IOL
+Minute Rice,1,1,0.0,0.0,Ohio State,AT
+Motier Lafayette,1,1,0.0,0.0,,WR
+More Than Just A Name,1,1,0.0,0.0,,QB
+More than a Bed,1,1,0.0,0.0,,TE
+Morgan Stanley,1,1,0.0,0.0,Villanova,PG
+Morsell,1,1,0.0,0.0,NC State,SG
+Moshengqi,1,1,0.0,0.0,Illinois,OF
+Mother Bear Pizza,1,1,0.0,0.0,Indiana,SG
+Motorola,1,1,0.0,0.0,,All
+More Than A Kick,1,1,0.0,0.0,Washington State,K
+Move,1,1,0.0,0.0,Iowa State,PG
+Move Insoles,1,1,0.0,0.0,,S
+Mr. Klean Kut,1,1,0.0,0.0,,S
+Mr. Seafood,1,1,0.0,0.0,LSU,PG
+Murry Ave,1,1,0.0,0.0,NC State,CG
+Muscle Milk,1,1,0.0,0.0,,QB
+More Than An Athlete Camp,1,1,0.0,0.0,,QB
+More Managment,1,1,0.0,0.0,East Tennessee State,QB
+Miracles and Magic Radiothon,1,1,0.0,0.0,Arkansas,PF
+Mohawk Honda,1,1,0.0,0.0,,TE
+Miss Huddy's,1,1,1625635.0,1625635.0,Oklahoma,QB
+Mississippi Blood Services,1,1,0.0,0.0,Mississippi State,GK
+Mitch Lyons Wealth,1,0,0.0,0.0,,
+Mitchell Tenpenny,1,1,0.0,0.0,Alabama,PV
+Mizzou To The Lou,1,1,0.0,0.0,Missouri,SG
+Moderna,1,1,0.0,0.0,,QB
+Momento NFT,1,1,0.0,0.0,,SF
+Moore Bats,1,1,0.0,0.0,,IF
+Monarc,1,1,0.0,0.0,,WR
+Money Grab in the Cab,1,1,0.0,0.0,Iowa State,PG
+Monos Travel & Luggage,1,1,0.0,0.0,Florida,All
+Montana Fouts Pitching Camp,1,1,0.0,0.0,,P
+MontanaFouts14.com,1,1,0.0,0.0,,P
+Moon Golf,1,1,0.0,0.0,,P
+K-Guard Virginia Gutters,1,1,0.0,0.0,Virginia Tech,IOL
+Just-Us Youth Football Camp,1,1,0.0,0.0,Arkansas,EDGE
+Farm Bureau Financial Services,1,1,0.0,0.0,LSU,SG
+Golfinity,1,1,0.0,0.0,,QB
+Gibson Area Hospital,1,1,0.0,0.0,Illinois,EDGE
+Gillette,1,1,0.0,0.0,,QB
+Gin & Cotton Boutique,1,1,0.0,0.0,Florida State,C
+Girls Inc St. Louis,1,1,0.0,0.0,Clemson,S
+Girls on the Run,1,1,0.0,0.0,LSU,All
+Girls on the Run Central Indiana,1,1,0.0,0.0,Indiana,DR
+Givebacks,1,1,0.0,0.0,South Carolina,AT
+Glad,1,1,0.0,0.0,Nebraska,P
+Glamour,1,1,0.0,0.0,Florida,UB
+Glory Days,1,1,0.0,0.0,Florida State,SF
+GoArmy,1,1,0.0,0.0,,CG
+GoPro,1,0,0.0,0.0,,
+Goings Law Firm,1,1,0.0,0.0,South Carolina,QB
+Gold's Gym,1,1,0.0,0.0,,S
+Golden Aesthetic Atelier,1,1,0.0,0.0,Louisville,OH
+Get.Juice,1,1,0.0,0.0,UCLA,QB
+Get Laced Shoelaces,1,1,0.0,0.0,,WR
+Germain Honda,1,1,0.0,0.0,Michigan,TE
+Gansett,1,1,0.0,0.0,,PF
+Gainbridge,1,1,0.0,0.0,,SG
+Gainesville Junior League,1,1,0.0,0.0,Florida,CB
+Gamble Sports Modeling,1,1,0.0,0.0,Georgia,DR
+Game Coin,1,1,0.0,0.0,LSU,VT
+Gamers First,1,1,0.0,0.0,Kansas,EDGE
+Gametime,1,1,0.0,0.0,Michigan,SG
+Garmin,1,1,0.0,0.0,Duke,DR
+Georgia Southern NIL Store,1,1,0.0,0.0,Georgia Southern,WR
+Gary Yamamoto Custom Baits,1,1,0.0,0.0,,CB
+GenWealthOne,1,1,0.0,0.0,,RB
+George and Roszena Shaw Center for Housing and Eco,1,1,0.0,0.0,,EDGE
+Georgia Dairy,1,1,0.0,0.0,,LB
+Georgia Dairy Alliance,1,1,0.0,0.0,,QB
+Georgia Power,1,1,0.0,0.0,,QB
+Goldman Sachs,1,1,0.0,0.0,,SF
+Goli Nutrition,1,1,0.0,0.0,,C
+Halo Non-Invasive Dental Veneers,1,1,0.0,0.0,Sacramento State,QB
+Good Vim Coffee,1,1,0.0,0.0,Michigan State,P
+Gushers,1,1,0.0,0.0,,RB
+Gussy's Bagels,1,1,0.0,0.0,Pittsburgh,PG
+Gym Weed,1,1,0.0,0.0,Colorado,QB
+Gymnastics Now,1,1,0.0,0.0,Florida,All
+H&M,1,1,0.0,0.0,Auburn,All
+H-E-B,1,1,0.0,0.0,Texas,OH
+H2O Church,1,0,0.0,0.0,,
+HBCU Slides,1,1,0.0,0.0,,S
+HEALR,1,1,0.0,0.0,,S
+HOLOSTARS,1,1,0.0,0.0,Oregon,S
+HOMAGE,1,1,0.0,0.0,,RB
+HTeaO Stillwater,1,1,0.0,0.0,Oklahoma,P
+Haggar Clothing Co.,1,1,0.0,0.0,Central Oklahoma,S
+Hail Varsity Kids,1,1,0.0,0.0,UNLV,EDGE
+Haley Jones Basketball Camp,1,1,0.0,0.0,,CG
+GummiShot,1,1,0.0,0.0,SMU,MB
+Guadalupe Parkway,1,1,0.0,0.0,,IF
+Grow Credit,1,1,0.0,0.0,Charlotte,SG
+Grand Slam Collectibles,1,1,0.0,0.0,,QB
+GoodSport,1,1,0.0,0.0,Kansas,EDGE
+Google Shopping,1,1,0.0,0.0,,QB
+Gotcha Covered,1,1,0.0,0.0,,S
+Gotcha4Life Foundation,1,1,0.0,0.0,,P
+Grace Lyons T-Shirt,1,1,0.0,0.0,Oklahoma,IF
+Grand Fitness,1,1,0.0,0.0,VCU,PG
+Grandeur Models,1,1,0.0,0.0,UCLA,C
+Grow,1,1,0.0,0.0,Wichita State,IF
+Greater Baton Rouge Food Bank,1,1,0.0,0.0,LSU,RB
+Greatness Wins,1,1,0.0,0.0,,RB
+Greensboro Housing Authority,1,1,0.0,0.0,Texas,DL
+Greenwood,1,1,0.0,0.0,,WR
+Grey Rose Foundation,1,1,0.0,0.0,Appalachian State,PG
+Grind,1,1,0.0,0.0,Colgate,CB
+Gage Gandy Bail Bonds,1,1,0.0,0.0,Texas A&M,WR
+GTSM,1,1,0.0,0.0,,QB
+GRIT Sports Performance,1,1,0.0,0.0,,SG
+GRIT Sports,1,1,0.0,0.0,Pittsburgh,WR
+First-Lockhart National Bank,1,1,0.0,0.0,Virginia Tech,EDGE
+Flag and Anthem Co.,1,1,0.0,0.0,UCLA,RB
+Fletcher Auto Group,1,1,2056072.0,2056072.0,Arkansas,QB
+Fletcher Jones Mercedes,1,1,0.0,0.0,USC,CG
+FlexWork Sports Management,1,1,0.0,0.0,,QB
+Florida Concierge Medicine & Wellness,1,1,0.0,0.0,SMU,QB
+Florida Concierge Medicine and Wellness,1,1,0.0,0.0,SMU,QB
+Florida KidCare,1,1,0.0,0.0,Florida,All
+Florida Milk,1,1,0.0,0.0,Florida,UB
+Focus Features,1,1,0.0,0.0,Colorado,LB
+Food 4 Kids,1,1,0.0,0.0,Florida,S
+Food Bank of East Alabama,1,1,0.0,0.0,,P
+Food By DeLeo,1,1,0.0,0.0,Penn State,SF
+Food City,1,1,0.0,0.0,Tennessee,P
+Ford of Northampton,1,1,0.0,0.0,,PG
+First National Bank of Omaha,1,1,0.0,0.0,Nebraska,S
+First Downs Camp,1,1,2381076.0,2381076.0,Ohio State,S
+First Class Prospects,1,1,0.0,0.0,Georgia Southern,WR
+Feeding America,1,0,0.0,0.0,,
+Farm To Fork Meals,1,1,0.0,0.0,,SG
+Farmers Mutual of Nebraska,1,1,0.0,0.0,Nebraska,CG
+Fast X,1,1,0.0,0.0,,PG
+Favor Desserts,1,1,0.0,0.0,University of North Carolina Asheville,PG
+Fazoli's,1,1,0.0,0.0,Wisconsin,DL
+FedEx St. Jude Championship,1,1,0.0,0.0,Memphis,PF
+Feldman Chevy of Lansing,1,1,0.0,0.0,,LB
+Firefly,1,1,0.0,0.0,NC State,CG
+Fellowship of Christian Athletes,1,1,0.0,0.0,,RB
+Fenty Skin,1,1,0.0,0.0,,CG
+FetchMe Delivery,1,1,0.0,0.0,Auburn,MF
+Fifth & Ninth,1,1,0.0,0.0,Texas,CG
+Fighting Pretty,1,1,0.0,0.0,,DL
+Fire Laces,1,1,0.0,0.0,,S
+Forever Young Sports Cards,1,1,0.0,0.0,,CB
+Formula Bot,1,1,0.0,0.0,Oakland,SG
+Forrest Roy,1,1,0.0,0.0,Florida State,OF
+Funderburk Family McDonald’s,1,1,0.0,0.0,,QB
+FriendsOverFans,1,1,0.0,0.0,,QB
+Frittella's Italian Cafe,1,1,0.0,0.0,West Virginia,QB
+Frock Candy,1,1,0.0,0.0,LSU,VT
+Frontline Millionaires,1,1,0.0,0.0,,S
+Fruteria Chavez,1,1,0.0,0.0,,RB
+Frutta Bowls,1,1,0.0,0.0,Alabama,GK
+Funko,1,1,0.0,0.0,USC,CG
+Friends for Folks Program,1,1,0.0,0.0,Oklahoma,P
+Futuremood,1,1,0.0,0.0,,QB
+G.L.A.S.S.,1,1,0.0,0.0,Purdue,QB
+G.O.A.T. Fuel,1,1,0.0,0.0,,CG
+G2A.COM,1,1,0.0,0.0,Santa Clara University,DF
+GE Profile,1,1,0.0,0.0,Louisville,DS
+GR Energy,1,1,0.0,0.0,,DL
+Friends over Fans,1,1,0.0,0.0,,QB
+Friar Gear,1,1,0.0,0.0,,SG
+Forty1 Sports,1,1,0.0,0.0,,CB
+Freddie Berry,1,1,0.0,0.0,,S
+Four Star Freightliner,1,1,0.0,0.0,,RB
+Fowler Automotive,1,0,0.0,0.0,,
+Fox Sports,1,1,0.0,0.0,Ohio State,IF
+Franciscan 5k,1,1,0.0,0.0,Nebraska,QB
+Franklin Sports,1,1,0.0,0.0,Tennessee,OF
+Freak Strength and Abby Bosco Camp,1,1,0.0,0.0,Maryland,DF
+FreeFrom Sports,1,1,0.0,0.0,,CB
+FreshFin,1,1,0.0,0.0,Wisconsin,MB
+Freedom First Credit Union,1,1,0.0,0.0,Virginia Tech,SF
+Freely,1,1,0.0,0.0,SMU,MB
+Freestyle Watches,1,1,0.0,0.0,Alabama,GK
+Freeze Sleeve,1,1,0.0,0.0,Marshall,P
+French's ,1,1,0.0,0.0,,QB
+Fresh Fork Cafe,1,1,0.0,0.0,Connecticut,SF
+Hallow,1,1,0.0,0.0,Utah,All
+Hamilton Jewelers,1,1,0.0,0.0,Princeton,AT
+Just Salad,1,1,0.0,0.0,Florida,All
+JW10,1,1,0.0,0.0,,SF
+Island Taste,1,1,0.0,0.0,,EDGE
+It's Love Kelly,1,1,0.0,0.0,Vermont,SG
+It’s Just Wings,1,1,0.0,0.0,Marshall,WR
+Ivey League Podcast,1,1,0.0,0.0,,DL
+Izod,1,1,0.0,0.0,Miami,J
+J. Timothy's Taverne,1,0,0.0,0.0,,
+J. Wilson,1,1,0.0,0.0,,SF
+J.B Grimes,1,1,0.0,0.0,,S
+JASON,1,1,0.0,0.0,Ohio State,AT
+JCPenny,1,1,0.0,0.0,,S
+JJ's Tint,1,1,0.0,0.0,TCU,CG
+JOLYN,1,1,0.0,0.0,Louisville,S
+JP Morgan,1,1,0.0,0.0,UCLA,All
+JRP Media Management,1,0,0.0,0.0,,
+JS2 Cattle Company,1,1,0.0,0.0,Arkansas State,WR
+Iron Chest Master,1,1,0.0,0.0,,S
+Iowa NIL Store,1,1,0.0,0.0,Iowa,TE
+Iowa Girls High School Athletic Union,1,1,0.0,0.0,Iowa State,C
+Indy Summer Youth Programs,1,0,0.0,0.0,,
+In Sports Foundation,1,1,0.0,0.0,Wisconsin,S
+In The Lab+,1,1,0.0,0.0,UCLA,PG
+Incrediwear,1,1,0.0,0.0,,C
+Index,1,1,0.0,0.0,Utah,BB
+Indiana State NIL Store,1,1,0.0,0.0,Saint Louis,PF
+Indy Hub,1,1,0.0,0.0,,PF
+Infinity Clothing,1,1,0.0,0.0,,DL
+Invesco QQQ,1,1,0.0,0.0,,PG
+Influxer,1,1,0.0,0.0,NC State,TE
+Inside Anne's Closet,1,1,0.0,0.0,Auburn,QB
+Inside Pack Sports,1,1,0.0,0.0,NC State,WR
+Insomnia Cookies,1,1,0.0,0.0,Maryland,P
+Inspire Me Bracelets,1,1,0.0,0.0,,MB
+Integrated Psychological Assessment Services,1,1,0.0,0.0,,S
+JUMP Gear,1,1,0.0,0.0,Stanford,SG
+Jack Stack Barbecue,1,1,0.0,0.0,,QB
+Hamilton Jewlers,1,1,0.0,0.0,Princeton,AT
+Jackie Gaughan Boys & Girls Club,1,1,0.0,0.0,Marshall,RB
+Jimmy Granger Ford Lincoln,1,1,0.0,0.0,,EDGE
+Jimmy John's,1,1,0.0,0.0,,DL
+Jimmy’s Famous Seafood,1,1,0.0,0.0,,QB
+Joe Romeo's I-79 Honda,1,1,0.0,0.0,West Virginia,SF
+Joe's Kwik Mart,1,1,0.0,0.0,,SF
+Johnny Dang,1,1,0.0,0.0,Notre Dame,RB
+Johnny Fly,1,1,0.0,0.0,Alabama,PV
+Johnson Creative,1,1,0.0,0.0,South Carolina,AT
+Jones Bros. Jewelers,1,0,0.0,0.0,,
+Jordan Pouncey Wide Receiver Clinic,1,1,0.0,0.0,Florida,WR
+Joubert Law Firm ,1,1,0.0,0.0,LSU,WR
+Journey Payroll & HR,1,1,0.0,0.0,,PG
+Joye Law Firm,1,1,0.0,0.0,South Carolina,LB
+JuJu Smith-Schuster,1,0,0.0,0.0,,
+Just Food Kansas,1,0,0.0,0.0,,
+Jim and Carol West Foundation,1,1,0.0,0.0,Georgia State,QB
+Jim McKay Chevrolet,1,1,0.0,0.0,George Mason,PF
+Jim Hudson Chevrolet,1,1,0.0,0.0,,QB
+Jason Van Athletics,1,1,0.0,0.0,,RB
+Jae Foundation,1,1,0.0,0.0,Wyoming,DL
+Jalen Carter Football Camp,1,1,0.0,0.0,,DL
+Jalen Milroe Youth Football Camp,1,1,0.0,0.0,,QB
+Jalen Rose Leadership Academy,1,1,0.0,0.0,Connecticut,C
+James Hodge Auto Group,1,1,0.0,0.0,Oklahoma State,EDGE
+Jarritos,1,1,0.0,0.0,Auburn,SG
+Jaxxon,1,1,0.0,0.0,Colorado,QB
+Jethro's BBQ,1,1,0.0,0.0,Iowa State,LB
+Jayda Noble Art Show,1,1,0.0,0.0,Washington,SG
+JaydaColeman.com,1,1,0.0,0.0,Oklahoma,OF
+Jays Original Hoagie,1,1,0.0,0.0,Northern Iowa,DL
+Jaz Shelley Camp,1,1,0.0,0.0,Nebraska,CG
+Jeff Wyler Automotive ,1,1,0.0,0.0,Ohio State,RB
+Jesse's Burgers & Shakes,1,1,0.0,0.0,Arizona State,S
+Improbable Media,1,1,0.0,0.0,,QB
+Impacting Tomorrow,1,1,1893437.0,1893437.0,Cincinnati,QB
+Illinois NIL Store,1,1,0.0,0.0,Illinois,SG
+Idaho Central Credit Union,1,1,0.0,0.0,Boise State,PF
+Hearth,1,1,0.0,0.0,,SF
+Helium Mobile,1,1,0.0,0.0,Villanova,SG
+Hello Gorgeous!,1,1,0.0,0.0,TCU,SG
+Help Hope Live,1,1,0.0,0.0,,EDGE
+Hendrick Honda of Easley,1,1,0.0,0.0,,RB
+Hey Ginger!,1,1,0.0,0.0,LSU,SG
+Hightop Sports,1,1,0.0,0.0,,P
+Hillpointe,1,1,0.0,0.0,,QB
+Hokies NIL Store,1,1,0.0,0.0,Virginia Tech,C
+Hollingsworth Richards Ford,1,1,0.0,0.0,,QB
+Holy Kombucha,1,1,0.0,0.0,,QB
+Home Chef,1,1,0.0,0.0,,PF
+Home Team Grill,1,1,0.0,0.0,Loyola (Chi),PF
+HomeGrown Daytime Eatery,1,1,0.0,0.0,Wichita State,OF
+HomeGrown Wichita,1,1,0.0,0.0,Wichita State,IF
+Heartfelt,1,1,0.0,0.0,,SF
+Healing Housing,1,1,0.0,0.0,Vanderbilt,AT
+Healing Hands,1,1,0.0,0.0,Indiana,LS
+Hard Knox Pizza,1,1,0.0,0.0,Tennessee,P
+Hamilton Walker's,1,1,0.0,0.0,,QB
+Hampton Creative Consulting,1,1,0.0,0.0,,CG
+Hancock Whitney,1,1,0.0,0.0,,SF
+Happy Valley Lettermen's Bowl-A-Thon,1,1,0.0,0.0,,LB
+Harbin Automotive,1,1,2288842.0,2288842.0,Alabama,QB
+Harbor Bank,1,1,0.0,0.0,Morgan State,DL
+Harlan County Poke Sallet Festival,1,1,0.0,0.0,Kentucky,EDGE
+Headspace,1,1,0.0,0.0,Utah,All
+Hart House,1,1,0.0,0.0,,PG
+Hartford Council For Recreation,1,1,0.0,0.0,Western Michigan,IOL
+Hawaiian Bros,1,1,0.0,0.0,,PG
+Hawkins Way Capital,1,1,0.0,0.0,,QB
+Hawley Truckers Hat Bar,1,1,0.0,0.0,Texas,L
+Head USA,1,1,0.0,0.0,North Carolina,SGL
+Homegrown Kansas City,1,1,0.0,0.0,Wichita State,IF
+Homes by Gemini Restoration,1,1,0.0,0.0,Utah State,PG
+Homework Hotline,1,1,0.0,0.0,Vanderbilt,C
+IHMVCU,1,1,0.0,0.0,LSU,SG
+"Hysier ""Fabb"" Miller Philly Point Guard Academy",1,1,0.0,0.0,Virginia Tech,PG
+Hyype Space,1,1,0.0,0.0,,PF
+I Am Second,1,0,0.0,0.0,,
+I Believe Skills Academy,1,1,0.0,0.0,,SG
+I Got It Auction,1,1,0.0,0.0,Sacramento State,CG
+I'm Inspired,1,1,0.0,0.0,,QB
+IN-HOUSE,1,1,0.0,0.0,,PG
+HydroJug,1,1,0.0,0.0,,SF
+IN211.org,1,1,0.0,0.0,Purdue,PF
+INNBEAUTY PROJECT,1,1,0.0,0.0,Vanderbilt,DF
+IT Cosmetics,1,1,0.0,0.0,UCLA,All
+IVI Vision Eyewear,1,1,0.0,0.0,,S
+Ice Plug Jewelers,1,1,0.0,0.0,Texas,CG
+Icons of Oklahoma,1,1,0.0,0.0,Oklahoma,IF
+Hydrology,1,1,0.0,0.0,Miami,DL
+Hyatt,1,1,0.0,0.0,,WR
+Hooping for a Cure Camp,1,1,0.0,0.0,Connecticut,SG
+Houston Texans John Metchie Youth Football Camp,1,1,0.0,0.0,Georgia Tech,WR
+Hoosier Fan Fest,1,1,0.0,0.0,Indiana,CG
+Hoosier Hangout,1,0,0.0,0.0,,
+HopCat,1,1,0.0,0.0,Auburn,QB
+Hope Kids,1,1,0.0,0.0,Vanderbilt,OF
+Horns Down Shop,1,1,0.0,0.0,Utah,WR
+Hospitality House,1,1,0.0,0.0,Stanford,DL
+How'd You Do It Podcast,1,1,0.0,0.0,,RB
+Hy-Vee,1,1,0.0,0.0,,CG
+Hucks Market,1,1,0.0,0.0,Kentucky,IF
+Huddle For Hearts,1,1,0.0,0.0,,WR
+Huggies,1,1,0.0,0.0,,RB
+Humane Society of Saint Joseph County,1,1,0.0,0.0,TCU,SG
+Hungry Souls,1,1,0.0,0.0,,QB
+Husky Throwbacks,1,1,0.0,0.0,,QB
+vooray,1,1,0.0,0.0,,S

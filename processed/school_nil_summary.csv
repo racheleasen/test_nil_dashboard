@@ -1,0 +1,296 @@
+team_committed,n_deals,n_unique_athletes,total_nil_value,avg_nil_value,median_nil_value
+Abilene Christian,7,3,25000.0,25000.0,25000.0
+Akron,10,8,0.0,0.0,0.0
+Alabama,120,39,0.0,0.0,0.0
+Alabama A&M,8,1,0.0,0.0,0.0
+Albany,2,2,0.0,0.0,0.0
+Amherst College,1,1,0.0,0.0,0.0
+Appalachian State,14,11,0.0,0.0,0.0
+Arizona,71,34,25000.0,25000.0,25000.0
+Arizona State,70,45,25000.0,25000.0,25000.0
+Arkansas,167,91,10000.0,10000.0,10000.0
+Arkansas State,8,6,1500.0,1500.0,1500.0
+Arkansas-Pine Bluff,1,1,0.0,0.0,0.0
+Army,1,1,0.0,0.0,0.0
+Ashland University,1,1,0.0,0.0,0.0
+Auburn,96,35,25000.0,25000.0,25000.0
+Austin Peay,17,10,0.0,0.0,0.0
+BYU,74,37,0.0,0.0,0.0
+Ball State,9,6,0.0,0.0,0.0
+Baylor,41,24,0.0,0.0,0.0
+Belmont University,2,1,0.0,0.0,0.0
+Bethune-Cookman,3,1,0.0,0.0,0.0
+Boise State,32,16,25000.0,25000.0,25000.0
+Boston College,25,14,0.0,0.0,0.0
+Bowling Green,8,5,0.0,0.0,0.0
+Bradley,9,5,0.0,0.0,0.0
+Brown,2,2,0.0,0.0,0.0
+Bryant University,7,3,0.0,0.0,0.0
+Bucknell,1,1,0.0,0.0,0.0
+Buffalo,11,6,0.0,0.0,0.0
+Butler,7,4,0.0,0.0,0.0
+Cal Lutheran University,1,1,0.0,0.0,0.0
+Cal Poly,2,2,0.0,0.0,0.0
+California,42,21,0.0,0.0,0.0
+California Baptist University,1,1,0.0,0.0,0.0
+California State University-Fullerton,1,1,0.0,0.0,0.0
+"California, Pa.",1,1,0.0,0.0,0.0
+Campbell,2,2,0.0,0.0,0.0
+Carson Newman College,1,1,0.0,0.0,0.0
+Central Michigan,6,2,0.0,0.0,0.0
+Central Oklahoma,10,1,0.0,0.0,0.0
+Centre College,1,1,0.0,0.0,0.0
+Charlotte,21,8,0.0,0.0,0.0
+Chattanooga,1,1,0.0,0.0,0.0
+Cincinnati,41,27,0.0,0.0,0.0
+Clemson,87,35,0.0,0.0,0.0
+Coastal Carolina,8,6,0.0,0.0,0.0
+Colgate,4,1,0.0,0.0,0.0
+College of Charleston,1,1,0.0,0.0,0.0
+Colorado,71,45,0.0,0.0,0.0
+Colorado State,34,24,0.0,0.0,0.0
+Concordia University Nebraska,1,1,0.0,0.0,0.0
+Connecticut,110,36,0.0,0.0,0.0
+Cornell,2,2,0.0,0.0,0.0
+Creighton,35,23,0.0,0.0,0.0
+Davidson,1,1,0.0,0.0,0.0
+Dayton,28,14,0.0,0.0,0.0
+DePaul,7,4,0.0,0.0,0.0
+Delaware,11,8,0.0,0.0,0.0
+Drake,2,2,0.0,0.0,0.0
+Drexel,2,1,0.0,0.0,0.0
+Duke,54,22,0.0,0.0,0.0
+Duquesne,10,8,0.0,0.0,0.0
+East Carolina,29,23,0.0,0.0,0.0
+East Tennessee State,19,4,0.0,0.0,0.0
+East Texas A&M Commerce,1,1,0.0,0.0,0.0
+Eastern Illinois,3,2,0.0,0.0,0.0
+Eastern Michigan,9,7,0.0,0.0,0.0
+Eastern Washington,2,1,0.0,0.0,0.0
+Evansville,2,1,0.0,0.0,0.0
+FIU,15,13,80.0,80.0,80.0
+Fairfield University,1,1,0.0,0.0,0.0
+Florida,402,115,0.0,0.0,0.0
+Florida A&M,10,5,0.0,0.0,0.0
+Florida Atlantic,19,16,0.0,0.0,0.0
+Florida Gulf Coast University,4,2,0.0,0.0,0.0
+Florida State,161,76,0.0,0.0,0.0
+Fordham,8,4,0.0,0.0,0.0
+Fort Valley State,1,1,0.0,0.0,0.0
+Fresno State,5,5,0.0,0.0,0.0
+Furman,3,2,0.0,0.0,0.0
+Garden City Community College,1,1,0.0,0.0,0.0
+Gardner-Webb,2,1,0.0,0.0,0.0
+George Mason,13,11,0.0,0.0,0.0
+George Washington University,1,1,0.0,0.0,0.0
+Georgetown,14,9,0.0,0.0,0.0
+Georgia,104,64,0.0,0.0,0.0
+Georgia Southern,25,14,0.0,0.0,0.0
+Georgia State,9,5,0.0,0.0,0.0
+Georgia Tech,35,25,0.0,0.0,0.0
+Gonzaga University,23,13,0.0,0.0,0.0
+Grambling State,1,1,0.0,0.0,0.0
+Grand Canyon University,11,7,0.0,0.0,0.0
+Hampton,3,2,0.0,0.0,0.0
+Harvard,3,3,0.0,0.0,0.0
+Hawaii,13,9,0.0,0.0,0.0
+High Point,3,2,0.0,0.0,0.0
+Hofstra,3,2,0.0,0.0,0.0
+Holy Cross,2,1,0.0,0.0,0.0
+Houston,132,66,42000.0,2333.3333333333335,1000.0
+Houston Christian,1,1,0.0,0.0,0.0
+Howard,5,5,0.0,0.0,0.0
+Illinois,73,36,0.0,0.0,0.0
+Illinois State,3,3,0.0,0.0,0.0
+Illinois-Chicago,2,1,0.0,0.0,0.0
+Incarnate Word,2,2,0.0,0.0,0.0
+Indiana,132,56,25000.0,25000.0,25000.0
+Indiana State,4,4,0.0,0.0,0.0
+Indiana University - Indianapolis,1,1,0.0,0.0,0.0
+Iowa,86,36,0.0,0.0,0.0
+Iowa State,132,51,0.0,0.0,0.0
+Jackson State,13,10,0.0,0.0,0.0
+Jacksonville State,7,6,0.0,0.0,0.0
+James Madison,6,4,0.0,0.0,0.0
+Kansas,99,35,0.0,0.0,0.0
+Kansas State,170,64,25000.0,25000.0,25000.0
+Kennesaw State,1,1,0.0,0.0,0.0
+Kent State,3,3,0.0,0.0,0.0
+Kentucky,100,44,0.0,0.0,0.0
+LSU,230,71,0.0,0.0,0.0
+Lake Erie College,1,1,0.0,0.0,0.0
+Le Moyne College,1,1,0.0,0.0,0.0
+Lehigh,1,1,0.0,0.0,0.0
+Liberty,17,10,0.0,0.0,0.0
+Louisiana,12,7,0.0,0.0,0.0
+Louisiana Tech,2,2,0.0,0.0,0.0
+Louisiana-Monroe,4,3,0.0,0.0,0.0
+Louisville,102,29,50000.0,50000.0,50000.0
+Loyola (Chi),7,4,0.0,0.0,0.0
+Loyola Marymount,2,1,0.0,0.0,0.0
+Maine,4,4,0.0,0.0,0.0
+Marquette,2,2,0.0,0.0,0.0
+Marshall,18,11,0.0,0.0,0.0
+Maryland,69,46,0.0,0.0,0.0
+Massachusetts,5,5,0.0,0.0,0.0
+McNeese State,3,3,0.0,0.0,0.0
+Memphis,124,61,0.0,0.0,0.0
+Mercer,2,1,0.0,0.0,0.0
+Mercyhurst College,1,1,0.0,0.0,0.0
+Miami,134,67,0.0,0.0,0.0
+Miami (OH),7,3,0.0,0.0,0.0
+Michigan,103,52,0.0,0.0,0.0
+Michigan State,58,37,25000.0,25000.0,25000.0
+Middle Tennessee State,5,5,0.0,0.0,0.0
+Minnesota,96,51,0.0,0.0,0.0
+Mississippi State,62,40,25000.0,25000.0,25000.0
+Mississippi Valley State,1,1,0.0,0.0,0.0
+Missouri,79,47,0.0,0.0,0.0
+Missouri-Kansas City,1,1,0.0,0.0,0.0
+Monmouth,1,1,0.0,0.0,0.0
+Montana,10,8,0.0,0.0,0.0
+Montana State,25,20,0.0,0.0,0.0
+Morgan State,2,2,0.0,0.0,0.0
+Murray State,2,2,0.0,0.0,0.0
+NC State,136,64,25000.0,25000.0,25000.0
+Navy,2,1,0.0,0.0,0.0
+Nebraska,168,65,0.0,0.0,0.0
+Nevada,10,10,50000.0,25000.0,25000.0
+New Hampshire,5,2,0.0,0.0,0.0
+New Haven,2,1,0.0,0.0,0.0
+New Mexico,21,16,25000.0,25000.0,25000.0
+New Mexico State,2,1,0.0,0.0,0.0
+Nicholls State,2,1,0.0,0.0,0.0
+Norfolk State,2,2,0.0,0.0,0.0
+North Alabama,1,1,0.0,0.0,0.0
+North Carolina,96,45,0.0,0.0,0.0
+North Carolina A&T,1,1,0.0,0.0,0.0
+North Dakota,2,2,0.0,0.0,0.0
+North Dakota State,5,5,25000.0,25000.0,25000.0
+North Florida,5,1,0.0,0.0,0.0
+North Texas,14,11,50000.0,25000.0,25000.0
+Northern Arizona,5,5,0.0,0.0,0.0
+Northern Illinois,2,2,0.0,0.0,0.0
+Northern Iowa,4,3,0.0,0.0,0.0
+Northwestern,34,23,25000.0,25000.0,25000.0
+Notre Dame,51,35,0.0,0.0,0.0
+Oakland,8,2,0.0,0.0,0.0
+Ohio,4,3,0.0,0.0,0.0
+Ohio State,201,82,0.0,0.0,0.0
+Oklahoma,237,98,800000.0,800000.0,800000.0
+Oklahoma State,78,42,0.0,0.0,0.0
+Old Dominion,6,5,0.0,0.0,0.0
+Ole Miss,107,69,0.0,0.0,0.0
+Oral Roberts,1,1,0.0,0.0,0.0
+Oregon,109,45,0.0,0.0,0.0
+Oregon State,78,38,0.0,0.0,0.0
+Penn State,183,74,0.0,0.0,0.0
+Pepperdine,9,8,0.0,0.0,0.0
+Pittsburgh,78,45,1500.0,1500.0,1500.0
+Point Park University,1,1,0.0,0.0,0.0
+Portland,1,1,0.0,0.0,0.0
+Princeton,11,4,0.0,0.0,0.0
+Providence,12,8,0.0,0.0,0.0
+Puget Sound,6,1,0.0,0.0,0.0
+Purdue,53,35,0.0,0.0,0.0
+Quinnipiac,1,1,0.0,0.0,0.0
+Radford,1,1,0.0,0.0,0.0
+Rhode Island,5,4,0.0,0.0,0.0
+Rice,22,11,25000.0,25000.0,25000.0
+Richmond,7,1,0.0,0.0,0.0
+Robert Morris,1,1,0.0,0.0,0.0
+Rutgers,25,19,0.0,0.0,0.0
+SMU,136,49,189000.0,37800.0,36000.0
+Sacramento State,30,7,0.0,0.0,0.0
+Saint Joseph's University,7,6,0.0,0.0,0.0
+Saint Louis,11,5,0.0,0.0,0.0
+Saint Mary's College of California,1,1,0.0,0.0,0.0
+Sam Houston State,8,5,0.0,0.0,0.0
+Samford,2,2,0.0,0.0,0.0
+San Diego,1,1,0.0,0.0,0.0
+San Diego State,39,25,0.0,0.0,0.0
+San Jose State,5,5,0.0,0.0,0.0
+Santa Clara University,10,5,0.0,0.0,0.0
+Savannah State,3,1,0.0,0.0,0.0
+Seattle University,1,1,0.0,0.0,0.0
+Seton Hall,7,4,5000.0,5000.0,5000.0
+Shenandoah University,2,1,0.0,0.0,0.0
+Siena,1,1,0.0,0.0,0.0
+South Alabama,12,11,0.0,0.0,0.0
+South Carolina,158,67,0.0,0.0,0.0
+South Dakota,2,2,0.0,0.0,0.0
+South Dakota State,3,3,0.0,0.0,0.0
+Southeastern Louisiana,4,4,0.0,0.0,0.0
+Southern Connecticut State,3,1,0.0,0.0,0.0
+Southern Illinois,2,2,0.0,0.0,0.0
+Southern Miss,9,7,2500.0,2500.0,2500.0
+Southern University,1,1,0.0,0.0,0.0
+Southwest Minnesota State,1,1,0.0,0.0,0.0
+St. Bonaventure University,4,4,0.0,0.0,0.0
+St. John Fisher,5,1,0.0,0.0,0.0
+St. John's,36,11,0.0,0.0,0.0
+St. Thomas,1,1,0.0,0.0,0.0
+Stanford,179,90,0.0,0.0,0.0
+Stephen F. Austin,1,1,0.0,0.0,0.0
+Stetson,2,2,0.0,0.0,0.0
+Stony Brook,1,1,0.0,0.0,0.0
+Syracuse,68,39,0.0,0.0,0.0
+TCU,78,40,0.0,0.0,0.0
+Temple,30,17,0.0,0.0,0.0
+Tennessee,176,75,0.0,0.0,0.0
+Tennessee State,3,3,0.0,0.0,0.0
+Texas,265,90,55000.0,5000.0,5000.0
+Texas A&M,153,83,0.0,0.0,0.0
+Texas Southern,2,2,0.0,0.0,0.0
+Texas State,16,13,0.0,0.0,0.0
+Texas Tech,133,77,900000.0,25000.0,25000.0
+The University of Texas Rio Grande Valley,1,1,0.0,0.0,0.0
+The University of Texas at Arlington,3,1,0.0,0.0,0.0
+Toledo,38,20,0.0,0.0,0.0
+Towson,3,1,0.0,0.0,0.0
+Troy,62,15,0.0,0.0,0.0
+Tulane,24,17,50000.0,25000.0,25000.0
+Tulsa,16,10,0.0,0.0,0.0
+UAB,9,7,0.0,0.0,0.0
+UCF,67,39,25000.0,25000.0,25000.0
+UCLA,225,59,0.0,0.0,0.0
+UNC Greensboro,1,1,0.0,0.0,0.0
+UNLV,42,27,0.0,0.0,0.0
+USC,102,49,0.0,0.0,0.0
+USF,52,28,0.0,0.0,0.0
+UT Martin,4,3,0.0,0.0,0.0
+UTEP,5,4,25000.0,25000.0,25000.0
+UTSA,46,30,50000.0,25000.0,25000.0
+University of California-Santa Barbara,3,2,0.0,0.0,0.0
+University of North Carolina Asheville,1,1,0.0,0.0,0.0
+University of San Francisco,9,7,0.0,0.0,0.0
+University of Texas at Tyler Athletics,1,1,0.0,0.0,0.0
+Utah,133,45,0.0,0.0,0.0
+Utah State,24,21,0.0,0.0,0.0
+VCU,5,3,0.0,0.0,0.0
+Vanderbilt,60,30,25000.0,25000.0,25000.0
+Vermont,4,1,0.0,0.0,0.0
+Villanova,13,10,0.0,0.0,0.0
+Virginia,49,34,25000.0,25000.0,25000.0
+Virginia Tech,94,60,0.0,0.0,0.0
+Wake Forest,19,12,0.0,0.0,0.0
+Washington,105,55,10000.0,10000.0,10000.0
+Washington State,9,6,0.0,0.0,0.0
+Weber State,1,1,0.0,0.0,0.0
+West Florida,1,1,0.0,0.0,0.0
+West Virginia,86,55,0.0,0.0,0.0
+Western Carolina,7,5,0.0,0.0,0.0
+Western Illinois,4,2,0.0,0.0,0.0
+Western Kentucky,23,12,0.0,0.0,0.0
+Western Michigan,17,11,25000.0,25000.0,25000.0
+Wichita State,40,17,0.0,0.0,0.0
+William & Mary,2,2,0.0,0.0,0.0
+Winthrop,1,1,0.0,0.0,0.0
+Wisconsin,51,30,0.0,0.0,0.0
+Wisconsin-Green Bay,1,1,0.0,0.0,0.0
+Wisconsin-Milwaukee,1,1,0.0,0.0,0.0
+Wyoming,14,8,0.0,0.0,0.0
+Xavier,5,5,0.0,0.0,0.0
+Yale,6,4,0.0,0.0,0.0
+Youngstown State,12,10,0.0,0.0,0.0
+nan,4834,1704,4657500.0,113597.56097560975,25000.0

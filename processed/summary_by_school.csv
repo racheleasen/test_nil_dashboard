@@ -1,0 +1,296 @@
+team_committed,n_deals,n_unique_players,avg_rating,median_rating,avg_stars,median_stars,median_national_rank,top_brand
+nan,4834,1704,93.94907033144705,95.0,4.139046079223929,4.0,38.0,EA Sports
+Florida,402,115,92.17368421052632,92.5,3.8210526315789473,4.0,67.0,Education Foundation
+Texas,265,90,94.0752688172043,95.0,4.043010752688172,4.0,59.5,Nyle Maxwell Family of Dealerships
+Oklahoma,237,98,91.5,92.0,3.7333333333333334,4.0,80.0,Fore the Players Golf Classic
+LSU,230,71,93.65714285714286,95.0,4.0285714285714285,4.0,89.0,Gordon McKernan Injury Attorneys
+UCLA,225,59,92.25,91.0,3.825,4.0,49.0,Sprouts Farmers Market
+Ohio State,201,82,94.359375,94.0,4.15625,4.0,66.0,Pursuit
+Penn State,183,74,94.04807692307692,94.0,4.173076923076923,4.0,74.0,Yerbaé
+Stanford,179,90,88.140625,87.0,3.234375,3.0,231.0,PARCA
+Tennessee,176,75,92.27586206896552,92.5,3.8275862068965516,4.0,74.0,The Players' Lounge
+Kansas State,170,64,90.06818181818181,92.0,3.7045454545454546,4.0,208.0,Booth Creek Wagyu
+Nebraska,168,65,90.86206896551724,91.0,3.5517241379310347,4.0,71.0,Pipeline Jerky
+Arkansas,167,91,92.0625,91.0,3.78125,4.0,33.0,Conagra Brands
+Florida State,161,76,90.6923076923077,90.0,3.6153846153846154,4.0,150.0,Garnet & Gold
+South Carolina,158,67,95.10810810810811,95.0,4.297297297297297,4.0,95.0,HEYDUDE Shoes
+Texas A&M,153,83,92.1,91.0,3.7714285714285714,4.0,53.0,HEYDUDE Shoes
+SMU,136,49,89.78947368421052,90.0,3.5789473684210527,4.0,144.0,Life Wallet
+NC State,136,64,91.79411764705883,92.0,3.676470588235294,4.0,52.0,The V Foundation
+Miami,134,67,92.23809523809524,93.0,3.761904761904762,4.0,52.0,Miami Team Store
+Texas Tech,133,77,89.57142857142857,88.0,3.4571428571428573,3.0,118.5,adidas
+Utah,133,45,91.14814814814815,91.0,3.6296296296296298,4.0,71.0,Red Rock Pharmacy
+Iowa State,132,51,87.51162790697674,88.0,3.0930232558139537,3.0,293.0,North Ankeny HyVee
+Indiana,132,56,90.875,92.5,3.875,4.0,201.0,In For Indiana
+Houston,132,66,91.22222222222223,89.0,3.4444444444444446,3.0,75.0,My Eyelab
+Memphis,124,61,91.63414634146342,90.0,3.731707317073171,4.0,80.5,The Peabody Memphis
+Alabama,120,39,96.23214285714286,97.5,4.446428571428571,4.5,31.0,EA Sports
+Connecticut,110,36,94.22222222222223,95.5,3.888888888888889,4.0,50.5,Bleeding Blue For Good Blood Drive
+Oregon,109,45,95.86666666666666,97.0,4.366666666666666,4.0,19.0,Nike
+Ole Miss,107,69,91.16666666666667,91.0,3.6666666666666665,4.0,102.5,Oxford Orthopaedics
+Washington,105,55,87.82758620689656,87.0,3.1724137931034484,3.0,68.0,World of Warcraft
+Georgia,104,64,93.70769230769231,94.0,4.076923076923077,4.0,98.0,Top Tier Authentics
+Michigan,103,52,92.3076923076923,91.0,3.8076923076923075,4.0,39.0,Michigan Football Signing Event
+USC,102,49,91.14285714285714,91.0,3.7142857142857144,4.0,94.0,Nike
+Louisville,102,29,90.71428571428571,91.0,3.857142857142857,4.0,14.0,adidas
+Kentucky,100,44,91.11111111111111,90.0,3.611111111111111,4.0,63.0,Morgan & Morgan
+Kansas,99,35,93.71428571428571,93.0,4.0,4.0,80.0,BeONESports
+Minnesota,96,51,90.3103448275862,91.0,3.689655172413793,4.0,158.5,Folly Coffee
+Auburn,96,35,91.5,91.0,3.933333333333333,4.0,6.0,ONIT Athelte
+North Carolina,96,45,90.13636363636364,88.5,3.590909090909091,3.0,173.0,PORCH Chapel Hill-Carrboro
+Virginia Tech,94,60,91.14285714285714,90.0,3.619047619047619,4.0,89.0,Special Olympics Virginia
+Clemson,87,35,93.56410256410257,95.0,3.8461538461538463,4.0,75.0,ONIT Athelte
+West Virginia,86,55,86.58823529411765,87.0,3.1176470588235294,3.0,97.0,Diversified Energy
+Iowa,86,36,90.13636363636364,89.0,3.409090909090909,3.0,127.0,Riverside Casino & Golf Resort
+Missouri,79,47,90.62162162162163,90.0,3.7027027027027026,4.0,174.0,Every True Tiger Brands
+Oregon State,78,38,88.56,87.0,3.28,3.0,76.0,Bench Bash
+Oklahoma State,78,42,88.3076923076923,88.0,3.3846153846153846,3.0,247.0,ONIT Athelte
+Pittsburgh,78,45,89.46153846153847,87.5,3.423076923076923,3.0,168.0,Dunkin'
+TCU,78,40,89.91666666666667,91.0,3.6666666666666665,4.0,118.0,Basepath
+BYU,74,37,88.77142857142857,89.0,3.5142857142857142,3.0,89.0,Defense Drinks
+Illinois,73,36,90.95,90.0,3.9,4.0,35.0,Eastern Illinois Foodbank
+Colorado,71,45,92.07142857142857,94.0,3.857142857142857,4.0,115.0,Taco Bell
+Arizona,71,34,87.83333333333333,87.0,3.3333333333333335,3.0,31.0,University of Arizona Campus Store
+Arizona State,70,45,88.48,88.0,3.4,3.0,235.0,Falcon Wealth Planning
+Maryland,69,46,90.66666666666667,91.5,3.5555555555555554,4.0,141.0,Hally Hair
+Syracuse,68,39,93.05405405405405,96.0,3.891891891891892,4.0,29.0,Apex Entertainment
+UCF,67,39,92.42307692307692,93.0,3.769230769230769,4.0,102.5,B-Unlimited
+Troy,62,15,86.0,87.0,3.111111111111111,3.0,83.0,Jones Medical Supply
+Mississippi State,62,40,91.26666666666667,90.0,3.7333333333333334,4.0,116.0,Columbus Orthopaedic Clinic
+Vanderbilt,60,30,92.14285714285714,94.5,3.9285714285714284,4.0,58.0,VerifiedInk
+Michigan State,58,37,91.66666666666667,93.5,3.6666666666666665,4.0,66.0,Michigan State University FCU
+Duke,54,22,94.5,96.5,4.0,4.0,20.0,Barstool Sports
+Purdue,53,35,89.84,90.0,3.56,4.0,88.0,Versiti Blood Center of Indiana
+USF,52,28,87.9,87.0,3.35,3.0,19.0,Bolay Kitchen
+Notre Dame,51,35,92.5,92.0,3.9375,4.0,83.5,Chicago White Sox
+Wisconsin,51,30,88.375,87.5,3.375,3.0,141.5,UScellular
+Virginia,49,34,90.57142857142857,92.0,3.5714285714285716,4.0,90.5,Yellow Door Foundation
+UTSA,46,30,87.5,87.0,3.375,3.0,89.0,CHRISTUS Children's Hospital
+UNLV,42,27,89.86666666666666,90.0,3.6,4.0,49.0,EA Sports
+California,42,21,93.35714285714286,93.5,4.0,4.0,141.0,Apex Entertainment
+Cincinnati,41,27,89.625,91.0,3.625,4.0,88.0,Brew and Ball
+Baylor,41,24,93.0,93.5,3.875,4.0,38.0,Hally
+Wichita State,40,17,,,,,,College Sports Evaluation
+San Diego State,39,25,86.81818181818181,87.0,3.1818181818181817,3.0,235.5,DB Academy
+Toledo,38,20,88.71428571428571,91.0,3.7142857142857144,4.0,262.0,Buck Brother LLC
+St. John's,36,11,96.65384615384616,97.0,4.423076923076923,4.0,29.0,adidas
+Georgia Tech,35,25,90.0909090909091,88.0,3.4545454545454546,3.0,62.0,Barstool Sports
+Creighton,35,23,89.66666666666667,87.0,3.3333333333333335,3.0,54.0,Little King Deli & Subs
+Northwestern,34,23,89.3,89.0,3.4,3.0,94.0,ONIT Athelte
+Colorado State,34,24,,,,,,Alliance for Suicide Prevention of Larimer County
+Boise State,32,16,89.8,88.0,3.4,3.0,79.0,Jacksons Food Stores
+Sacramento State,30,7,93.92307692307692,93.0,4.0,4.0,177.0,boohooMAN
+Temple,30,17,89.625,89.0,3.25,3.0,136.0,Meelzie's Basketball Clinic
+East Carolina,29,23,86.85714285714286,86.0,3.4285714285714284,3.0,223.0,EA Sports
+Dayton,28,14,86.66666666666667,87.0,3.0,3.0,,H&R Block
+Montana State,25,20,,,,,,The NIL Shop
+Georgia Southern,25,14,84.42857142857143,83.0,3.0,3.0,,ONIT Athelte
+Boston College,25,14,88.0,87.0,3.2222222222222223,3.0,123.0,Marion County Commission on Youth
+Rutgers,25,19,90.66666666666667,91.0,3.5555555555555554,4.0,115.0,EA Sports
+Tulane,24,17,91.0909090909091,94.0,3.6363636363636362,4.0,71.0,Campus Connection
+Utah State,24,21,85.0,84.0,3.0,3.0,,The Family Place
+Western Kentucky,23,12,86.5,86.5,3.0,3.0,,Stanley
+Gonzaga University,23,13,95.125,96.0,3.875,4.0,39.0,Community Cancer Fund
+Rice,22,11,,,,,,YMCA of Metro Dallas
+Charlotte,21,8,86.0,86.0,3.0,3.0,,University Club of Virginia Tech
+New Mexico,21,16,86.0,86.0,3.5,3.5,85.0,HOKA
+Wake Forest,19,12,89.83333333333333,86.5,3.6666666666666665,3.0,10.0,ONIT Athelte
+Florida Atlantic,19,16,91.5,94.0,3.6,4.0,61.0,Celsius
+East Tennessee State,19,4,,,,,,Weigel's Stores
+Marshall,18,11,86.0,86.0,3.0,3.0,,CeraVe Skincare
+Liberty,17,10,86.83333333333333,86.0,3.1666666666666665,3.0,197.5,Food4Kids Florida
+Austin Peay,17,10,85.22222222222223,83.0,3.2222222222222223,3.0,165.0,Credit Bureau Systems
+Western Michigan,17,11,93.5,93.0,4.0,4.0,153.0,Ziebart USA
+Tulsa,16,10,90.22222222222223,91.0,3.5555555555555554,4.0,109.0,VerifiedInk
+Texas State,16,13,83.5,83.5,3.0,3.0,,Hangry Joe's
+FIU,15,13,86.25,86.5,3.0,3.0,,Charitable Gift America
+Wyoming,14,8,85.5,85.5,3.0,3.0,179.0,Boys & Girls Clubs Central Wyoming
+Appalachian State,14,11,87.71428571428571,88.0,3.142857142857143,3.0,148.0,North Ankeny HyVee
+Georgetown,14,9,95.0,94.0,4.0,4.0,79.0,Lacrosse Unlimited
+North Texas,14,11,86.0,86.0,3.0,3.0,,sweetgreen
+Hawaii,13,9,,,,,,HawaiiUSA Federal Credit 
+Villanova,13,10,87.25,87.5,3.0,3.0,,Zion Stanford Basketball Camp
+George Mason,13,11,86.0,86.0,3.0,3.0,,Jim McKay Chevrolet
+Jackson State,13,10,89.0,89.0,3.0,3.0,25.0,Jersey Wave
+Providence,12,8,89.0,89.0,3.0,3.0,140.0,LaSalle Bakery
+South Alabama,12,11,86.8,87.0,3.0,3.0,,VerifiedInk
+Youngstown State,12,10,91.0,91.0,4.0,4.0,,WWE
+Louisiana,12,7,93.66666666666667,96.0,3.7777777777777777,4.0,84.0,Poppa Earle's
+Delaware,11,8,86.0,86.0,3.0,3.0,,VerifiedInk
+Buffalo,11,6,88.0,88.0,3.0,3.0,,Trainwreck Sports
+Princeton,11,4,,,,,,Leaf Trading Cards
+Saint Louis,11,5,89.5,89.5,3.5,3.5,100.0,Chicago White Sox
+Grand Canyon University,11,7,96.0,96.0,4.0,4.0,49.0,F45 Training
+Central Oklahoma,10,1,,,,,,Dunkin'
+Nevada,10,10,93.0,93.0,4.0,4.0,164.0,Take a Hike Foundation
+Duquesne,10,8,,,,,,VKTRY Gear
+Santa Clara University,10,5,,,,,,VerifiedInk
+Akron,10,8,88.0,89.0,3.1666666666666665,3.0,,Ohio Suicide Prevention Foundation
+Montana,10,8,90.0,90.0,4.0,4.0,105.0,Montana Together
+Florida A&M,10,5,90.0,90.0,4.0,4.0,,Patrick Youth Development Foundation
+Ball State,9,6,,,,,,St. Jude Research Hospital
+Eastern Michigan,9,7,,,,,,CeraVe Skincare
+Georgia State,9,5,90.75,90.0,3.5,3.5,120.0,Bolay Kitchen
+Bradley,9,5,,,,,,Salvation Army
+Washington State,9,6,85.0,85.0,3.0,3.0,,ONIT Athelte
+University of San Francisco,9,7,,,,,,Palmetto Super Foods
+UAB,9,7,89.83333333333333,91.5,3.6666666666666665,4.0,188.0,Iowa 80 Truckstop
+Pepperdine,9,8,,,,,,PUMA
+Southern Miss,9,7,,,,,,Cameo
+Bowling Green,8,5,86.5,87.0,3.0,3.0,84.0,Food4Kids Florida
+Oakland,8,2,,,,,,SANA
+Sam Houston State,8,5,90.0,90.0,4.0,4.0,,Freddy's
+Fordham,8,4,87.0,87.0,3.0,3.0,,Candlelighters Childhood Cancer Foundation of Neva
+Coastal Carolina,8,6,88.0,87.5,3.25,3.0,,Community Food Share
+Arkansas State,8,6,91.0,91.0,4.0,4.0,,Basepath
+Alabama A&M,8,1,,,,,,Dexcom U
+Western Carolina,7,5,84.33333333333333,86.0,3.0,3.0,,VerifiedInk
+Richmond,7,1,,,,,,Poppi
+Saint Joseph's University,7,6,85.0,85.0,3.0,3.0,,Main Line Float and Freeze
+Seton Hall,7,4,89.0,89.0,3.0,3.0,,Crossover Culture
+Abilene Christian,7,3,89.0,89.0,3.0,3.0,121.0,Wilson Cadillac
+Jacksonville State,7,6,91.25,91.5,3.75,4.0,138.5,Special Olympics Virginia
+Butler,7,4,,,,,,A Kid Again
+Loyola (Chi),7,4,89.0,89.0,3.0,3.0,134.0,7th Avenue Pizza
+Miami (OH),7,3,91.0,93.0,3.75,4.0,181.0,Stanford Children's Hospital
+Bryant University,7,3,92.0,92.0,4.0,4.0,86.0,Daps
+DePaul,7,4,88.5,88.5,3.0,3.0,127.0,Warriors 4 Peace
+James Madison,6,4,,,,,,The Defensive Line
+Old Dominion,6,5,84.0,84.0,3.0,3.0,61.0,CeraVe Skincare
+Puget Sound,6,1,,,,,,Youth on Course
+Yale,6,4,87.0,87.0,3.0,3.0,,Palmetto Cards
+Central Michigan,6,2,85.0,85.0,3.0,3.0,,WWE
+North Florida,5,1,,,,,,Nerf
+Massachusetts,5,5,,,,,,Athlete's Thread
+San Jose State,5,5,87.0,87.0,3.0,3.0,,Youth on Course
+Northern Arizona,5,5,,,,,,HOKA
+VCU,5,3,,,,,,Planet Fitness
+St. John Fisher,5,1,,,,,,Leaf Trading Cards
+Fresno State,5,5,88.0,88.0,3.0,3.0,,Central California Blood Center
+Howard,5,5,91.0,91.0,4.0,4.0,102.0,Target
+North Dakota State,5,5,87.5,87.5,3.5,3.5,,OK Tire Store
+Xavier,5,5,,,,,,VI Coffee Bar
+Rhode Island,5,4,,,,,,South County YMCA
+New Hampshire,5,2,85.0,85.0,3.0,3.0,,Dunkin'
+Middle Tennessee State,5,5,88.0,88.0,3.0,3.0,,Defiance Fuel
+UTEP,5,4,95.0,98.0,4.333333333333333,5.0,30.0,Boys & Girls Clubs of Bloomington
+Western Illinois,4,2,,,,,,Tronus
+Southeastern Louisiana,4,4,,,,,,Gordon McKernan Injury Attorneys
+Vermont,4,1,,,,,,It's Love Kelly
+Indiana State,4,4,,,,,,
+St. Bonaventure University,4,4,88.0,88.0,3.0,3.0,,
+Colgate,4,1,,,,,,Topricin
+Louisiana-Monroe,4,3,84.0,84.0,3.0,3.0,,Yelloh
+Northern Iowa,4,3,93.0,93.0,4.0,4.0,75.0,The CavFutures Show
+UT Martin,4,3,,,,,,adidas
+Ohio,4,3,80.0,80.0,3.0,3.0,,Folly Coffee
+Florida Gulf Coast University,4,2,,,,,,Mondelez
+Maine,4,4,,,,,,UScellular
+Hampton,3,2,85.0,85.0,3.0,3.0,,Quashie Family Dental
+Savannah State,3,1,,,,,,Life+STYLE by Laura
+Harvard,3,3,90.0,90.0,4.0,4.0,121.0,Nike
+Furman,3,2,86.0,86.0,3.0,3.0,,Boys Town USA
+South Dakota State,3,3,,,,,,
+Tennessee State,3,3,85.0,85.0,3.0,3.0,,D1 - West Nashville
+Eastern Illinois,3,2,,,,,,HawaiiUSA Federal Credit 
+High Point,3,2,,,,,,Urban Outfitters
+University of California-Santa Barbara,3,2,89.0,89.0,3.0,3.0,123.0,Tommy Fund
+The University of Texas at Arlington,3,1,,,,,,Morgan & Morgan
+Towson,3,1,86.0,86.0,3.0,3.0,,North Central Florida YMCA
+Illinois State,3,3,87.0,87.0,3.0,3.0,,Stride Sports
+Hofstra,3,2,86.0,86.0,3.0,3.0,,JLab
+Southern Connecticut State,3,1,,,,,,Leaf Trading Cards
+McNeese State,3,3,92.0,92.0,3.5,3.5,58.0,
+Bethune-Cookman,3,1,,,,,,Reebok
+Kent State,3,3,86.0,86.0,3.5,3.5,,Barstool Sports
+Illinois-Chicago,2,1,,,,,,Chicago White Sox
+Brown,2,2,,,,,,My Wife Didn't Cook
+Southern Illinois,2,2,,,,,,MiniJerzeys
+Gardner-Webb,2,1,95.0,95.0,4.0,4.0,51.0,Top Tier Authentics
+Nicholls State,2,1,88.0,88.0,3.0,3.0,,
+Norfolk State,2,2,90.0,90.0,3.5,3.5,279.0,
+Louisiana Tech,2,2,,,,,,Life Wallet
+Loyola Marymount,2,1,90.0,90.0,4.0,4.0,120.0,VerifiedInk
+Marquette,2,2,,,,,,Marquette NIL Store
+Drexel,2,1,,,,,,Nourished
+Northern Illinois,2,2,90.0,90.0,4.0,4.0,115.0,Barstool Sports
+Stetson,2,2,,,,,,Advanced Emurgent Care
+Campbell,2,2,,,,,,Pizza Provisions
+Mercer,2,1,,,,,,The Well Athlete
+North Dakota,2,2,86.0,86.0,3.0,3.0,,ONIT Athelte
+Texas Southern,2,2,,,,,,Take One Sportswear
+Morgan State,2,2,,,,,,Harbor Bank
+New Mexico State,2,1,,,,,,
+Evansville,2,1,84.0,84.0,3.0,3.0,,Ronald McDonald House
+Cornell,2,2,,,,,,Nike
+Holy Cross,2,1,,,,,,Leaf Trading Cards
+Murray State,2,2,93.0,93.0,4.0,4.0,73.0,The Real Estate Game
+Incarnate Word,2,2,89.0,89.0,3.0,3.0,,VerifiedInk
+Samford,2,2,,,,,,Cameo
+Belmont University,2,1,,,,,,NOBULL
+South Dakota,2,2,87.0,87.0,3.0,3.0,,
+Albany,2,2,90.0,90.0,4.0,4.0,14.0,Boosted
+William & Mary,2,2,,,,,,WWE
+Navy,2,1,,,,,,
+Shenandoah University,2,1,,,,,,Under Armour
+New Haven,2,1,91.0,91.0,4.0,4.0,299.0,Red & Black Weekend Golf Tournament
+Drake,2,2,,,,,,Simply Fuel
+Cal Poly,2,2,,,,,,Taqueria Santa Cruz Express
+Eastern Washington,2,1,88.0,88.0,3.0,3.0,,AHA Washington
+University of North Carolina Asheville,1,1,,,,,,Favor Desserts
+Centre College,1,1,,,,,,Besten and Dieruf
+California State University-Fullerton,1,1,,,,,,Sprouts Farmers Market
+Amherst College,1,1,,,,,,
+Carson Newman College,1,1,,,,,,D1 Knoxville
+University of Texas at Tyler Athletics,1,1,,,,,,CeraVe Skincare
+"California, Pa.",1,1,,,,,,
+Wisconsin-Milwaukee,1,1,85.0,85.0,3.0,3.0,,VerifiedInk
+California Baptist University,1,1,,,,,,University Credit Union
+Wisconsin-Green Bay,1,1,,,,,,Riverside Pizzeria
+Arkansas-Pine Bluff,1,1,,,,,,MarketPryce
+Cal Lutheran University,1,1,,,,,,Cameo
+Winthrop,1,1,91.0,91.0,4.0,4.0,91.0,Cancer Support Community South Central Indiana
+Bucknell,1,1,,,,,,Cameo
+Army,1,1,,,,,,Cameo
+Ashland University,1,1,,,,,,Shaklee
+Weber State,1,1,,,,,,The Players  NIL
+Chattanooga,1,1,,,,,,Weigel's Stores
+West Florida,1,1,92.0,92.0,4.0,4.0,242.0,
+Monmouth,1,1,,,,,,WWE
+UNC Greensboro,1,1,,,,,,
+Saint Mary's College of California,1,1,,,,,,
+Robert Morris,1,1,,,,,,Dunkin'
+Radford,1,1,,,,,,Rowdy Redz
+Quinnipiac,1,1,,,,,,Whitney Donut & Sandwich Shop
+Indiana University - Indianapolis,1,1,,,,,,CeraVe Skincare
+Portland,1,1,,,,,,VerifiedInk
+Point Park University,1,1,,,,,,WIFI Managment
+Kennesaw State,1,1,86.0,86.0,3.0,3.0,141.0,Buffalo Wild Wings
+Lake Erie College,1,1,,,,,,Popeyes
+Le Moyne College,1,1,,,,,,
+Lehigh,1,1,,,,,,Boosted Biz
+Oral Roberts,1,1,,,,,,
+North Carolina A&T,1,1,,,,,,
+North Alabama,1,1,88.0,88.0,3.0,3.0,,
+Mercyhurst College,1,1,87.0,87.0,3.0,3.0,,
+Mississippi Valley State,1,1,,,,,,
+Houston Christian,1,1,,,,,,VerifiedInk
+San Diego,1,1,,,,,,
+College of Charleston,1,1,,,,,,Dryworld
+Seattle University,1,1,,,,,,Plantiful Superfoods
+Concordia University Nebraska,1,1,90.0,90.0,4.0,4.0,,
+Davidson,1,1,,,,,,
+The University of Texas Rio Grande Valley,1,1,87.0,87.0,3.0,3.0,,ONIT Athelte
+East Texas A&M Commerce,1,1,,,,,,Taylor Gang Entertainment
+Fairfield University,1,1,,,,,,Boltion
+Fort Valley State,1,1,,,,,,
+Stony Brook,1,1,,,,,,VerifiedInk
+Stephen F. Austin,1,1,87.0,87.0,3.0,3.0,,Reese’s
+St. Thomas,1,1,,,,,,
+Garden City Community College,1,1,85.0,85.0,3.0,3.0,,
+Southwest Minnesota State,1,1,,,,,,Buffalo Wild Wings
+Southern University,1,1,87.0,87.0,3.0,3.0,,ALCollection
+George Washington University,1,1,,,,,,Sprouts Farmers Market
+Grambling State,1,1,,,,,,Buffalo Wild Wings
+Siena,1,1,,,,,,Dunkin'
+Missouri-Kansas City,1,1,,,,,,Clean Energy
