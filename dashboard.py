@@ -95,15 +95,11 @@ filtered_df = filtered_df[
 # ============================================================
 st.header("📌 NIL Market Snapshot")
 
-k1, k2, k3, k4 = st.columns(4)
+k1, k2, k3 = st.columns(3)
 
 k1.metric("Total NIL Deals", f"{len(filtered_df):,}")
 k2.metric("Schools", filtered_df["team_committed"].nunique())
 k3.metric("Athletes", filtered_df["player_key"].nunique())
-k4.metric(
-    "Reported NIL Value",
-    f"${filtered_dedupe['deal_value'].dropna().sum():,.0f}"
-)
 
 # ============================================================
 # TOP SCHOOLS + TIME SERIES
