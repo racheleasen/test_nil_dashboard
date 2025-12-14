@@ -72,7 +72,7 @@ df = df[df["deal_date"].dt.year.between(2022, 2025)]
 df["sport_name"] = df["sport_name"].fillna("Unknown")
 df["player_state"] = df["player_state"].fillna("Unknown")
 
-col1, col2 = st.columns([2, 1])
+col1, space, col2 = st.columns([2,.1, 1])
 
 with col1:
     st.title("NIL Collegiate Dashboard")
