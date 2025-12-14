@@ -29,7 +29,7 @@ df["player_state"] = df["player_state"].fillna("Unknown")
 # PAGE SETUP
 # ============================================================
 st.set_page_config(page_title="NIL Intelligence Dashboard", layout="wide")
-st.title("📊 NIL Intelligence Dashboard — Collegiate Mobile (2022–2025)")
+st.title("📊 NIL Dashboard Test (2022–2025)")
 
 st.write("""
 This dashboard reflects **mature NIL activity from 2022–2025**, filter to exclude partial 2025 data.  
