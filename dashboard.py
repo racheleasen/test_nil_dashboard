@@ -97,15 +97,39 @@ st.header("📌 NIL Market Snapshot")
 
 k1, k2, k3 = st.columns(3)
 
+reported_deals = filtered_df["deal_amount"].notnull().sum()
+total_deals = filtered_df["deal_key"].nunique()
+
+share_reported = reported_deals / total_deals if total_deals > 0 else 0
+
+reported_athletes = (
+    filtered_df.loc[filtered_df["deal_amount"].notnull(), "player_key"]
+    .nunique()
+)
+total_athletes = filtered_df["player_key"].nunique()
+
 k1.metric("Total NIL Deals", f"{len(filtered_df):,}")
 k2.metric("Schools", filtered_df["team_committed"].nunique())
 k3.metric("Athletes", filtered_df["player_key"].nunique())
-k3.metric("Avg. NIL Reported Value", filtered_df["deal_amount"].mean())
+
+k4, k5, k6 = st.columns(3)
+
+k4.metric(
+    "Avg. NIL Reported Value",
+    f"${filtered_df['deal_amount'].mean():,.0f}"
+)
+k5.metric(
+    "Share of Deals with Reported Value",
+    f"{share_reported:.1%}"
+)
+k6.metric(
+    "Athletes w/ Reported NIL Value",
+    f"{reported_athletes / total_athletes:.1%}"
+)
 
 # ============================================================
 # TOP SCHOOLS + TIME SERIES
 # ============================================================
-st.header("🏫 NIL Market Overview")
 
 col1, col2 = st.columns(2)
 
@@ -380,7 +404,7 @@ with col2:
 # ============================================================
 # SCHOOL-LEVEL NIL SUMMARY TABLE (DEDUPED)
 # ============================================================
-st.header("🏫 School-Level NIL Summary (Deduped NIL Values)")
+st.header("🏫 School-Level NIL Summary (only schools with reported values)")
 
 # Only deals with reported NIL values
 school_money = (
