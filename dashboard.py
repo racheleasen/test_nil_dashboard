@@ -35,6 +35,7 @@ st.write("""
 This dashboard reflects **mature NIL activity from 2022–2025**, filter to exclude partial 2025 data.  
 It highlights where NIL deal **volume, value, and influence** concentrate — useful for
 prioritizing marketing and partnership strategy.
+dataset: On3 NIL deals (https://www.on3.com/nil/rankings/player/nil-valuations/)
 """)
 
 # ============================================================
