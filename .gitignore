@@ -3,6 +3,4 @@ __pycache__/
 .venv/
 *.csv
 data/raw/
-data/processed/
 .streamlit/
-processed

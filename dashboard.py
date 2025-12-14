@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-NIL Intelligence Dashboard — Collegiate Mobile
+NIL Dashboard Test
 ------------------------------------------------
 
 Focus:
