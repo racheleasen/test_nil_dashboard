@@ -15,12 +15,7 @@ def modern_vibe():
     return {
         "config": {
             "background": "#0f172a",
-            "title": {
-                "fontSize": 18,
-                "font": "Inter",
-                "anchor": "start",
-                "color": "#f1f5f9"
-            },
+            "title": {"fontSize": 18, "font": "Inter", "anchor": "start", "color": "#f1f5f9"},
             "axis": {
                 "labelFontSize": 12,
                 "labelColor": "#e2e8f0",
@@ -72,16 +67,17 @@ df = df[df["deal_date"].dt.year.between(2022, 2025)]
 df["sport_name"] = df["sport_name"].fillna("Unknown")
 df["player_state"] = df["player_state"].fillna("Unknown")
 
-col1, spacer, col2 = st.columns([2,.1, 1])
+col1, spacer, col2 = st.columns([2, 0.1, 1])
 
 with col1:
     st.title("NIL Collegiate Dashboard")
     st.caption("Analysis of NIL activity and market concentration, 2022–2025")
+
 with col2:
     st.title("Filters")
 
-# Create 2 side-by-side columns
-col1, spacer, col2 = st.columns([2,.1, 1])  # wider intro, narrower takeaways
+# Intro + Key Observations
+col1, spacer, col2 = st.columns([2, 0.1, 1])
 
 with col1:
     st.markdown("""
@@ -93,22 +89,15 @@ with col1:
     """)
 
     st.subheader("Key Observations")
-
     st.markdown("""
-    - NIL deal volume is broadly distributed, but reported value is concentrated among a limited number of institutions.
-    - A small percentage of athletes receive the majority of reported NIL dollars.
+    - NIL deal volume is broadly distributed, but reported value is concentrated among a limited number of institutions.  
+    - A small percentage of athletes receive the majority of reported NIL dollars.  
     - Several sports and schools show high engagement despite modest deal values, suggesting alternative partnership potential.
     """)
 
 with col2:
-    selected_school = st.multiselect(
-        "School",
-        sorted(df["team_committed"].dropna().unique())
-    )
-    selected_sports = st.multiselect(
-        "Sport",
-        sorted(df["sport_name"].dropna().unique())
-    )
+    selected_school = st.multiselect("School", sorted(df["team_committed"].dropna().unique()))
+    selected_sports = st.multiselect("Sport", sorted(df["sport_name"].dropna().unique()))
     year_range = st.slider("Year Range", 2022, 2025, (2022, 2025))
 
 # Apply filters
@@ -129,15 +118,14 @@ filtered_df = filtered_df[
 st.markdown("---")
 
 # --------------------------------------------
-# KPIs
+# KPIs — MARKET OVERVIEW
 # --------------------------------------------
-
-col1, spacer, col2 = st.columns([1, 0.01, 1])  # Adjust ratio as needed
+col1, spacer, col2 = st.columns([1, 0.01, 1])
 
 with col1:
-
     st.title("Market Overview")
-    st.caption("")
+    st.caption("Key indicators summarizing NIL activity volume, school and athlete participation, and deal value disclosures.")
+
     k1, k2 = st.columns(2)
     k3, k4 = st.columns(2)
     k5, k6 = st.columns(2)
@@ -152,166 +140,78 @@ with col1:
     k1.metric("Total Deals", f"{len(filtered_df):,}")
     k2.metric("Schools Represented", filtered_df["team_committed"].nunique())
     k3.metric("Athletes Represented", total_athletes)
-    k4.metric(
-        "Athletes with Disclosed NIL Values",
-        f"{reported_athletes / total_athletes:.1%}" if total_athletes else "0.0%"
-    )
-
+    k4.metric("Athletes with Disclosed NIL Values", f"{reported_athletes / total_athletes:.1%}" if total_athletes else "0.0%")
     k5.metric("Average Disclosed Deal Value", f"${filtered_df['deal_amount'].mean():,.0f}")
     k6.metric("Deals with Disclosed Values", f"{share_reported:.1%}")
 
-# -------------------------
-# TIME SERIES
-# -------------------------
+# --------------------------------------------
+# TIME SERIES — DEALS OVER TIME
+# --------------------------------------------
 filtered_df["deal_month"] = filtered_df["deal_date"].dt.to_period("M").dt.to_timestamp()
+time_series = filtered_df.groupby("deal_month").size().reset_index(name="deals")
 
-time_series = (
-    filtered_df.groupby("deal_month")
-    .size()
-    .reset_index(name="deals")
-)
-
-time_line = (
-    alt.Chart(time_series)
-    .mark_line(point=True, strokeWidth=3, color="#ef4444")
-    .encode(
-        x="deal_month:T",
-        y="deals:Q",
-        tooltip=["deal_month", "deals"]
-    )
-)
-
-time_labels = (
-    alt.Chart(time_series)
-    .mark_text(dy=-8, fontSize=10, color="#374151")
-    .encode(
-        x="deal_month:T",
-        y="deals:Q",
-        text=alt.Text("deals:Q", format=",")
-    )
+time_line = alt.Chart(time_series).mark_line(point=True, strokeWidth=3, color="#ef4444").encode(
+    x="deal_month:T", y="deals:Q", tooltip=["deal_month", "deals"]
 )
 
 with col2:
     st.subheader("NIL Deals Over Time")
-    st.caption("")
-    st.altair_chart((time_line + time_labels).properties(height=350),
-                     use_container_width=True)
+    st.caption("Monthly trend of NIL deal activity across all athletes and institutions from 2022 to 2025.")
+    st.altair_chart(time_line.properties(height=350), use_container_width=True)
 
 st.markdown("---")
 
-# ============================================================
-# TOP SCHOOLS + TIME SERIES
-# ============================================================
+# --------------------------------------------
+# TOP SCHOOLS + TOP BRANDS
+# --------------------------------------------
+col1, spacer, col2 = st.columns([1, 0.1, 1])
 
-col1, spacer, col2 = st.columns([1, 0.1, 1])  # Adjust ratio as needed
-
-# -------------------------
-# TOP SCHOOLS
-# -------------------------
 school_summary = (
     filtered_df.groupby("team_committed")
-    .agg(
-        deals=("deal_key", "count"),
-        athletes=("player_key", "nunique")
-    )
+    .agg(deals=("deal_key", "count"), athletes=("player_key", "nunique"))
     .sort_values("deals", ascending=False)
     .head(10)
     .reset_index()
 )
 
-school_bars = (
-    alt.Chart(school_summary)
-    .mark_bar(color="#2563eb")
-    .encode(
-        x="deals:Q",
-        y=alt.Y("team_committed:N", sort="-x"),
-        tooltip=["team_committed", "deals", "athletes"]
-    )
-)
-
-school_labels = (
-    alt.Chart(school_summary)
-    .mark_text(align="left", dx=4, color="white", fontWeight="bold")
-    .encode(
-        x="deals:Q",
-        y=alt.Y("team_committed:N", sort="-x"),
-        text=alt.Text("deals:Q", format=",")
-    )
+school_bars = alt.Chart(school_summary).mark_bar(color="#2563eb").encode(
+    x="deals:Q",
+    y=alt.Y("team_committed:N", sort="-x"),
+    tooltip=["team_committed", "deals", "athletes"]
 )
 
 with col1:
     st.subheader("Top NIL Schools")
-    st.altair_chart((school_bars + school_labels).properties(height=350),
-                     use_container_width=True)
+    st.caption("The 10 most active schools based on total NIL deal volume, regardless of value.")
+    st.altair_chart(school_bars.properties(height=350), use_container_width=True)
 
-division_df = (
-    filtered_df["sport_name"]
-    .value_counts()
-    .reset_index()
-)
-
-division_df.columns = ["division", "deal_count"]
-total_deals = division_df["deal_count"].sum()
-division_df["share"] = division_df["deal_count"] / total_deals
-
-# ------------------------------------------------------------
-# LEFT: Top Brands by Deal Volume (All Deals)
-# ------------------------------------------------------------
 brand_volume = (
-    filtered_df
-    .groupby("company_name")
+    filtered_df.groupby("company_name")
     .size()
     .reset_index(name="deal_count")
     .sort_values("deal_count", ascending=False)
     .head(10)
 )
 
-brand_volume_bars = (
-    alt.Chart(brand_volume)
-    .mark_bar(color="#6b7280")
-    .encode(
-        x=alt.X("deal_count:Q", title="Number of NIL Deals"),
-        y=alt.Y("company_name:N", sort="-x", title="Brand"),
-        tooltip=[
-            "company_name",
-            alt.Tooltip("deal_count:Q", title="Deals", format=",")
-        ]
-    )
-)
-
-brand_volume_labels = (
-    alt.Chart(brand_volume)
-    .mark_text(
-        align="left",
-        dx=4,
-        color="white",
-        fontWeight="bold"
-    )
-    .encode(
-        x="deal_count:Q",
-        y=alt.Y("company_name:N", sort="-x"),
-        text=alt.Text("deal_count:Q", format=",")
-    )
+brand_bars = alt.Chart(brand_volume).mark_bar(color="#6b7280").encode(
+    x=alt.X("deal_count:Q", title="Number of NIL Deals"),
+    y=alt.Y("company_name:N", sort="-x", title="Brand"),
+    tooltip=["company_name", "deal_count"]
 )
 
 with col2:
     st.subheader("Most Active Brands (Deal Volume)")
-    st.altair_chart(
-        (brand_volume_bars + brand_volume_labels).properties(height=350),
-        use_container_width=True
-    )
+    st.caption("Brands with the highest number of NIL deals signed, highlighting frequent sponsors and activators.")
+    st.altair_chart(brand_bars.properties(height=350), use_container_width=True)
+
 st.markdown("---")
 
-# ============================================================
-# TOP NIL ATHLETES — VOLUME VS VALUE
-# ============================================================
-st.header("NIL Athletes — Volume vs Value")
+# --------------------------------------------
+# TOP ATHLETES — VOLUME VS VALUE
+# --------------------------------------------
 
-col1, spacer, col2 = st.columns([1, 0.1, 1])  # Adjust ratio as needed
+col1, spacer, col2 = st.columns([1, 0.1, 1])
 
-# -------------------------
-# DEAL COUNT
-# -------------------------
 athlete_volume = (
     filtered_df.groupby(["player_key", "player_name"])
     .size()
@@ -320,105 +220,60 @@ athlete_volume = (
     .head(10)
 )
 
-volume_bars = (
-    alt.Chart(athlete_volume)
-    .mark_bar(color="#7c3aed")
-    .encode(
-        x="deal_count:Q",
-        y=alt.Y("player_name:N", sort="-x"),
-        tooltip=["player_name", "deal_count"]
-    )
-)
-
-volume_labels = (
-    alt.Chart(athlete_volume)
-    .mark_text(align="left", dx=4, color="white", fontWeight="bold")
-    .encode(
-        x="deal_count:Q",
-        y=alt.Y("player_name:N", sort="-x"),
-        text=alt.Text("deal_count:Q", format=",")
-    )
+volume_bars = alt.Chart(athlete_volume).mark_bar(color="#7c3aed").encode(
+    x="deal_count:Q",
+    y=alt.Y("player_name:N", sort="-x"),
+    tooltip=["player_name", "deal_count"]
 )
 
 with col1:
     st.subheader("Top 10 NIL Deals (Volume)")
-    st.altair_chart((volume_bars + volume_labels).properties(height=350),
-                     use_container_width=True)
+    st.caption("Athletes with the highest number of reported NIL deals across all categories.")
+    st.altair_chart(volume_bars.properties(height=350), use_container_width=True)
 
-# -------------------------
-# DEAL VALUE (REPORTED)
-# -------------------------
 df_money = filtered_df[filtered_df["deal_amount"].notnull()]
-
 athlete_value = (
     df_money.groupby(["player_key", "player_name"])
-    .agg(
-        total_value=("deal_amount", "mean"), # Fix aggregation method
-        deal_count=("deal_amount", "count"),
-        avg_value=("deal_amount", "mean")
-    )
+    .agg(total_value=("deal_amount", "mean"), deal_count=("deal_amount", "count"), avg_value=("deal_amount", "mean"))
     .reset_index()
     .sort_values("total_value", ascending=False)
     .head(10)
 )
 
-value_bars = (
-    alt.Chart(athlete_value)
-    .mark_bar(color="#2563eb")
-    .encode(
-        x=alt.X("total_value:Q",
-                axis=alt.Axis(format="~s")),
-        y=alt.Y("player_name:N", sort="-x"),
-        tooltip=[
-            "player_name",
-            alt.Tooltip("total_value:Q", format="$,.0f"),
-            "deal_count",
-            alt.Tooltip("avg_value:Q", format="$,.0f")
-        ]
-    )
-)
-
-value_labels = (
-    alt.Chart(athlete_value)
-    .mark_text(align="left", dx=4, color="white", fontWeight="bold")
-    .encode(
-        x="total_value:Q",
-        y=alt.Y("player_name:N", sort="-x"),
-        text=alt.Text("total_value:Q", format="$,.0f")
-    )
+value_bars = alt.Chart(athlete_value).mark_bar(color="#2563eb").encode(
+    x=alt.X("total_value:Q", axis=alt.Axis(format="~s")),
+    y=alt.Y("player_name:N", sort="-x"),
+    tooltip=[
+        "player_name",
+        alt.Tooltip("total_value:Q", format="$,.0f"),
+        "deal_count",
+        alt.Tooltip("avg_value:Q", format="$,.0f")
+    ]
 )
 
 with col2:
     st.subheader("Highest NIL Value (Reported $)")
-    st.altair_chart((value_bars + value_labels).properties(height=350),
-                     use_container_width=True)
+    st.caption("Athletes with the highest reported NIL value, based on average or total deal amounts disclosed.")
+    st.altair_chart(value_bars.properties(height=350), use_container_width=True)
 
 st.markdown("---")
 
-
-# ============================================================
-# SCHOOL-LEVEL NIL SUMMARY TABLE (DEDUPED)
-# ============================================================
+# --------------------------------------------
+# SCHOOL-LEVEL SUMMARY TABLE
+# --------------------------------------------
 st.header("School-Level NIL Summary")
-st.caption("Only schools with disclosed NIL athlete deals are shown.")
+st.caption("Aggregate school-level NIL totals for athletes with disclosed deal values, including market share and median deal size.")
 
-# Only deals with reported NIL values
 school_money = (
     filtered_dedupe
     .loc[filtered_dedupe["deal_value"].notnull()]
-    .groupby(
-        ["team_committed", "player_key"],
-        as_index=False
-    )
-    .agg(
-        deal_value=("deal_value", "max")  # defensive dedupe
-    )
+    .groupby(["team_committed", "player_key"], as_index=False)
+    .agg(deal_value=("deal_value", "max"))
 )
 
 if school_money.empty:
     st.warning("No reported NIL values available.")
 else:
-    # Aggregate to school level
     school_table = (
         school_money
         .groupby("team_committed")
@@ -433,7 +288,6 @@ else:
         .sort_values("total_value", ascending=False)
     )
 
-    # Market share calculations
     total_value = school_table["total_value"].sum()
     total_deals = school_table["deal_count"].sum()
 
@@ -450,11 +304,12 @@ else:
         }),
         use_container_width=True
     )
-st.markdown("---")
 
-st.success("Dashboard Build Complete")
+st.markdown("---")
 
 st.caption(
     "Values are deduplicated per athlete and unique NIL deal before aggregation. "
     "This prevents inflation from repeated reporting."
 )
+
+st.success("Dashboard Build Complete")
