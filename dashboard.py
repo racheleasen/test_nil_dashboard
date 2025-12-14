@@ -100,6 +100,7 @@ k1, k2, k3 = st.columns(3)
 k1.metric("Total NIL Deals", f"{len(filtered_df):,}")
 k2.metric("Schools", filtered_df["team_committed"].nunique())
 k3.metric("Athletes", filtered_df["player_key"].nunique())
+k3.metric("Avg. NIL Deal", filtered_df["deal_value"].nunique())
 
 # ============================================================
 # TOP SCHOOLS + TIME SERIES
